@@ -1,0 +1,5154 @@
+[
+{
+"name": "Rixos Hotels",
+"website_url": "https://www.rixos.com",
+"sector": "Hotels & resorts",
+"emirate": "Multiple",
+"id": "rixos-hotels"
+},
+{
+"name": "Swiss-Belhotel International",
+"website_url": "https://www.swiss-belhotel.com",
+"sector": "Hotels & resorts",
+"emirate": "Multiple",
+"id": "swiss-belhotel-international"
+},
+{
+"name": "M\u00f6venpick Hotels & Resorts",
+"website_url": "https://movenpick.com",
+"sector": "Hotels & resorts",
+"emirate": "Multiple",
+"id": "m-venpick-hotels-resorts"
+},
+{
+"name": "Wafi Group",
+"website_url": "https://www.wafi.com",
+"sector": "Hospitality, retail & real estate",
+"emirate": "Dubai",
+"id": "wafi-group"
+},
+{
+"name": "Al Islami Foods",
+"website_url": "https://www.alislami.ae",
+"sector": "Food manufacturing & distribution",
+"emirate": "Dubai",
+"id": "al-islami-foods"
+},
+{
+"name": "Al Rawabi Dairy Company",
+"website_url": "https://www.alrawabi.com",
+"sector": "Dairy & food manufacturing",
+"emirate": "Dubai",
+"id": "al-rawabi-dairy-company"
+},
+{
+"name": "IFFCO Group",
+"website_url": "https://www.iffco.com",
+"sector": "Food & consumer goods manufacturing",
+"emirate": "Sharjah",
+"id": "iffco-group"
+},
+{
+"name": "Masafi",
+"website_url": "https://www.masafi.com",
+"sector": "Beverages & food",
+"emirate": "Multiple",
+"id": "masafi"
+},
+{
+"name": "Bateel International",
+"website_url": "https://www.bateel.com",
+"sector": "Dates, cafes & restaurants",
+"emirate": "Multiple",
+"id": "bateel-international"
+},
+{
+"name": "JAFZA (Jebel Ali Free Zone)",
+"website_url": "https://www.jafza.ae",
+"sector": "Free zone",
+"emirate": "Dubai",
+"id": "jafza-jebel-ali-free-zone"
+},
+{
+"name": "Dubai Airport Free Zone (DAFZA)",
+"website_url": "https://www.dafz.ae",
+"sector": "Free zone",
+"emirate": "Dubai",
+"id": "dubai-airport-free-zone-dafza"
+},
+{
+"name": "Dubai Integrated Economic Zones Authority (DIEZ)",
+"website_url": "https://www.diez.ae",
+"sector": "Free zone authority",
+"emirate": "Dubai",
+"id": "dubai-integrated-economic-zones-authority-diez"
+},
+{
+"name": "Sharjah Airport International Free Zone (SAIF Zone)",
+"website_url": "https://www.saif-zone.com",
+"sector": "Free zone",
+"emirate": "Sharjah",
+"id": "sharjah-airport-international-free-zone-saif-zone"
+},
+{
+"name": "Hamriyah Free Zone Authority",
+"website_url": "https://www.hamriyahfreezone.com",
+"sector": "Free zone",
+"emirate": "Sharjah",
+"id": "hamriyah-free-zone-authority"
+},
+{
+"name": "Ajman Free Zone Authority",
+"website_url": "https://www.afza.gov.ae",
+"sector": "Free zone",
+"emirate": "Ajman",
+"id": "ajman-free-zone-authority"
+},
+{
+"name": "Fujairah Free Zone Authority",
+"website_url": "https://www.ffz.ae",
+"sector": "Free zone",
+"emirate": "Fujairah",
+"id": "fujairah-free-zone-authority"
+},
+{
+"name": "Umm Al Quwain Free Trade Zone",
+"website_url": "https://www.uaqftz.com",
+"sector": "Free zone",
+"emirate": "UAQ",
+"id": "umm-al-quwain-free-trade-zone"
+},
+{
+"name": "Meydan Free Zone",
+"website_url": "https://www.meydanfz.ae",
+"sector": "Free zone",
+"emirate": "Dubai",
+"id": "meydan-free-zone"
+},
+{
+"name": "Dubai Healthcare City Authority",
+"website_url": "https://www.dhcc.ae",
+"sector": "Healthcare free zone",
+"emirate": "Dubai",
+"id": "dubai-healthcare-city-authority"
+},
+{
+"name": "Sharjah Publishing City Free Zone",
+"website_url": "https://www.spcfz.com",
+"sector": "Free zone",
+"emirate": "Sharjah",
+"id": "sharjah-publishing-city-free-zone"
+},
+{
+"name": "Abu Dhabi Investment Office (ADIO)",
+"website_url": "https://www.adio.gov.ae",
+"sector": "Government investment promotion",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-investment-office-adio"
+},
+{
+"name": "Hub71",
+"website_url": "https://www.hub71.com",
+"sector": "Startup ecosystem",
+"emirate": "Abu Dhabi",
+"id": "hub71"
+},
+{
+"name": "Abu Dhabi Chamber of Commerce and Industry",
+"website_url": "https://www.abudhabichamber.ae",
+"sector": "Chamber of commerce",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-chamber-of-commerce-and-industry"
+},
+{
+"name": "Ports, Customs and Free Zone Corporation (PCFC)",
+"website_url": "https://www.pcfc.ae",
+"sector": "Ports and free zone authority",
+"emirate": "Dubai",
+"id": "ports-customs-and-free-zone-corporation-pcfc"
+},
+{
+"name": "Federal Authority for Identity, Citizenship, Customs and Port Security",
+"website_url": "https://icp.gov.ae",
+"sector": "Government",
+"emirate": "Multiple",
+"id": "federal-authority-for-identity-citizenship-customs-and-port-security"
+},
+{
+"name": "General Civil Aviation Authority (GCAA)",
+"website_url": "https://www.gcaa.gov.ae",
+"sector": "Aviation regulator",
+"emirate": "Multiple",
+"id": "general-civil-aviation-authority-gcaa"
+},
+{
+"name": "Sharjah Airport Authority",
+"website_url": "https://www.sharjahairport.ae",
+"sector": "Airport operator",
+"emirate": "Sharjah",
+"id": "sharjah-airport-authority"
+},
+{
+"name": "Gulftainer",
+"website_url": "https://www.gulftainer.com",
+"sector": "Ports and terminals",
+"emirate": "Sharjah",
+"id": "gulftainer"
+},
+{
+"name": "Port of Fujairah",
+"website_url": "https://www.fujairahport.ae",
+"sector": "Port",
+"emirate": "Fujairah",
+"id": "port-of-fujairah"
+},
+{
+"name": "Gulf Navigation Holding",
+"website_url": "https://www.gulfnav.com",
+"sector": "Shipping",
+"emirate": "Dubai",
+"id": "gulf-navigation-holding"
+},
+{
+"name": "Gulf Craft",
+"website_url": "https://www.gulfcraft.com",
+"sector": "Shipbuilding",
+"emirate": "UAQ",
+"id": "gulf-craft"
+},
+{
+"name": "Brooge Energy",
+"website_url": "https://www.broogepetroleum.com",
+"sector": "Oil storage and bunkering",
+"emirate": "Fujairah",
+"id": "brooge-energy"
+},
+{
+"name": "Gulf Petrochem Group",
+"website_url": "https://www.gulfpetrochem.com",
+"sector": "Oil trading and bunkering",
+"emirate": "Fujairah",
+"id": "gulf-petrochem-group"
+},
+{
+"name": "Wilhelmsen Ships Service",
+"website_url": "https://www.wilhelmsen.com",
+"sector": "Maritime services",
+"emirate": "Multiple",
+"id": "wilhelmsen-ships-service"
+},
+{
+"name": "COSCO Shipping Lines Middle East",
+"website_url": "https://www.coscoshipping.com",
+"sector": "Shipping",
+"emirate": "Dubai",
+"id": "cosco-shipping-lines-middle-east"
+},
+{
+"name": "Ocean Network Express (ONE)",
+"website_url": "https://www.one-line.com",
+"sector": "Shipping",
+"emirate": "Dubai",
+"id": "ocean-network-express-one"
+},
+{
+"name": "Evergreen Line UAE",
+"website_url": "https://www.evergreen-line.com",
+"sector": "Shipping",
+"emirate": "Dubai",
+"id": "evergreen-line-uae"
+},
+{
+"name": "Wallenius Wilhelmsen",
+"website_url": "https://www.walleniuswilhelmsen.com",
+"sector": "Ro-ro shipping",
+"emirate": "Dubai",
+"id": "wallenius-wilhelmsen"
+},
+{
+"name": "DB Schenker UAE",
+"website_url": "https://www.dbschenker.com",
+"sector": "Logistics",
+"emirate": "Dubai",
+"id": "db-schenker-uae"
+},
+{
+"name": "GEODIS UAE",
+"website_url": "https://geodis.com",
+"sector": "Logistics",
+"emirate": "Dubai",
+"id": "geodis-uae"
+},
+{
+"name": "UPS UAE",
+"website_url": "https://www.ups.com",
+"sector": "Express logistics",
+"emirate": "Dubai",
+"id": "ups-uae"
+},
+{
+"name": "Yusen Logistics UAE",
+"website_url": "https://www.yusen-logistics.com",
+"sector": "Logistics",
+"emirate": "Dubai",
+"id": "yusen-logistics-uae"
+},
+{
+"name": "Nippon Express UAE",
+"website_url": "https://www.nipponexpress.com",
+"sector": "Logistics",
+"emirate": "Dubai",
+"id": "nippon-express-uae"
+},
+{
+"name": "Kerry Logistics UAE",
+"website_url": "https://www.kerrylogistics.com",
+"sector": "Logistics",
+"emirate": "Dubai",
+"id": "kerry-logistics-uae"
+},
+{
+"name": "Rhenus Logistics UAE",
+"website_url": "https://www.rhenus.group",
+"sector": "Logistics",
+"emirate": "Dubai",
+"id": "rhenus-logistics-uae"
+},
+{
+"name": "Sinotrans UAE",
+"website_url": "https://www.sinotrans.com",
+"sector": "Logistics",
+"emirate": "Dubai",
+"id": "sinotrans-uae"
+},
+{
+"name": "Kintetsu World Express UAE",
+"website_url": "https://www.kwe.com",
+"sector": "Logistics",
+"emirate": "Dubai",
+"id": "kintetsu-world-express-uae"
+},
+{
+"name": "SF Express UAE",
+"website_url": "https://www.sf-express.com",
+"sector": "Express logistics",
+"emirate": "Dubai",
+"id": "sf-express-uae"
+},
+{
+"name": "Mammoet Middle East",
+"website_url": "https://www.mammoet.com",
+"sector": "Heavy lifting and transport",
+"emirate": "Multiple",
+"id": "mammoet-middle-east"
+},
+{
+"name": "Emirates Transport",
+"website_url": "https://www.et.ae",
+"sector": "Transport",
+"emirate": "Multiple",
+"id": "emirates-transport"
+},
+{
+"name": "Dubai Taxi Company",
+"website_url": "https://www.dubaitaxi.ae",
+"sector": "Transport",
+"emirate": "Dubai",
+"id": "dubai-taxi-company"
+},
+{
+"name": "Parkin Company",
+"website_url": "https://www.parkin.ae",
+"sector": "Parking operator",
+"emirate": "Dubai",
+"id": "parkin-company"
+},
+{
+"name": "Uber UAE",
+"website_url": "https://www.uber.com",
+"sector": "Ride hailing",
+"emirate": "Dubai",
+"id": "uber-uae"
+},
+{
+"name": "Menzies Aviation UAE",
+"website_url": "https://www.menzies.com",
+"sector": "Aviation ground handling",
+"emirate": "Dubai",
+"id": "menzies-aviation-uae"
+},
+{
+"name": "Swissport UAE",
+"website_url": "https://www.swissport.com",
+"sector": "Aviation ground handling",
+"emirate": "Dubai",
+"id": "swissport-uae"
+},
+{
+"name": "Sanad Aerotech",
+"website_url": "https://www.sanad.ae",
+"sector": "Aerospace MRO",
+"emirate": "Abu Dhabi",
+"id": "sanad-aerotech"
+},
+{
+"name": "Falcon Aviation",
+"website_url": "https://www.falconaviation.ae",
+"sector": "Aviation services",
+"emirate": "Abu Dhabi",
+"id": "falcon-aviation"
+},
+{
+"name": "Royal Jet",
+"website_url": "https://www.royaljetgroup.com",
+"sector": "Private aviation",
+"emirate": "Abu Dhabi",
+"id": "royal-jet"
+},
+{
+"name": "ExecuJet Middle East",
+"website_url": "https://www.execujet.com",
+"sector": "Business aviation",
+"emirate": "Dubai",
+"id": "execujet-middle-east"
+},
+{
+"name": "Etihad Aviation Training",
+"website_url": "https://www.etihadaviationtraining.com",
+"sector": "Aviation training",
+"emirate": "Abu Dhabi",
+"id": "etihad-aviation-training"
+},
+{
+"name": "Etihad Cargo",
+"website_url": "https://www.etihadcargo.com",
+"sector": "Air cargo",
+"emirate": "Abu Dhabi",
+"id": "etihad-cargo"
+},
+{
+"name": "Emirates SkyCargo",
+"website_url": "https://www.skycargo.com",
+"sector": "Air cargo",
+"emirate": "Dubai",
+"id": "emirates-skycargo"
+},
+{
+"name": "Qatar Airways UAE",
+"website_url": "https://www.qatarairways.com",
+"sector": "Airline",
+"emirate": "Multiple",
+"id": "qatar-airways-uae"
+},
+{
+"name": "British Airways UAE",
+"website_url": "https://www.britishairways.com",
+"sector": "Airline",
+"emirate": "Dubai",
+"id": "british-airways-uae"
+},
+{
+"name": "Lufthansa Group UAE",
+"website_url": "https://www.lufthansa.com",
+"sector": "Airline",
+"emirate": "Dubai",
+"id": "lufthansa-group-uae"
+},
+{
+"name": "Air India UAE",
+"website_url": "https://www.airindia.com",
+"sector": "Airline",
+"emirate": "Dubai",
+"id": "air-india-uae"
+},
+{
+"name": "IndiGo UAE",
+"website_url": "https://www.goindigo.in",
+"sector": "Airline",
+"emirate": "Dubai",
+"id": "indigo-uae"
+},
+{
+"name": "Cathay Pacific UAE",
+"website_url": "https://www.cathaypacific.com",
+"sector": "Airline",
+"emirate": "Dubai",
+"id": "cathay-pacific-uae"
+},
+{
+"name": "CAE Dubai",
+"website_url": "https://www.cae.com",
+"sector": "Aviation training",
+"emirate": "Dubai",
+"id": "cae-dubai"
+},
+{
+"name": "Gama Aviation",
+"website_url": "https://www.gamaaviation.com",
+"sector": "Business aviation",
+"emirate": "Dubai",
+"id": "gama-aviation"
+},
+{
+"name": "Dubai Industrial City",
+"website_url": "https://www.dubaiindustrialcity.ae",
+"sector": "Industrial free zone",
+"emirate": "Dubai",
+"id": "dubai-industrial-city"
+},
+{
+"name": "Dubai Design District (d3)",
+"website_url": "https://www.dubaidesigndistrict.com",
+"sector": "Creative free zone",
+"emirate": "Dubai",
+"id": "dubai-design-district-d3"
+},
+{
+"name": "Sharjah Research Technology and Innovation Park",
+"website_url": "https://www.srtip.ae",
+"sector": "Innovation park",
+"emirate": "Sharjah",
+"id": "sharjah-research-technology-and-innovation-park"
+},
+{
+"name": "Dubai Civil Aviation Authority",
+"website_url": "https://www.dcaa.gov.ae",
+"sector": "Aviation regulator",
+"emirate": "Dubai",
+"id": "dubai-civil-aviation-authority"
+},
+{
+"name": "Ajman Chamber of Commerce and Industry",
+"website_url": "https://www.ajmanchamber.ae",
+"sector": "Chamber of commerce",
+"emirate": "Ajman",
+"id": "ajman-chamber-of-commerce-and-industry"
+},
+{
+"name": "Salik Company",
+"website_url": "https://www.salik.ae",
+"sector": "Toll operator",
+"emirate": "Dubai",
+"id": "salik-company"
+},
+{
+"name": "Emirates Flight Catering",
+"website_url": "https://www.emiratesflightcatering.com",
+"sector": "Aviation catering",
+"emirate": "Dubai",
+"id": "emirates-flight-catering"
+},
+{
+"name": "Gate Gourmet UAE",
+"website_url": "https://www.gategroup.com",
+"sector": "Aviation catering",
+"emirate": "Dubai",
+"id": "gate-gourmet-uae"
+},
+{
+"name": "Inchcape Shipping Services",
+"website_url": "https://www.iss-shipping.com",
+"sector": "Maritime services",
+"emirate": "Multiple",
+"id": "inchcape-shipping-services"
+},
+{
+"name": "Dragon Oil",
+"website_url": "https://www.dragonoil.com",
+"sector": "Oil & gas",
+"emirate": "Dubai",
+"id": "dragon-oil"
+},
+{
+"name": "Empower (Emirates Central Cooling Systems)",
+"website_url": "https://www.empower.ae",
+"sector": "District cooling",
+"emirate": "Dubai",
+"id": "empower-emirates-central-cooling-systems"
+},
+{
+"name": "Federal Electricity and Water Authority (FEWA)",
+"website_url": "https://www.fewa.gov.ae",
+"sector": "Utilities",
+"emirate": "Multiple",
+"id": "federal-electricity-and-water-authority-fewa"
+},
+{
+"name": "Ministry of Energy and Infrastructure",
+"website_url": "https://www.moei.gov.ae",
+"sector": "Government energy",
+"emirate": "Multiple",
+"id": "ministry-of-energy-and-infrastructure"
+},
+{
+"name": "Etihad Water and Electricity",
+"website_url": "https://www.ewe.gov.ae",
+"sector": "Utilities",
+"emirate": "Multiple",
+"id": "etihad-water-and-electricity"
+},
+{
+"name": "Abu Dhabi Distribution Company (ADDC)",
+"website_url": "https://www.addc.ae",
+"sector": "Utilities",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-distribution-company-addc"
+},
+{
+"name": "Al Ain Distribution Company (AADC)",
+"website_url": "https://www.aadc.ae",
+"sector": "Utilities",
+"emirate": "Abu Dhabi",
+"id": "al-ain-distribution-company-aadc"
+},
+{
+"name": "Abu Dhabi Transmission and Despatch Company (TRANSCO)",
+"website_url": "https://www.transco.ae",
+"sector": "Utilities",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-transmission-and-despatch-company-transco"
+},
+{
+"name": "Dana Gas",
+"website_url": "https://www.danagas.com",
+"sector": "Oil & gas",
+"emirate": "Sharjah",
+"id": "dana-gas"
+},
+{
+"name": "Mubadala Energy",
+"website_url": "https://www.mubadalaenergy.com",
+"sector": "Oil & gas",
+"emirate": "Abu Dhabi",
+"id": "mubadala-energy"
+},
+{
+"name": "Crescent Petroleum",
+"website_url": "https://www.crescentpetroleum.com",
+"sector": "Oil & gas",
+"emirate": "Sharjah",
+"id": "crescent-petroleum"
+},
+{
+"name": "Emirates Petroleum Products Company (Emarat)",
+"website_url": "https://www.emarat.ae",
+"sector": "Fuel retail",
+"emirate": "Dubai",
+"id": "emirates-petroleum-products-company-emarat"
+},
+{
+"name": "bp",
+"website_url": "https://www.bp.com",
+"sector": "Oil & gas",
+"emirate": "Multiple",
+"id": "bp"
+},
+{
+"name": "Shell",
+"website_url": "https://www.shell.com",
+"sector": "Oil & gas",
+"emirate": "Multiple",
+"id": "shell"
+},
+{
+"name": "Occidental (Oxy)",
+"website_url": "https://www.oxy.com",
+"sector": "Oil & gas",
+"emirate": "Abu Dhabi",
+"id": "occidental-oxy"
+},
+{
+"name": "Eni",
+"website_url": "https://www.eni.com",
+"sector": "Oil & gas",
+"emirate": "Abu Dhabi",
+"id": "eni"
+},
+{
+"name": "OMV",
+"website_url": "https://www.omv.com",
+"sector": "Oil & gas",
+"emirate": "Abu Dhabi",
+"id": "omv"
+},
+{
+"name": "Saipem",
+"website_url": "https://www.saipem.com",
+"sector": "EPC / energy services",
+"emirate": "Multiple",
+"id": "saipem"
+},
+{
+"name": "Subsea7",
+"website_url": "https://www.subsea7.com",
+"sector": "Offshore EPC",
+"emirate": "Multiple",
+"id": "subsea7"
+},
+{
+"name": "McDermott",
+"website_url": "https://www.mcdermott.com",
+"sector": "EPC",
+"emirate": "Multiple",
+"id": "mcdermott"
+},
+{
+"name": "Oceaneering",
+"website_url": "https://www.oceaneering.com",
+"sector": "Energy services",
+"emirate": "Multiple",
+"id": "oceaneering"
+},
+{
+"name": "National Energy Services Reunited (NESR)",
+"website_url": "https://www.nesr.com",
+"sector": "Oilfield services",
+"emirate": "Multiple",
+"id": "national-energy-services-reunited-nesr"
+},
+{
+"name": "Expro",
+"website_url": "https://www.exprogroup.com",
+"sector": "Oilfield services",
+"emirate": "Multiple",
+"id": "expro"
+},
+{
+"name": "Shelf Drilling",
+"website_url": "https://www.shelfdrilling.com",
+"sector": "Offshore drilling",
+"emirate": "Dubai",
+"id": "shelf-drilling"
+},
+{
+"name": "Dodsal Group",
+"website_url": "https://www.dodsal.com",
+"sector": "EPC",
+"emirate": "Dubai",
+"id": "dodsal-group"
+},
+{
+"name": "Tecnicas Reunidas",
+"website_url": "https://www.tecnicasreunidas.es",
+"sector": "EPC",
+"emirate": "Abu Dhabi",
+"id": "tecnicas-reunidas"
+},
+{
+"name": "Penspen",
+"website_url": "https://www.penspen.com",
+"sector": "Energy engineering",
+"emirate": "Multiple",
+"id": "penspen"
+},
+{
+"name": "Bilfinger",
+"website_url": "https://www.bilfinger.com",
+"sector": "Industrial services",
+"emirate": "Multiple",
+"id": "bilfinger"
+},
+{
+"name": "Sulzer",
+"website_url": "https://www.sulzer.com",
+"sector": "Pumps & energy equipment",
+"emirate": "Multiple",
+"id": "sulzer"
+},
+{
+"name": "Wartsila",
+"website_url": "https://www.wartsila.com",
+"sector": "Power & marine engines",
+"emirate": "Multiple",
+"id": "wartsila"
+},
+{
+"name": "Hitachi Energy",
+"website_url": "https://www.hitachienergy.com",
+"sector": "Power grid",
+"emirate": "Multiple",
+"id": "hitachi-energy"
+},
+{
+"name": "GE Vernova",
+"website_url": "https://www.gevernova.com",
+"sector": "Power equipment",
+"emirate": "Multiple",
+"id": "ge-vernova"
+},
+{
+"name": "Emerson",
+"website_url": "https://www.emerson.com",
+"sector": "Automation",
+"emirate": "Multiple",
+"id": "emerson"
+},
+{
+"name": "Yokogawa",
+"website_url": "https://www.yokogawa.com",
+"sector": "Automation",
+"emirate": "Multiple",
+"id": "yokogawa"
+},
+{
+"name": "Aggreko",
+"website_url": "https://www.aggreko.com",
+"sector": "Power rental",
+"emirate": "Multiple",
+"id": "aggreko"
+},
+{
+"name": "Atlas Copco",
+"website_url": "https://www.atlascopco.com",
+"sector": "Industrial equipment",
+"emirate": "Multiple",
+"id": "atlas-copco"
+},
+{
+"name": "Sterling and Wilson",
+"website_url": "https://www.sterlingandwilson.com",
+"sector": "Solar EPC",
+"emirate": "Dubai",
+"id": "sterling-and-wilson"
+},
+{
+"name": "Tractebel",
+"website_url": "https://www.tractebel-engie.com",
+"sector": "Energy engineering",
+"emirate": "Multiple",
+"id": "tractebel"
+},
+{
+"name": "Black & Veatch",
+"website_url": "https://www.bv.com",
+"sector": "Energy engineering",
+"emirate": "Multiple",
+"id": "black-veatch"
+},
+{
+"name": "Burns & McDonnell",
+"website_url": "https://www.burnsmcd.com",
+"sector": "Energy engineering",
+"emirate": "Multiple",
+"id": "burns-mcdonnell"
+},
+{
+"name": "Hatch",
+"website_url": "https://www.hatch.com",
+"sector": "Engineering",
+"emirate": "Multiple",
+"id": "hatch"
+},
+{
+"name": "Fugro",
+"website_url": "https://www.fugro.com",
+"sector": "Geo-data / offshore",
+"emirate": "Multiple",
+"id": "fugro"
+},
+{
+"name": "Intertek",
+"website_url": "https://www.intertek.com",
+"sector": "Inspection & testing",
+"emirate": "Multiple",
+"id": "intertek"
+},
+{
+"name": "Bureau Veritas",
+"website_url": "https://www.bureauveritas.com",
+"sector": "Inspection & testing",
+"emirate": "Multiple",
+"id": "bureau-veritas"
+},
+{
+"name": "SGS",
+"website_url": "https://www.sgs.com",
+"sector": "Inspection & testing",
+"emirate": "Multiple",
+"id": "sgs"
+},
+{
+"name": "DNV",
+"website_url": "https://www.dnv.com",
+"sector": "Assurance",
+"emirate": "Multiple",
+"id": "dnv"
+},
+{
+"name": "Lloyd's Register",
+"website_url": "https://www.lr.org",
+"sector": "Assurance",
+"emirate": "Multiple",
+"id": "lloyd-s-register"
+},
+{
+"name": "Metito",
+"website_url": "https://www.metito.com",
+"sector": "Water treatment",
+"emirate": "Dubai",
+"id": "metito"
+},
+{
+"name": "Gulf Cryo",
+"website_url": "https://www.gulfcryo.com",
+"sector": "Industrial gases",
+"emirate": "Sharjah",
+"id": "gulf-cryo"
+},
+{
+"name": "Linde",
+"website_url": "https://www.linde.com",
+"sector": "Industrial gases",
+"emirate": "Multiple",
+"id": "linde"
+},
+{
+"name": "Air Liquide",
+"website_url": "https://www.airliquide.com",
+"sector": "Industrial gases",
+"emirate": "Multiple",
+"id": "air-liquide"
+},
+{
+"name": "AMEA Power",
+"website_url": "https://www.ameapower.com",
+"sector": "Renewables",
+"emirate": "Dubai",
+"id": "amea-power"
+},
+{
+"name": "Borealis",
+"website_url": "https://www.borealisgroup.com",
+"sector": "Petrochemicals",
+"emirate": "Abu Dhabi",
+"id": "borealis"
+},
+{
+"name": "Aker Solutions",
+"website_url": "https://www.akersolutions.com",
+"sector": "Energy services",
+"emirate": "Multiple",
+"id": "aker-solutions"
+},
+{
+"name": "Tenaris",
+"website_url": "https://www.tenaris.com",
+"sector": "Oil country tubulars",
+"emirate": "Multiple",
+"id": "tenaris"
+},
+{
+"name": "Vopak",
+"website_url": "https://www.vopak.com",
+"sector": "Oil storage",
+"emirate": "Multiple",
+"id": "vopak"
+},
+{
+"name": "Rockwell Automation",
+"website_url": "https://www.rockwellautomation.com",
+"sector": "Automation",
+"emirate": "Multiple",
+"id": "rockwell-automation"
+},
+{
+"name": "Weir Group",
+"website_url": "https://www.weir.com",
+"sector": "Mining & energy equipment",
+"emirate": "Multiple",
+"id": "weir-group"
+},
+{
+"name": "Flowserve",
+"website_url": "https://www.flowserve.com",
+"sector": "Flow control",
+"emirate": "Multiple",
+"id": "flowserve"
+},
+{
+"name": "Danfoss",
+"website_url": "https://www.danfoss.com",
+"sector": "Energy-efficiency equipment",
+"emirate": "Multiple",
+"id": "danfoss"
+},
+{
+"name": "Grundfos",
+"website_url": "https://www.grundfos.com",
+"sector": "Pumps & water",
+"emirate": "Multiple",
+"id": "grundfos"
+},
+{
+"name": "Eaton",
+"website_url": "https://www.eaton.com",
+"sector": "Power management",
+"emirate": "Multiple",
+"id": "eaton"
+},
+{
+"name": "Legrand",
+"website_url": "https://www.legrand.com",
+"sector": "Electrical equipment",
+"emirate": "Multiple",
+"id": "legrand"
+},
+{
+"name": "Sembcorp Industries",
+"website_url": "https://www.sembcorp.com",
+"sector": "Power & water",
+"emirate": "Multiple",
+"id": "sembcorp-industries"
+},
+{
+"name": "Thales Group UAE",
+"website_url": "https://www.thalesgroup.com",
+"sector": "Technology / Defence electronics",
+"emirate": "Abu Dhabi",
+"id": "thales-group-uae"
+},
+{
+"name": "Moro Hub",
+"website_url": "https://www.morohub.com",
+"sector": "Data centres / Cloud",
+"emirate": "Dubai",
+"id": "moro-hub"
+},
+{
+"name": "Injazat",
+"website_url": "https://www.injazat.com",
+"sector": "IT services / Cloud",
+"emirate": "Abu Dhabi",
+"id": "injazat"
+},
+{
+"name": "Digital14",
+"website_url": "https://www.digital14.com",
+"sector": "Cyber-security / Digital",
+"emirate": "Abu Dhabi",
+"id": "digital14"
+},
+{
+"name": "CPX",
+"website_url": "https://www.cpx.net",
+"sector": "Cyber-security",
+"emirate": "Abu Dhabi",
+"id": "cpx"
+},
+{
+"name": "Help AG",
+"website_url": "https://www.helpag.com",
+"sector": "Cyber-security",
+"emirate": "Dubai",
+"id": "help-ag"
+},
+{
+"name": "Gulf Business Machines (GBM)",
+"website_url": "https://www.gbm.ae",
+"sector": "IT services",
+"emirate": "Dubai",
+"id": "gulf-business-machines-gbm"
+},
+{
+"name": "Ingram Micro",
+"website_url": "https://www.ingrammicro.com",
+"sector": "IT distribution",
+"emirate": "Dubai",
+"id": "ingram-micro"
+},
+{
+"name": "Exclusive Networks",
+"website_url": "https://www.exclusive-networks.com",
+"sector": "IT / Cyber-security distribution",
+"emirate": "Dubai",
+"id": "exclusive-networks"
+},
+{
+"name": "TD Synnex",
+"website_url": "https://www.tdsynnex.com",
+"sector": "IT distribution",
+"emirate": "Dubai",
+"id": "td-synnex"
+},
+{
+"name": "Logicom",
+"website_url": "https://www.logicom.net",
+"sector": "IT distribution",
+"emirate": "Dubai",
+"id": "logicom"
+},
+{
+"name": "Logicalis",
+"website_url": "https://www.logicalis.com",
+"sector": "IT services",
+"emirate": "Dubai",
+"id": "logicalis"
+},
+{
+"name": "Emircom",
+"website_url": "https://www.emircom.com",
+"sector": "IT / Network integration",
+"emirate": "Dubai",
+"id": "emircom"
+},
+{
+"name": "Virgin Mobile UAE",
+"website_url": "https://www.virginmobile.ae",
+"sector": "Telecom",
+"emirate": "Dubai",
+"id": "virgin-mobile-uae"
+},
+{
+"name": "Thuraya",
+"website_url": "https://www.thuraya.com",
+"sector": "Satellite telecom",
+"emirate": "Dubai",
+"id": "thuraya"
+},
+{
+"name": "Space42",
+"website_url": "https://www.space42.ai",
+"sector": "Space / AI",
+"emirate": "Abu Dhabi",
+"id": "space42"
+},
+{
+"name": "Technology Innovation Institute (TII)",
+"website_url": "https://www.tii.ae",
+"sector": "Technology research",
+"emirate": "Abu Dhabi",
+"id": "technology-innovation-institute-tii"
+},
+{
+"name": "Telecommunications and Digital Government Regulatory Authority (TDRA)",
+"website_url": "https://tdra.gov.ae",
+"sector": "Telecom regulator",
+"emirate": "Multiple",
+"id": "telecommunications-and-digital-government-regulatory-authority-tdra"
+},
+{
+"name": "Emirates Identity Authority",
+"website_url": "https://www.emiratesid.ae",
+"sector": "Digital identity / Government",
+"emirate": "Multiple",
+"id": "emirates-identity-authority"
+},
+{
+"name": "Digital Dubai",
+"website_url": "https://www.digitaldubai.ae",
+"sector": "Government digital",
+"emirate": "Dubai",
+"id": "digital-dubai"
+},
+{
+"name": "SITA",
+"website_url": "https://www.sita.aero",
+"sector": "Aviation IT",
+"emirate": "Dubai",
+"id": "sita"
+},
+{
+"name": "Amadeus",
+"website_url": "https://amadeus.com",
+"sector": "Travel technology",
+"emirate": "Dubai",
+"id": "amadeus"
+},
+{
+"name": "Sabre",
+"website_url": "https://www.sabre.com",
+"sector": "Travel technology",
+"emirate": "Dubai",
+"id": "sabre"
+},
+{
+"name": "Broadcom (VMware)",
+"website_url": "https://www.broadcom.com",
+"sector": "Software / Semiconductors",
+"emirate": "Dubai",
+"id": "broadcom-vmware"
+},
+{
+"name": "HP Inc",
+"website_url": "https://www.hp.com",
+"sector": "Hardware / IT",
+"emirate": "Dubai",
+"id": "hp-inc"
+},
+{
+"name": "Intel",
+"website_url": "https://www.intel.com",
+"sector": "Semiconductors",
+"emirate": "Dubai",
+"id": "intel"
+},
+{
+"name": "Zoho",
+"website_url": "https://www.zoho.com",
+"sector": "Software",
+"emirate": "Dubai",
+"id": "zoho"
+},
+{
+"name": "NetApp",
+"website_url": "https://www.netapp.com",
+"sector": "Data storage",
+"emirate": "Dubai",
+"id": "netapp"
+},
+{
+"name": "DXC Technology",
+"website_url": "https://dxc.com",
+"sector": "IT services",
+"emirate": "Dubai",
+"id": "dxc-technology"
+},
+{
+"name": "OpenText",
+"website_url": "https://www.opentext.com",
+"sector": "Software",
+"emirate": "Dubai",
+"id": "opentext"
+},
+{
+"name": "Red Hat",
+"website_url": "https://www.redhat.com",
+"sector": "Software",
+"emirate": "Dubai",
+"id": "red-hat"
+},
+{
+"name": "Siemens",
+"website_url": "https://www.siemens.com",
+"sector": "Technology / Industrial",
+"emirate": "Multiple",
+"id": "siemens"
+},
+{
+"name": "Samsung Gulf Electronics",
+"website_url": "https://www.samsung.com",
+"sector": "Consumer electronics",
+"emirate": "Dubai",
+"id": "samsung-gulf-electronics"
+},
+{
+"name": "LG Electronics Gulf",
+"website_url": "https://www.lg.com",
+"sector": "Consumer electronics",
+"emirate": "Dubai",
+"id": "lg-electronics-gulf"
+},
+{
+"name": "Apple UAE",
+"website_url": "https://www.apple.com",
+"sector": "Consumer technology",
+"emirate": "Dubai",
+"id": "apple-uae"
+},
+{
+"name": "Motorola Solutions",
+"website_url": "https://www.motorolasolutions.com",
+"sector": "Communications technology",
+"emirate": "Dubai",
+"id": "motorola-solutions"
+},
+{
+"name": "Orange Business",
+"website_url": "https://www.orange-business.com",
+"sector": "IT / Telecom services",
+"emirate": "Dubai",
+"id": "orange-business"
+},
+{
+"name": "Dubizzle Group",
+"website_url": "https://www.dubizzlegroup.com",
+"sector": "Online classifieds",
+"emirate": "Dubai",
+"id": "dubizzle-group"
+},
+{
+"name": "Bayut (EMPG)",
+"website_url": "https://www.bayut.com",
+"sector": "Property portal",
+"emirate": "Dubai",
+"id": "bayut-empg"
+},
+{
+"name": "Swvl",
+"website_url": "https://www.swvl.com",
+"sector": "Mobility technology",
+"emirate": "Dubai",
+"id": "swvl"
+},
+{
+"name": "Magnati",
+"website_url": "https://www.magnati.com",
+"sector": "Payments technology",
+"emirate": "Abu Dhabi",
+"id": "magnati"
+},
+{
+"name": "STARZPLAY",
+"website_url": "https://www.starzplay.com",
+"sector": "Streaming / Media technology",
+"emirate": "Dubai",
+"id": "starzplay"
+},
+{
+"name": "Dentons",
+"website_url": "https://www.dentons.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "dentons"
+},
+{
+"name": "DLA Piper Middle East",
+"website_url": "https://www.dlapiper.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "dla-piper-middle-east"
+},
+{
+"name": "Hadef & Partners",
+"website_url": "https://www.hadefpartners.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "hadef-partners"
+},
+{
+"name": "Norton Rose Fulbright",
+"website_url": "https://www.nortonrosefulbright.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "norton-rose-fulbright"
+},
+{
+"name": "Latham & Watkins",
+"website_url": "https://www.lw.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "latham-watkins"
+},
+{
+"name": "Linklaters",
+"website_url": "https://www.linklaters.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "linklaters"
+},
+{
+"name": "A&O Shearman",
+"website_url": "https://www.aoshearman.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "a-o-shearman"
+},
+{
+"name": "Pinsent Masons",
+"website_url": "https://www.pinsentmasons.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "pinsent-masons"
+},
+{
+"name": "Eversheds Sutherland",
+"website_url": "https://www.eversheds-sutherland.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "eversheds-sutherland"
+},
+{
+"name": "Hogan Lovells",
+"website_url": "https://www.hoganlovells.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "hogan-lovells"
+},
+{
+"name": "White & Case",
+"website_url": "https://www.whitecase.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "white-case"
+},
+{
+"name": "Freshfields",
+"website_url": "https://www.freshfields.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "freshfields"
+},
+{
+"name": "Ashurst",
+"website_url": "https://www.ashurst.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "ashurst"
+},
+{
+"name": "Simmons & Simmons",
+"website_url": "https://www.simmons-simmons.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "simmons-simmons"
+},
+{
+"name": "Charles Russell Speechlys",
+"website_url": "https://www.charlesrussellspeechlys.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "charles-russell-speechlys"
+},
+{
+"name": "Squire Patton Boggs",
+"website_url": "https://www.squirepattonboggs.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "squire-patton-boggs"
+},
+{
+"name": "BSA Ahmad Bin Hezeem & Associates",
+"website_url": "https://www.bsabh.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "bsa-ahmad-bin-hezeem-associates"
+},
+{
+"name": "Gibson Dunn",
+"website_url": "https://www.gibsondunn.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "gibson-dunn"
+},
+{
+"name": "Mayer Brown",
+"website_url": "https://www.mayerbrown.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "mayer-brown"
+},
+{
+"name": "Reed Smith",
+"website_url": "https://www.reedsmith.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "reed-smith"
+},
+{
+"name": "K&L Gates",
+"website_url": "https://www.klgates.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "k-l-gates"
+},
+{
+"name": "Morgan Lewis",
+"website_url": "https://www.morganlewis.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "morgan-lewis"
+},
+{
+"name": "Bird & Bird",
+"website_url": "https://www.twobirds.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "bird-bird"
+},
+{
+"name": "CMS Middle East",
+"website_url": "https://cms.law",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "cms-middle-east"
+},
+{
+"name": "Stephenson Harwood",
+"website_url": "https://www.stephensonharwood.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "stephenson-harwood"
+},
+{
+"name": "Trowers & Hamlins",
+"website_url": "https://www.trowers.com",
+"sector": "Law firm",
+"emirate": "Dubai",
+"id": "trowers-hamlins"
+},
+{
+"name": "Strategy& Middle East",
+"website_url": "https://www.strategyand.pwc.com",
+"sector": "Management consulting",
+"emirate": "Dubai",
+"id": "strategy-middle-east"
+},
+{
+"name": "Gartner",
+"website_url": "https://www.gartner.com",
+"sector": "Research and advisory",
+"emirate": "Dubai",
+"id": "gartner"
+},
+{
+"name": "Ipsos",
+"website_url": "https://www.ipsos.com",
+"sector": "Market research",
+"emirate": "Dubai",
+"id": "ipsos"
+},
+{
+"name": "Kantar",
+"website_url": "https://www.kantar.com",
+"sector": "Market research",
+"emirate": "Dubai",
+"id": "kantar"
+},
+{
+"name": "YouGov",
+"website_url": "https://yougov.com",
+"sector": "Market research",
+"emirate": "Dubai",
+"id": "yougov"
+},
+{
+"name": "Nielsen",
+"website_url": "https://www.nielsen.com",
+"sector": "Market research",
+"emirate": "Dubai",
+"id": "nielsen"
+},
+{
+"name": "Frost & Sullivan",
+"website_url": "https://www.frost.com",
+"sector": "Research and advisory",
+"emirate": "Dubai",
+"id": "frost-sullivan"
+},
+{
+"name": "Dun & Bradstreet",
+"website_url": "https://www.dnb.com",
+"sector": "Business information",
+"emirate": "Dubai",
+"id": "dun-bradstreet"
+},
+{
+"name": "Capco",
+"website_url": "https://www.capco.com",
+"sector": "Financial services consulting",
+"emirate": "Dubai",
+"id": "capco"
+},
+{
+"name": "Booz Allen Hamilton",
+"website_url": "https://www.boozallen.com",
+"sector": "Management consulting",
+"emirate": "Abu Dhabi",
+"id": "booz-allen-hamilton"
+},
+{
+"name": "L.E.K. Consulting",
+"website_url": "https://www.lek.com",
+"sector": "Management consulting",
+"emirate": "Dubai",
+"id": "l-e-k-consulting"
+},
+{
+"name": "Simon-Kucher",
+"website_url": "https://www.simon-kucher.com",
+"sector": "Management consulting",
+"emirate": "Dubai",
+"id": "simon-kucher"
+},
+{
+"name": "Control Risks",
+"website_url": "https://www.controlrisks.com",
+"sector": "Risk consulting",
+"emirate": "Dubai",
+"id": "control-risks"
+},
+{
+"name": "Crawford & Company",
+"website_url": "https://www.crawfordandcompany.com",
+"sector": "Claims and loss adjusting",
+"emirate": "Dubai",
+"id": "crawford-company"
+},
+{
+"name": "Sedgwick",
+"website_url": "https://www.sedgwick.com",
+"sector": "Claims and loss adjusting",
+"emirate": "Dubai",
+"id": "sedgwick"
+},
+{
+"name": "McLarens",
+"website_url": "https://mclarens.com",
+"sector": "Loss adjusting",
+"emirate": "Dubai",
+"id": "mclarens"
+},
+{
+"name": "TUV SUD",
+"website_url": "https://www.tuvsud.com",
+"sector": "Inspection and certification",
+"emirate": "Multiple",
+"id": "tuv-sud"
+},
+{
+"name": "G4S",
+"website_url": "https://www.g4s.com",
+"sector": "Security services",
+"emirate": "Multiple",
+"id": "g4s"
+},
+{
+"name": "Foundever",
+"website_url": "https://foundever.com",
+"sector": "Business process outsourcing",
+"emirate": "Dubai",
+"id": "foundever"
+},
+{
+"name": "Publicis Groupe",
+"website_url": "https://www.publicisgroupe.com",
+"sector": "Advertising",
+"emirate": "Dubai",
+"id": "publicis-groupe"
+},
+{
+"name": "Omnicom Group",
+"website_url": "https://www.omnicomgroup.com",
+"sector": "Advertising",
+"emirate": "Dubai",
+"id": "omnicom-group"
+},
+{
+"name": "Havas",
+"website_url": "https://www.havas.com",
+"sector": "Advertising",
+"emirate": "Dubai",
+"id": "havas"
+},
+{
+"name": "Interpublic Group (IPG)",
+"website_url": "https://www.interpublic.com",
+"sector": "Advertising",
+"emirate": "Dubai",
+"id": "interpublic-group-ipg"
+},
+{
+"name": "Ogilvy",
+"website_url": "https://www.ogilvy.com",
+"sector": "Advertising",
+"emirate": "Dubai",
+"id": "ogilvy"
+},
+{
+"name": "McCann Worldgroup",
+"website_url": "https://www.mccannworldgroup.com",
+"sector": "Advertising",
+"emirate": "Dubai",
+"id": "mccann-worldgroup"
+},
+{
+"name": "TBWA Worldwide",
+"website_url": "https://www.tbwa.com",
+"sector": "Advertising",
+"emirate": "Dubai",
+"id": "tbwa-worldwide"
+},
+{
+"name": "BBDO",
+"website_url": "https://www.bbdo.com",
+"sector": "Advertising",
+"emirate": "Dubai",
+"id": "bbdo"
+},
+{
+"name": "Leo Burnett",
+"website_url": "https://www.leoburnett.com",
+"sector": "Advertising",
+"emirate": "Dubai",
+"id": "leo-burnett"
+},
+{
+"name": "Edelman",
+"website_url": "https://www.edelman.com",
+"sector": "Public relations",
+"emirate": "Dubai",
+"id": "edelman"
+},
+{
+"name": "Weber Shandwick",
+"website_url": "https://www.webershandwick.com",
+"sector": "Public relations",
+"emirate": "Dubai",
+"id": "weber-shandwick"
+},
+{
+"name": "FleishmanHillard",
+"website_url": "https://fleishmanhillard.com",
+"sector": "Public relations",
+"emirate": "Dubai",
+"id": "fleishmanhillard"
+},
+{
+"name": "Hill+Knowlton Strategies",
+"website_url": "https://www.hkstrategies.com",
+"sector": "Public relations",
+"emirate": "Dubai",
+"id": "hill-knowlton-strategies"
+},
+{
+"name": "Brunswick Group",
+"website_url": "https://www.brunswickgroup.com",
+"sector": "Corporate communications",
+"emirate": "Dubai",
+"id": "brunswick-group"
+},
+{
+"name": "Burson",
+"website_url": "https://www.bursonglobal.com",
+"sector": "Public relations",
+"emirate": "Dubai",
+"id": "burson"
+},
+{
+"name": "Ketchum",
+"website_url": "https://www.ketchum.com",
+"sector": "Public relations",
+"emirate": "Dubai",
+"id": "ketchum"
+},
+{
+"name": "APCO Worldwide",
+"website_url": "https://apcoworldwide.com",
+"sector": "Public affairs",
+"emirate": "Dubai",
+"id": "apco-worldwide"
+},
+{
+"name": "Gulf News",
+"website_url": "https://gulfnews.com",
+"sector": "Media",
+"emirate": "Dubai",
+"id": "gulf-news"
+},
+{
+"name": "Khaleej Times",
+"website_url": "https://www.khaleejtimes.com",
+"sector": "Media",
+"emirate": "Dubai",
+"id": "khaleej-times"
+},
+{
+"name": "Emirates News Agency (WAM)",
+"website_url": "https://www.wam.ae",
+"sector": "Media",
+"emirate": "Abu Dhabi",
+"id": "emirates-news-agency-wam"
+},
+{
+"name": "Sky News Arabia",
+"website_url": "https://www.skynewsarabia.com",
+"sector": "Media",
+"emirate": "Abu Dhabi",
+"id": "sky-news-arabia"
+},
+{
+"name": "Emarat Al Youm",
+"website_url": "https://www.emaratalyoum.com",
+"sector": "Media",
+"emirate": "Dubai",
+"id": "emarat-al-youm"
+},
+{
+"name": "Al Khaleej",
+"website_url": "https://www.alkhaleej.ae",
+"sector": "Media",
+"emirate": "Sharjah",
+"id": "al-khaleej"
+},
+{
+"name": "Warner Bros. Discovery",
+"website_url": "https://www.wbd.com",
+"sector": "Media",
+"emirate": "Abu Dhabi",
+"id": "warner-bros-discovery"
+},
+{
+"name": "ITP Media Group",
+"website_url": "https://www.itp.com",
+"sector": "Media and publishing",
+"emirate": "Dubai",
+"id": "itp-media-group"
+},
+{
+"name": "dmg events",
+"website_url": "https://www.dmgevents.com",
+"sector": "Events and exhibitions",
+"emirate": "Dubai",
+"id": "dmg-events"
+},
+{
+"name": "Messe Frankfurt Middle East",
+"website_url": "https://middle-east.messefrankfurt.com",
+"sector": "Events and exhibitions",
+"emirate": "Dubai",
+"id": "messe-frankfurt-middle-east"
+},
+{
+"name": "Clarion Events",
+"website_url": "https://www.clarionevents.com",
+"sector": "Events and exhibitions",
+"emirate": "Dubai",
+"id": "clarion-events"
+},
+{
+"name": "Sharjah Expo Centre",
+"website_url": "https://www.expo-centre.ae",
+"sector": "Events and exhibitions",
+"emirate": "Sharjah",
+"id": "sharjah-expo-centre"
+},
+{
+"name": "PICO International",
+"website_url": "https://www.picoglobal.com",
+"sector": "Events and exhibitions",
+"emirate": "Dubai",
+"id": "pico-international"
+},
+{
+"name": "Freeman",
+"website_url": "https://www.freeman.com",
+"sector": "Events and exhibitions",
+"emirate": "Dubai",
+"id": "freeman"
+},
+{
+"name": "Midal Cables",
+"website_url": "https://www.midalcables.com",
+"sector": "Cables manufacturing",
+"emirate": "Sharjah",
+"id": "midal-cables"
+},
+{
+"name": "Emirates Glass",
+"website_url": "https://www.emiratesglass.com",
+"sector": "Glass manufacturing",
+"emirate": "Dubai",
+"id": "emirates-glass"
+},
+{
+"name": "Abu Dhabi Ship Building (ADSB)",
+"website_url": "https://www.adsb.ae",
+"sector": "Shipbuilding",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-ship-building-adsb"
+},
+{
+"name": "Gulf Marine Services",
+"website_url": "https://www.gmsplc.com",
+"sector": "Offshore marine services",
+"emirate": "Abu Dhabi",
+"id": "gulf-marine-services"
+},
+{
+"name": "Senaat",
+"website_url": "https://www.senaat.ae",
+"sector": "Industrial holding",
+"emirate": "Abu Dhabi",
+"id": "senaat"
+},
+{
+"name": "Tawazun Council",
+"website_url": "https://www.tawazun.ae",
+"sector": "Defence procurement and industry",
+"emirate": "Abu Dhabi",
+"id": "tawazun-council"
+},
+{
+"name": "ADQ",
+"website_url": "https://www.adq.ae",
+"sector": "Sovereign holding",
+"emirate": "Abu Dhabi",
+"id": "adq"
+},
+{
+"name": "Alpha Dhabi Holding",
+"website_url": "https://www.alphadhabi.com",
+"sector": "Diversified holding",
+"emirate": "Abu Dhabi",
+"id": "alpha-dhabi-holding"
+},
+{
+"name": "Gargash Enterprises",
+"website_url": "https://www.gargash.com",
+"sector": "Automotive dealer",
+"emirate": "Dubai",
+"id": "gargash-enterprises"
+},
+{
+"name": "Kaloti Jewellery International",
+"website_url": "https://www.kaloti.com",
+"sector": "Precious metals refining",
+"emirate": "Dubai",
+"id": "kaloti-jewellery-international"
+},
+{
+"name": "Emirates Gold",
+"website_url": "https://www.emiratesgold.ae",
+"sector": "Gold refining",
+"emirate": "Dubai",
+"id": "emirates-gold"
+},
+{
+"name": "Emarat",
+"website_url": "https://www.emarat.ae",
+"sector": "Fuel retail and distribution",
+"emirate": "Multiple",
+"id": "emarat"
+},
+{
+"name": "Ajmal Perfumes",
+"website_url": "https://www.ajmalperfume.com",
+"sector": "Fragrance manufacturing and retail",
+"emirate": "Multiple",
+"id": "ajmal-perfumes"
+},
+{
+"name": "Rasasi Perfumes",
+"website_url": "https://www.rasasi.com",
+"sector": "Fragrance manufacturing",
+"emirate": "Dubai",
+"id": "rasasi-perfumes"
+},
+{
+"name": "Hotpack Global",
+"website_url": "https://www.hotpackglobal.com",
+"sector": "Packaging manufacturing",
+"emirate": "Sharjah",
+"id": "hotpack-global"
+},
+{
+"name": "Alstom",
+"website_url": "https://www.alstom.com",
+"sector": "Rail and mobility manufacturing",
+"emirate": "Multiple",
+"id": "alstom"
+},
+{
+"name": "Trane Technologies",
+"website_url": "https://www.trane.com",
+"sector": "HVAC manufacturing",
+"emirate": "Multiple",
+"id": "trane-technologies"
+},
+{
+"name": "Bosch",
+"website_url": "https://www.bosch.com",
+"sector": "Industrial and consumer goods",
+"emirate": "Multiple",
+"id": "bosch"
+},
+{
+"name": "Cargill",
+"website_url": "https://www.cargill.com",
+"sector": "Food and agri-commodities",
+"emirate": "Multiple",
+"id": "cargill"
+},
+{
+"name": "Olam Agri",
+"website_url": "https://www.olamgroup.com",
+"sector": "Agri-commodities",
+"emirate": "Multiple",
+"id": "olam-agri"
+},
+{
+"name": "Kraft Heinz",
+"website_url": "https://www.kraftheinzcompany.com",
+"sector": "Food and beverage",
+"emirate": "Multiple",
+"id": "kraft-heinz"
+},
+{
+"name": "Kellanova",
+"website_url": "https://www.kellanova.com",
+"sector": "Food manufacturing",
+"emirate": "Multiple",
+"id": "kellanova"
+},
+{
+"name": "Tetra Pak",
+"website_url": "https://www.tetrapak.com",
+"sector": "Food packaging",
+"emirate": "Multiple",
+"id": "tetra-pak"
+},
+{
+"name": "Michelin",
+"website_url": "https://www.michelin.com",
+"sector": "Tyre manufacturing",
+"emirate": "Multiple",
+"id": "michelin"
+},
+{
+"name": "Bridgestone",
+"website_url": "https://www.bridgestone.com",
+"sector": "Tyre manufacturing",
+"emirate": "Multiple",
+"id": "bridgestone"
+},
+{
+"name": "Volvo Group",
+"website_url": "https://www.volvogroup.com",
+"sector": "Trucks and heavy equipment",
+"emirate": "Multiple",
+"id": "volvo-group"
+},
+{
+"name": "Komatsu",
+"website_url": "https://www.komatsu.com",
+"sector": "Heavy equipment",
+"emirate": "Multiple",
+"id": "komatsu"
+},
+{
+"name": "Hitachi",
+"website_url": "https://www.hitachi.com",
+"sector": "Industrial technology",
+"emirate": "Multiple",
+"id": "hitachi"
+},
+{
+"name": "Philip Morris International",
+"website_url": "https://www.pmi.com",
+"sector": "Tobacco and FMCG",
+"emirate": "Dubai",
+"id": "philip-morris-international"
+},
+{
+"name": "Japan Tobacco International",
+"website_url": "https://www.jti.com",
+"sector": "Tobacco and FMCG",
+"emirate": "Dubai",
+"id": "japan-tobacco-international"
+},
+{
+"name": "British American Tobacco",
+"website_url": "https://www.bat.com",
+"sector": "Tobacco and FMCG",
+"emirate": "Dubai",
+"id": "british-american-tobacco"
+},
+{
+"name": "Diageo",
+"website_url": "https://www.diageo.com",
+"sector": "Beverages",
+"emirate": "Dubai",
+"id": "diageo"
+},
+{
+"name": "Haleon",
+"website_url": "https://www.haleon.com",
+"sector": "Consumer health FMCG",
+"emirate": "Dubai",
+"id": "haleon"
+},
+{
+"name": "Beiersdorf",
+"website_url": "https://www.beiersdorf.com",
+"sector": "Personal care FMCG",
+"emirate": "Dubai",
+"id": "beiersdorf"
+},
+{
+"name": "Estee Lauder Companies",
+"website_url": "https://www.elcompanies.com",
+"sector": "Beauty FMCG",
+"emirate": "Dubai",
+"id": "estee-lauder-companies"
+},
+{
+"name": "Coty",
+"website_url": "https://www.coty.com",
+"sector": "Beauty FMCG",
+"emirate": "Dubai",
+"id": "coty"
+},
+{
+"name": "Heineken",
+"website_url": "https://www.heineken.com",
+"sector": "Beverages",
+"emirate": "Dubai",
+"id": "heineken"
+},
+{
+"name": "Red Bull",
+"website_url": "https://www.redbull.com",
+"sector": "Beverages",
+"emirate": "Dubai",
+"id": "red-bull"
+},
+{
+"name": "Al Masaood Group",
+"website_url": "https://www.almasaood.ae",
+"sector": "Diversified conglomerate",
+"emirate": "Abu Dhabi",
+"id": "al-masaood-group"
+},
+{
+"name": "Ali & Sons",
+"website_url": "https://www.aliandsons.com",
+"sector": "Automotive / retail",
+"emirate": "Dubai",
+"id": "ali-sons"
+},
+{
+"name": "Al Tayer Motors",
+"website_url": "https://www.altayermotors.com",
+"sector": "Automotive",
+"emirate": "Dubai",
+"id": "al-tayer-motors"
+},
+{
+"name": "Bin Hendi Group",
+"website_url": "https://www.binhendi.com",
+"sector": "Diversified conglomerate",
+"emirate": "Dubai",
+"id": "bin-hendi-group"
+},
+{
+"name": "Al Ghurair Foods",
+"website_url": "https://www.alghurairfoods.com",
+"sector": "Food manufacturing",
+"emirate": "Dubai",
+"id": "al-ghurair-foods"
+},
+{
+"name": "Al Rawabi Dairy",
+"website_url": "https://www.alrawabi.com",
+"sector": "Dairy / food",
+"emirate": "Dubai",
+"id": "al-rawabi-dairy"
+},
+{
+"name": "Jacky's Electronics",
+"website_url": "https://www.jackys.com",
+"sector": "Consumer electronics retail",
+"emirate": "Dubai",
+"id": "jacky-s-electronics"
+},
+{
+"name": "Carrefour UAE",
+"website_url": "https://www.carrefouruae.com",
+"sector": "Retail / hypermarkets",
+"emirate": "Multiple",
+"id": "carrefour-uae"
+},
+{
+"name": "VOX Cinemas",
+"website_url": "https://uae.voxcinemas.com",
+"sector": "Entertainment / cinemas",
+"emirate": "Multiple",
+"id": "vox-cinemas"
+},
+{
+"name": "Al Fardan Exchange",
+"website_url": "https://www.alfardanexchange.com",
+"sector": "Financial services / exchange",
+"emirate": "Multiple",
+"id": "al-fardan-exchange"
+},
+{
+"name": "Al Hilal Bank",
+"website_url": "https://www.alhilalbank.ae",
+"sector": "Banking",
+"emirate": "Abu Dhabi",
+"id": "al-hilal-bank"
+},
+{
+"name": "Al Masraf",
+"website_url": "https://www.almasraf.ae",
+"sector": "Banking",
+"emirate": "Abu Dhabi",
+"id": "al-masraf"
+},
+{
+"name": "Ahmed Seddiqi & Sons",
+"website_url": "https://www.seddiqi.com",
+"sector": "Luxury watch retail",
+"emirate": "Dubai",
+"id": "ahmed-seddiqi-sons"
+},
+{
+"name": "EPPCO (Emirates Petroleum Products Company)",
+"website_url": "https://www.eppco.ae",
+"sector": "Fuel retail",
+"emirate": "Dubai",
+"id": "eppco-emirates-petroleum-products-company"
+},
+{
+"name": "Emarat (Emirates General Petroleum Corporation)",
+"website_url": "https://www.emarat.ae",
+"sector": "Fuel retail / energy",
+"emirate": "Multiple",
+"id": "emarat-emirates-general-petroleum-corporation"
+},
+{
+"name": "RAK Hospital",
+"website_url": "https://www.rakhospital.com",
+"sector": "Healthcare",
+"emirate": "RAK",
+"id": "rak-hospital"
+},
+{
+"name": "Uber",
+"website_url": "https://www.uber.com",
+"sector": "Technology / Mobility",
+"emirate": "Dubai",
+"id": "uber"
+},
+{
+"name": "Tesla",
+"website_url": "https://www.tesla.com",
+"sector": "Automotive",
+"emirate": "Dubai",
+"id": "tesla"
+},
+{
+"name": "Qualcomm",
+"website_url": "https://www.qualcomm.com",
+"sector": "Technology",
+"emirate": "Dubai",
+"id": "qualcomm"
+},
+{
+"name": "NVIDIA",
+"website_url": "https://www.nvidia.com",
+"sector": "Technology",
+"emirate": "Dubai",
+"id": "nvidia"
+},
+{
+"name": "AMD",
+"website_url": "https://www.amd.com",
+"sector": "Technology",
+"emirate": "Dubai",
+"id": "amd"
+},
+{
+"name": "Workday",
+"website_url": "https://www.workday.com",
+"sector": "Technology",
+"emirate": "Dubai",
+"id": "workday"
+},
+{
+"name": "Palantir",
+"website_url": "https://www.palantir.com",
+"sector": "Technology",
+"emirate": "Abu Dhabi",
+"id": "palantir"
+},
+{
+"name": "Booking.com",
+"website_url": "https://www.booking.com",
+"sector": "Travel Technology",
+"emirate": "Dubai",
+"id": "booking-com"
+},
+{
+"name": "Expedia Group",
+"website_url": "https://www.expediagroup.com",
+"sector": "Travel Technology",
+"emirate": "Dubai",
+"id": "expedia-group"
+},
+{
+"name": "TikTok",
+"website_url": "https://www.tiktok.com",
+"sector": "Technology / Media",
+"emirate": "Dubai",
+"id": "tiktok"
+},
+{
+"name": "LinkedIn",
+"website_url": "https://www.linkedin.com",
+"sector": "Technology",
+"emirate": "Dubai",
+"id": "linkedin"
+},
+{
+"name": "Check Point Software",
+"website_url": "https://www.checkpoint.com",
+"sector": "Cybersecurity",
+"emirate": "Dubai",
+"id": "check-point-software"
+},
+{
+"name": "Trend Micro",
+"website_url": "https://www.trendmicro.com",
+"sector": "Cybersecurity",
+"emirate": "Dubai",
+"id": "trend-micro"
+},
+{
+"name": "Kaspersky",
+"website_url": "https://www.kaspersky.com",
+"sector": "Cybersecurity",
+"emirate": "Dubai",
+"id": "kaspersky"
+},
+{
+"name": "Samsung Electronics",
+"website_url": "https://www.samsung.com",
+"sector": "Consumer Electronics",
+"emirate": "Dubai",
+"id": "samsung-electronics"
+},
+{
+"name": "LG Electronics",
+"website_url": "https://www.lg.com",
+"sector": "Consumer Electronics",
+"emirate": "Dubai",
+"id": "lg-electronics"
+},
+{
+"name": "Sony",
+"website_url": "https://www.sony.com",
+"sector": "Consumer Electronics",
+"emirate": "Dubai",
+"id": "sony"
+},
+{
+"name": "Apple",
+"website_url": "https://www.apple.com",
+"sector": "Technology / Retail",
+"emirate": "Dubai",
+"id": "apple"
+},
+{
+"name": "Daikin",
+"website_url": "https://www.daikin.com",
+"sector": "HVAC / Industrial",
+"emirate": "Dubai",
+"id": "daikin"
+},
+{
+"name": "Mitsubishi Electric",
+"website_url": "https://www.mitsubishielectric.com",
+"sector": "Industrial",
+"emirate": "Dubai",
+"id": "mitsubishi-electric"
+},
+{
+"name": "3M",
+"website_url": "https://www.3m.com",
+"sector": "Industrial / Consumer",
+"emirate": "Dubai",
+"id": "3m"
+},
+{
+"name": "DuPont",
+"website_url": "https://www.dupont.com",
+"sector": "Chemicals",
+"emirate": "Dubai",
+"id": "dupont"
+},
+{
+"name": "Sika",
+"website_url": "https://www.sika.com",
+"sector": "Construction Chemicals",
+"emirate": "Dubai",
+"id": "sika"
+},
+{
+"name": "Hilti",
+"website_url": "https://www.hilti.com",
+"sector": "Construction Tools",
+"emirate": "Dubai",
+"id": "hilti"
+},
+{
+"name": "Sandoz",
+"website_url": "https://www.sandoz.com",
+"sector": "Pharmaceuticals",
+"emirate": "Dubai",
+"id": "sandoz"
+},
+{
+"name": "Kenvue",
+"website_url": "https://www.kenvue.com",
+"sector": "Consumer Health",
+"emirate": "Dubai",
+"id": "kenvue"
+},
+{
+"name": "adidas",
+"website_url": "https://www.adidas-group.com",
+"sector": "Sportswear",
+"emirate": "Dubai",
+"id": "adidas"
+},
+{
+"name": "BMW Group",
+"website_url": "https://www.bmwgroup.com",
+"sector": "Automotive",
+"emirate": "Dubai",
+"id": "bmw-group"
+},
+{
+"name": "Ford Motor Company",
+"website_url": "https://www.ford.com",
+"sector": "Automotive",
+"emirate": "Dubai",
+"id": "ford-motor-company"
+},
+{
+"name": "General Motors",
+"website_url": "https://www.gm.com",
+"sector": "Automotive",
+"emirate": "Dubai",
+"id": "general-motors"
+},
+{
+"name": "Goodyear",
+"website_url": "https://www.goodyear.com",
+"sector": "Tyres / Automotive",
+"emirate": "Dubai",
+"id": "goodyear"
+},
+{
+"name": "Securitas",
+"website_url": "https://www.securitas.com",
+"sector": "Security Services",
+"emirate": "Dubai",
+"id": "securitas"
+},
+{
+"name": "Hertz",
+"website_url": "https://www.hertz.com",
+"sector": "Car Rental",
+"emirate": "Dubai",
+"id": "hertz"
+},
+{
+"name": "Avis Budget Group",
+"website_url": "https://www.avisbudgetgroup.com",
+"sector": "Car Rental",
+"emirate": "Dubai",
+"id": "avis-budget-group"
+},
+{
+"name": "UPS",
+"website_url": "https://www.ups.com",
+"sector": "Logistics",
+"emirate": "Dubai",
+"id": "ups"
+},
+{
+"name": "Fiserv",
+"website_url": "https://www.fiserv.com",
+"sector": "Financial Technology",
+"emirate": "Dubai",
+"id": "fiserv"
+},
+{
+"name": "FIS",
+"website_url": "https://www.fisglobal.com",
+"sector": "Financial Technology",
+"emirate": "Dubai",
+"id": "fis"
+},
+{
+"name": "UBS",
+"website_url": "https://www.ubs.com",
+"sector": "Banking",
+"emirate": "Dubai",
+"id": "ubs"
+},
+{
+"name": "Generali",
+"website_url": "https://www.generali.com",
+"sector": "Insurance",
+"emirate": "Dubai",
+"id": "generali"
+},
+{
+"name": "Swiss Re",
+"website_url": "https://www.swissre.com",
+"sector": "Reinsurance",
+"emirate": "Dubai",
+"id": "swiss-re"
+},
+{
+"name": "Munich Re",
+"website_url": "https://www.munichre.com",
+"sector": "Reinsurance",
+"emirate": "Dubai",
+"id": "munich-re"
+},
+{
+"name": "ExxonMobil",
+"website_url": "https://corporate.exxonmobil.com",
+"sector": "Oil & Gas",
+"emirate": "Abu Dhabi",
+"id": "exxonmobil"
+},
+{
+"name": "Chevron",
+"website_url": "https://www.chevron.com",
+"sector": "Oil & Gas",
+"emirate": "Dubai",
+"id": "chevron"
+},
+{
+"name": "Hempel",
+"website_url": "https://www.hempel.com",
+"sector": "Coatings",
+"emirate": "Dubai",
+"id": "hempel"
+},
+{
+"name": "Mitsubishi Heavy Industries",
+"website_url": "https://www.mhi.com",
+"sector": "Industrial",
+"emirate": "Dubai",
+"id": "mitsubishi-heavy-industries"
+},
+{
+"name": "Reel Cinemas",
+"website_url": "https://www.reelcinemas.com",
+"sector": "Cinemas",
+"emirate": "Multiple",
+"id": "reel-cinemas"
+},
+{
+"name": "Novo Cinemas",
+"website_url": "https://www.novocinemas.com",
+"sector": "Cinemas",
+"emirate": "Multiple",
+"id": "novo-cinemas"
+},
+{
+"name": "Roxy Cinemas",
+"website_url": "https://www.roxycinemas.com",
+"sector": "Cinemas",
+"emirate": "Multiple",
+"id": "roxy-cinemas"
+},
+{
+"name": "Grand Cinemas (Gulf Film)",
+"website_url": "https://www.grandcinemas.com",
+"sector": "Cinemas",
+"emirate": "Multiple",
+"id": "grand-cinemas-gulf-film"
+},
+{
+"name": "Meydan",
+"website_url": "https://www.meydan.ae",
+"sector": "Racing and leisure",
+"emirate": "Dubai",
+"id": "meydan"
+},
+{
+"name": "Dubai Racing Club",
+"website_url": "https://www.dubairacingclub.com",
+"sector": "Sports and racing",
+"emirate": "Dubai",
+"id": "dubai-racing-club"
+},
+{
+"name": "Dubai Golf",
+"website_url": "https://www.dubaigolf.com",
+"sector": "Golf and leisure",
+"emirate": "Dubai",
+"id": "dubai-golf"
+},
+{
+"name": "GymNation",
+"website_url": "https://www.gymnation.com",
+"sector": "Fitness",
+"emirate": "Multiple",
+"id": "gymnation"
+},
+{
+"name": "Al Ain Zoo",
+"website_url": "https://www.alainzoo.ae",
+"sector": "Zoo and tourism attraction",
+"emirate": "Abu Dhabi",
+"id": "al-ain-zoo"
+},
+{
+"name": "Sheikh Zayed Grand Mosque Centre",
+"website_url": "https://www.szgmc.gov.ae",
+"sector": "Tourism and culture",
+"emirate": "Abu Dhabi",
+"id": "sheikh-zayed-grand-mosque-centre"
+},
+{
+"name": "Sharjah Museums Authority",
+"website_url": "https://www.sma.shj.ae",
+"sector": "Museums and culture",
+"emirate": "Sharjah",
+"id": "sharjah-museums-authority"
+},
+{
+"name": "Flash Entertainment",
+"website_url": "https://www.flashentertainment.com",
+"sector": "Entertainment and events",
+"emirate": "Abu Dhabi",
+"id": "flash-entertainment"
+},
+{
+"name": "Platinumlist",
+"website_url": "https://platinumlist.net",
+"sector": "Ticketing and entertainment",
+"emirate": "Dubai",
+"id": "platinumlist"
+},
+{
+"name": "Big Bus Tours",
+"website_url": "https://www.bigbustours.com",
+"sector": "Tourism",
+"emirate": "Dubai",
+"id": "big-bus-tours"
+},
+{
+"name": "Cozmo Travel",
+"website_url": "https://www.cozmotravel.com",
+"sector": "Travel",
+"emirate": "Dubai",
+"id": "cozmo-travel"
+},
+{
+"name": "Cleartrip UAE",
+"website_url": "https://www.cleartrip.ae",
+"sector": "Online travel",
+"emirate": "Dubai",
+"id": "cleartrip-uae"
+},
+{
+"name": "Wego",
+"website_url": "https://www.wego.com",
+"sector": "Online travel",
+"emirate": "Dubai",
+"id": "wego"
+},
+{
+"name": "Musafir.com",
+"website_url": "https://www.musafir.com",
+"sector": "Online travel",
+"emirate": "Dubai",
+"id": "musafir-com"
+},
+{
+"name": "Jumeirah Golf Estates",
+"website_url": "https://www.jumeirahgolfestates.com",
+"sector": "Golf and leisure",
+"emirate": "Dubai",
+"id": "jumeirah-golf-estates"
+},
+{
+"name": "Rove Hotels",
+"website_url": "https://www.rovehotels.com",
+"sector": "Hospitality",
+"emirate": "Dubai",
+"id": "rove-hotels"
+},
+{
+"name": "Movenpick Hotels & Resorts",
+"website_url": "https://movenpick.accor.com",
+"sector": "Hospitality",
+"emirate": "Multiple",
+"id": "movenpick-hotels-resorts"
+},
+{
+"name": "Ministry of Interior",
+"website_url": "https://www.moi.gov.ae",
+"sector": "Federal government",
+"emirate": "Multiple",
+"id": "ministry-of-interior"
+},
+{
+"name": "Ministry of Defence",
+"website_url": "https://www.mod.gov.ae",
+"sector": "Federal government",
+"emirate": "Multiple",
+"id": "ministry-of-defence"
+},
+{
+"name": "Ministry of Education",
+"website_url": "https://www.moe.gov.ae",
+"sector": "Federal government - education",
+"emirate": "Multiple",
+"id": "ministry-of-education"
+},
+{
+"name": "Ministry of Health and Prevention",
+"website_url": "https://mohap.gov.ae",
+"sector": "Federal government - health",
+"emirate": "Multiple",
+"id": "ministry-of-health-and-prevention"
+},
+{
+"name": "Ministry of Finance",
+"website_url": "https://mof.gov.ae",
+"sector": "Federal government",
+"emirate": "Dubai",
+"id": "ministry-of-finance"
+},
+{
+"name": "Ministry of Foreign Affairs",
+"website_url": "https://www.mofa.gov.ae",
+"sector": "Federal government",
+"emirate": "Abu Dhabi",
+"id": "ministry-of-foreign-affairs"
+},
+{
+"name": "Ministry of Justice",
+"website_url": "https://www.moj.gov.ae",
+"sector": "Federal government - justice",
+"emirate": "Multiple",
+"id": "ministry-of-justice"
+},
+{
+"name": "Ministry of Climate Change and Environment",
+"website_url": "https://www.moccae.gov.ae",
+"sector": "Federal government",
+"emirate": "Dubai",
+"id": "ministry-of-climate-change-and-environment"
+},
+{
+"name": "Ministry of Economy",
+"website_url": "https://www.moec.gov.ae",
+"sector": "Federal government",
+"emirate": "Dubai",
+"id": "ministry-of-economy"
+},
+{
+"name": "Ministry of Industry and Advanced Technology",
+"website_url": "https://moiat.gov.ae",
+"sector": "Federal government",
+"emirate": "Abu Dhabi",
+"id": "ministry-of-industry-and-advanced-technology"
+},
+{
+"name": "Ministry of Higher Education and Scientific Research",
+"website_url": "https://www.mohesr.gov.ae",
+"sector": "Federal government - education",
+"emirate": "Multiple",
+"id": "ministry-of-higher-education-and-scientific-research"
+},
+{
+"name": "Federal Tax Authority",
+"website_url": "https://tax.gov.ae",
+"sector": "Federal government - tax",
+"emirate": "Multiple",
+"id": "federal-tax-authority"
+},
+{
+"name": "General Civil Aviation Authority",
+"website_url": "https://www.gcaa.gov.ae",
+"sector": "Aviation regulator",
+"emirate": "Multiple",
+"id": "general-civil-aviation-authority"
+},
+{
+"name": "Telecommunications and Digital Government Regulatory Authority",
+"website_url": "https://tdra.gov.ae",
+"sector": "Telecom regulator",
+"emirate": "Multiple",
+"id": "telecommunications-and-digital-government-regulatory-authority"
+},
+{
+"name": "Emirates Health Services",
+"website_url": "https://www.ehs.gov.ae",
+"sector": "Public healthcare",
+"emirate": "Multiple",
+"id": "emirates-health-services"
+},
+{
+"name": "Emirates Schools Establishment",
+"website_url": "https://ese.gov.ae",
+"sector": "Public education",
+"emirate": "Multiple",
+"id": "emirates-schools-establishment"
+},
+{
+"name": "Federal Electricity and Water Authority",
+"website_url": "https://www.fewa.gov.ae",
+"sector": "Utilities",
+"emirate": "Multiple",
+"id": "federal-electricity-and-water-authority"
+},
+{
+"name": "Emirates Development Bank",
+"website_url": "https://www.edb.gov.ae",
+"sector": "Development finance",
+"emirate": "Multiple",
+"id": "emirates-development-bank"
+},
+{
+"name": "National Emergency Crisis and Disaster Management Authority",
+"website_url": "https://www.ncema.gov.ae",
+"sector": "Emergency management",
+"emirate": "Abu Dhabi",
+"id": "national-emergency-crisis-and-disaster-management-authority"
+},
+{
+"name": "Federal Competitiveness and Statistics Centre",
+"website_url": "https://fcsc.gov.ae",
+"sector": "Federal government - statistics",
+"emirate": "Dubai",
+"id": "federal-competitiveness-and-statistics-centre"
+},
+{
+"name": "Zayed Higher Organization for People of Determination",
+"website_url": "https://zho.gov.ae",
+"sector": "Social services",
+"emirate": "Multiple",
+"id": "zayed-higher-organization-for-people-of-determination"
+},
+{
+"name": "General Authority of Islamic Affairs, Endowments and Zakat",
+"website_url": "https://www.awqaf.gov.ae",
+"sector": "Religious affairs",
+"emirate": "Multiple",
+"id": "general-authority-of-islamic-affairs-endowments-and-zakat"
+},
+{
+"name": "National Ambulance",
+"website_url": "https://www.nationalambulance.ae",
+"sector": "Emergency medical services",
+"emirate": "Abu Dhabi",
+"id": "national-ambulance"
+},
+{
+"name": "Sheikh Zayed Housing Programme",
+"website_url": "https://www.szhp.gov.ae",
+"sector": "Housing programme",
+"emirate": "Multiple",
+"id": "sheikh-zayed-housing-programme"
+},
+{
+"name": "Emirates Red Crescent",
+"website_url": "https://www.rcuae.ae",
+"sector": "Humanitarian charity",
+"emirate": "Multiple",
+"id": "emirates-red-crescent"
+},
+{
+"name": "Mohammed bin Rashid Al Maktoum Foundation",
+"website_url": "https://mbrf.ae",
+"sector": "Foundation",
+"emirate": "Dubai",
+"id": "mohammed-bin-rashid-al-maktoum-foundation"
+},
+{
+"name": "Mohammed bin Rashid Al Maktoum Global Initiatives",
+"website_url": "https://mbrgi.ae",
+"sector": "Foundation",
+"emirate": "Dubai",
+"id": "mohammed-bin-rashid-al-maktoum-global-initiatives"
+},
+{
+"name": "Al Jalila Foundation",
+"website_url": "https://www.aljalilafoundation.ae",
+"sector": "Medical foundation",
+"emirate": "Dubai",
+"id": "al-jalila-foundation"
+},
+{
+"name": "National Library and Archives",
+"website_url": "https://www.na.ae",
+"sector": "Cultural institution",
+"emirate": "Abu Dhabi",
+"id": "national-library-and-archives"
+},
+{
+"name": "Sharjah Art Foundation",
+"website_url": "https://sharjahart.org",
+"sector": "Arts",
+"emirate": "Sharjah",
+"id": "sharjah-art-foundation"
+},
+{
+"name": "Sharjah Book Authority",
+"website_url": "https://www.sba.shj.ae",
+"sector": "Publishing and culture",
+"emirate": "Sharjah",
+"id": "sharjah-book-authority"
+},
+{
+"name": "Dubai Media Incorporated",
+"website_url": "https://www.dmi.ae",
+"sector": "Media",
+"emirate": "Dubai",
+"id": "dubai-media-incorporated"
+},
+{
+"name": "Yas Marina Circuit",
+"website_url": "https://www.yasmarinacircuit.com",
+"sector": "Motorsport and entertainment",
+"emirate": "Abu Dhabi",
+"id": "yas-marina-circuit"
+},
+{
+"name": "International Renewable Energy Agency (IRENA)",
+"website_url": "https://www.irena.org",
+"sector": "International organisation",
+"emirate": "Abu Dhabi",
+"id": "international-renewable-energy-agency-irena"
+},
+{
+"name": "International Center for Biosaline Agriculture",
+"website_url": "https://www.biosaline.org",
+"sector": "Research institute",
+"emirate": "Dubai",
+"id": "international-center-for-biosaline-agriculture"
+},
+{
+"name": "World Food Programme (Dubai hub)",
+"website_url": "https://www.wfp.org",
+"sector": "UN agency",
+"emirate": "Dubai",
+"id": "world-food-programme-dubai-hub"
+},
+{
+"name": "Arab Monetary Fund",
+"website_url": "https://www.amf.org.ae",
+"sector": "International financial institution",
+"emirate": "Abu Dhabi",
+"id": "arab-monetary-fund"
+},
+{
+"name": "Technology Innovation Institute",
+"website_url": "https://www.tii.ae",
+"sector": "Research institute",
+"emirate": "Abu Dhabi",
+"id": "technology-innovation-institute"
+},
+{
+"name": "Abu Dhabi Polytechnic",
+"website_url": "https://www.adpoly.ac.ae",
+"sector": "Vocational education",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-polytechnic"
+},
+{
+"name": "SGS Gulf",
+"website_url": "https://www.sgs.com",
+"sector": "Testing and certification",
+"emirate": "Multiple",
+"id": "sgs-gulf"
+},
+{
+"name": "Bureau Veritas UAE",
+"website_url": "https://www.bureauveritas.ae",
+"sector": "Testing and certification",
+"emirate": "Multiple",
+"id": "bureau-veritas-uae"
+},
+{
+"name": "Intertek Middle East",
+"website_url": "https://www.intertek.com",
+"sector": "Testing and certification",
+"emirate": "Multiple",
+"id": "intertek-middle-east"
+},
+{
+"name": "TUV SUD Middle East",
+"website_url": "https://www.tuvsud.com",
+"sector": "Testing and certification",
+"emirate": "Multiple",
+"id": "tuv-sud-middle-east"
+},
+{
+"name": "Lloyd's Register Middle East",
+"website_url": "https://www.lr.org",
+"sector": "Marine and certification",
+"emirate": "Dubai",
+"id": "lloyd-s-register-middle-east"
+},
+{
+"name": "DNV Middle East",
+"website_url": "https://www.dnv.com",
+"sector": "Assurance and certification",
+"emirate": "Multiple",
+"id": "dnv-middle-east"
+},
+{
+"name": "Abu Dhabi Judicial Department",
+"website_url": "https://www.adjd.gov.ae",
+"sector": "Judiciary",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-judicial-department"
+},
+{
+"name": "Dubai Courts",
+"website_url": "https://www.dubaicourts.gov.ae",
+"sector": "Judiciary",
+"emirate": "Dubai",
+"id": "dubai-courts"
+},
+{
+"name": "Abu Dhabi Police",
+"website_url": "https://www.adpolice.gov.ae",
+"sector": "Public safety",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-police"
+},
+{
+"name": "Dubai Land Department",
+"website_url": "https://dubailand.gov.ae",
+"sector": "Government - real estate",
+"emirate": "Dubai",
+"id": "dubai-land-department"
+},
+{
+"name": "Department of Health Abu Dhabi",
+"website_url": "https://www.doh.gov.ae",
+"sector": "Health regulator",
+"emirate": "Abu Dhabi",
+"id": "department-of-health-abu-dhabi"
+},
+{
+"name": "Sharjah Police",
+"website_url": "https://www.shjpolice.gov.ae",
+"sector": "Public safety",
+"emirate": "Sharjah",
+"id": "sharjah-police"
+},
+{
+"name": "Bayut",
+"website_url": "https://www.bayut.com",
+"sector": "Proptech",
+"emirate": "Dubai",
+"id": "bayut"
+},
+{
+"name": "InstaShop",
+"website_url": "https://www.instashop.com",
+"sector": "Grocery delivery",
+"emirate": "Dubai",
+"id": "instashop"
+},
+{
+"name": "Ounass",
+"website_url": "https://www.ounass.ae",
+"sector": "E-commerce",
+"emirate": "Dubai",
+"id": "ounass"
+},
+{
+"name": "Level Shoes",
+"website_url": "https://www.levelshoes.com",
+"sector": "Luxury retail",
+"emirate": "Dubai",
+"id": "level-shoes"
+},
+{
+"name": "Eyewa",
+"website_url": "https://www.eyewa.com",
+"sector": "E-commerce / Eyewear",
+"emirate": "Dubai",
+"id": "eyewa"
+},
+{
+"name": "Sivvi",
+"website_url": "https://www.sivvi.com",
+"sector": "E-commerce",
+"emirate": "Dubai",
+"id": "sivvi"
+},
+{
+"name": "6thStreet",
+"website_url": "https://www.6thstreet.com",
+"sector": "E-commerce",
+"emirate": "Dubai",
+"id": "6thstreet"
+},
+{
+"name": "Emax",
+"website_url": "https://www.emaxme.com",
+"sector": "Consumer electronics retail",
+"emirate": "Dubai",
+"id": "emax"
+},
+{
+"name": "Kibsons",
+"website_url": "https://www.kibsons.com",
+"sector": "Grocery e-commerce",
+"emirate": "Dubai",
+"id": "kibsons"
+},
+{
+"name": "Okadoc",
+"website_url": "https://www.okadoc.com",
+"sector": "Healthtech",
+"emirate": "Dubai",
+"id": "okadoc"
+},
+{
+"name": "OSN",
+"website_url": "https://www.osn.com",
+"sector": "Media / Streaming",
+"emirate": "Dubai",
+"id": "osn"
+},
+{
+"name": "Dubai Taxi Corporation",
+"website_url": "https://www.dubaitaxi.ae",
+"sector": "Mobility",
+"emirate": "Dubai",
+"id": "dubai-taxi-corporation"
+},
+{
+"name": "Empower",
+"website_url": "https://www.empower.ae",
+"sector": "District cooling",
+"emirate": "Dubai",
+"id": "empower"
+},
+{
+"name": "Alpha Data",
+"website_url": "https://www.alphadata.ae",
+"sector": "IT services",
+"emirate": "Abu Dhabi",
+"id": "alpha-data"
+},
+{
+"name": "Amanat Holdings",
+"website_url": "https://www.amanat.ae",
+"sector": "Healthcare and education investment",
+"emirate": "Dubai",
+"id": "amanat-holdings"
+},
+{
+"name": "MAG Property Development",
+"website_url": "https://www.mag.ae",
+"sector": "Real estate",
+"emirate": "Dubai",
+"id": "mag-property-development"
+},
+{
+"name": "Meraas",
+"website_url": "https://www.meraas.com",
+"sector": "Real estate",
+"emirate": "Dubai",
+"id": "meraas"
+},
+{
+"name": "Finance House",
+"website_url": "https://www.financehouse.ae",
+"sector": "Finance",
+"emirate": "Abu Dhabi",
+"id": "finance-house"
+},
+{
+"name": "Gulf News (Al Nisr Publishing)",
+"website_url": "https://www.gulfnews.com",
+"sector": "Media",
+"emirate": "Dubai",
+"id": "gulf-news-al-nisr-publishing"
+},
+{
+"name": "The Entertainer",
+"website_url": "https://www.theentertainerme.com",
+"sector": "Consumer / Loyalty",
+"emirate": "Dubai",
+"id": "the-entertainer"
+},
+{
+"name": "Justlife",
+"website_url": "https://www.justlife.com",
+"sector": "Home services marketplace",
+"emirate": "Dubai",
+"id": "justlife"
+},
+{
+"name": "Huspy",
+"website_url": "https://www.huspy.com",
+"sector": "Proptech / Mortgages",
+"emirate": "Dubai",
+"id": "huspy"
+},
+{
+"name": "Bayzat",
+"website_url": "https://www.bayzat.com",
+"sector": "HR tech / Insurtech",
+"emirate": "Dubai",
+"id": "bayzat"
+},
+{
+"name": "Pan Emirates",
+"website_url": "https://www.panemirates.com",
+"sector": "Furniture retail",
+"emirate": "Dubai",
+"id": "pan-emirates"
+},
+{
+"name": "Tradeling",
+"website_url": "https://www.tradeling.com",
+"sector": "B2B e-commerce",
+"emirate": "Dubai",
+"id": "tradeling"
+},
+{
+"name": "CPX Holding",
+"website_url": "https://www.cpx.net",
+"sector": "Cybersecurity / Tech",
+"emirate": "Abu Dhabi",
+"id": "cpx-holding"
+},
+{
+"name": "Jetex",
+"website_url": "https://www.jetex.com",
+"sector": "Aviation services",
+"emirate": "Dubai",
+"id": "jetex"
+},
+{
+"name": "JAFZA",
+"website_url": "https://www.jafza.ae",
+"sector": "Free zone",
+"emirate": "Dubai",
+"id": "jafza"
+},
+{
+"name": "Canadian University Dubai",
+"website_url": "https://www.cud.ac.ae",
+"sector": "Education",
+"emirate": "Dubai",
+"id": "canadian-university-dubai"
+},
+{
+"name": "University of Wollongong in Dubai",
+"website_url": "https://www.uowdubai.ac.ae",
+"sector": "Education",
+"emirate": "Dubai",
+"id": "university-of-wollongong-in-dubai"
+},
+{
+"name": "American University of Ras Al Khaimah",
+"website_url": "https://www.aurak.ac.ae",
+"sector": "Education",
+"emirate": "RAK",
+"id": "american-university-of-ras-al-khaimah"
+},
+{
+"name": "Al Ghurair University",
+"website_url": "https://www.agu.ac.ae",
+"sector": "Education",
+"emirate": "Dubai",
+"id": "al-ghurair-university"
+},
+{
+"name": "Skyline University College",
+"website_url": "https://www.skylineuniversity.ac.ae",
+"sector": "Education",
+"emirate": "Sharjah",
+"id": "skyline-university-college"
+},
+{
+"name": "Canadian Specialist Hospital",
+"website_url": "https://www.csh.ae",
+"sector": "Healthcare",
+"emirate": "Dubai",
+"id": "canadian-specialist-hospital"
+},
+{
+"name": "Healthpoint Hospital",
+"website_url": "https://www.healthpoint.ae",
+"sector": "Healthcare",
+"emirate": "Abu Dhabi",
+"id": "healthpoint-hospital"
+},
+{
+"name": "Medeor Hospital",
+"website_url": "https://www.medeorhospital.com",
+"sector": "Healthcare",
+"emirate": "Abu Dhabi",
+"id": "medeor-hospital"
+},
+{
+"name": "LLH Hospital",
+"website_url": "https://www.llhhospital.com",
+"sector": "Healthcare",
+"emirate": "Abu Dhabi",
+"id": "llh-hospital"
+},
+{
+"name": "Amana Healthcare",
+"website_url": "https://www.amanahealthcare.com",
+"sector": "Healthcare",
+"emirate": "Abu Dhabi",
+"id": "amana-healthcare"
+},
+{
+"name": "Mubadala Health",
+"website_url": "https://www.mubadalahealth.ae",
+"sector": "Healthcare",
+"emirate": "Abu Dhabi",
+"id": "mubadala-health"
+},
+{
+"name": "Moorfields Eye Hospital Dubai",
+"website_url": "https://www.moorfields.ae",
+"sector": "Healthcare",
+"emirate": "Dubai",
+"id": "moorfields-eye-hospital-dubai"
+},
+{
+"name": "Imperial College London Diabetes Centre",
+"website_url": "https://www.icldc.ae",
+"sector": "Healthcare",
+"emirate": "Abu Dhabi",
+"id": "imperial-college-london-diabetes-centre"
+},
+{
+"name": "RAK Medical and Health Sciences University",
+"website_url": "https://www.rakmhsu.ac.ae",
+"sector": "Healthcare",
+"emirate": "RAK",
+"id": "rak-medical-and-health-sciences-university"
+},
+{
+"name": "BinSina Pharmacy",
+"website_url": "https://www.binsina.ae",
+"sector": "Healthcare",
+"emirate": "Dubai",
+"id": "binsina-pharmacy"
+},
+{
+"name": "Gulf Drug",
+"website_url": "https://www.gulfdrug.com",
+"sector": "Pharma",
+"emirate": "Dubai",
+"id": "gulf-drug"
+},
+{
+"name": "Cipla",
+"website_url": "https://www.cipla.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "cipla"
+},
+{
+"name": "Dr. Reddy's Laboratories",
+"website_url": "https://www.drreddys.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "dr-reddy-s-laboratories"
+},
+{
+"name": "Sun Pharma",
+"website_url": "https://www.sunpharma.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "sun-pharma"
+},
+{
+"name": "Lupin",
+"website_url": "https://www.lupin.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "lupin"
+},
+{
+"name": "Glenmark Pharmaceuticals",
+"website_url": "https://www.glenmarkpharma.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "glenmark-pharmaceuticals"
+},
+{
+"name": "Zydus Lifesciences",
+"website_url": "https://www.zyduslife.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "zydus-lifesciences"
+},
+{
+"name": "Bausch Health",
+"website_url": "https://www.bausch.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "bausch-health"
+},
+{
+"name": "Organon",
+"website_url": "https://www.organon.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "organon"
+},
+{
+"name": "Ipsen",
+"website_url": "https://www.ipsen.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "ipsen"
+},
+{
+"name": "Astellas",
+"website_url": "https://www.astellas.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "astellas"
+},
+{
+"name": "Biogen",
+"website_url": "https://www.biogen.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "biogen"
+},
+{
+"name": "Daiichi Sankyo",
+"website_url": "https://www.daiichisankyo.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "daiichi-sankyo"
+},
+{
+"name": "UCB",
+"website_url": "https://www.ucb.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "ucb"
+},
+{
+"name": "Eisai",
+"website_url": "https://www.eisai.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "eisai"
+},
+{
+"name": "Otsuka",
+"website_url": "https://www.otsuka.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "otsuka"
+},
+{
+"name": "Regeneron",
+"website_url": "https://www.regeneron.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "regeneron"
+},
+{
+"name": "Vertex Pharmaceuticals",
+"website_url": "https://www.vrtx.com",
+"sector": "Pharma",
+"emirate": "Multiple",
+"id": "vertex-pharmaceuticals"
+},
+{
+"name": "Stryker",
+"website_url": "https://www.stryker.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "stryker"
+},
+{
+"name": "Boston Scientific",
+"website_url": "https://www.bostonscientific.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "boston-scientific"
+},
+{
+"name": "B. Braun",
+"website_url": "https://www.bbraun.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "b-braun"
+},
+{
+"name": "Smith+Nephew",
+"website_url": "https://www.smith-nephew.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "smith-nephew"
+},
+{
+"name": "Draeger",
+"website_url": "https://www.draeger.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "draeger"
+},
+{
+"name": "Edwards Lifesciences",
+"website_url": "https://www.edwards.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "edwards-lifesciences"
+},
+{
+"name": "Terumo",
+"website_url": "https://www.terumo.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "terumo"
+},
+{
+"name": "Cardinal Health",
+"website_url": "https://www.cardinalhealth.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "cardinal-health"
+},
+{
+"name": "Getinge",
+"website_url": "https://www.getinge.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "getinge"
+},
+{
+"name": "Sysmex",
+"website_url": "https://www.sysmex.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "sysmex"
+},
+{
+"name": "Beckman Coulter",
+"website_url": "https://www.beckmancoulter.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "beckman-coulter"
+},
+{
+"name": "Hologic",
+"website_url": "https://www.hologic.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "hologic"
+},
+{
+"name": "Dentsply Sirona",
+"website_url": "https://www.dentsplysirona.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "dentsply-sirona"
+},
+{
+"name": "Straumann Group",
+"website_url": "https://www.straumann.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "straumann-group"
+},
+{
+"name": "Alcon",
+"website_url": "https://www.alcon.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "alcon"
+},
+{
+"name": "ResMed",
+"website_url": "https://www.resmed.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "resmed"
+},
+{
+"name": "Mindray",
+"website_url": "https://www.mindray.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "mindray"
+},
+{
+"name": "Medline Industries",
+"website_url": "https://www.medline.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "medline-industries"
+},
+{
+"name": "Canon Medical Systems",
+"website_url": "https://www.medical.canon",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "canon-medical-systems"
+},
+{
+"name": "Coloplast",
+"website_url": "https://www.coloplast.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "coloplast"
+},
+{
+"name": "Cochlear",
+"website_url": "https://www.cochlear.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "cochlear"
+},
+{
+"name": "Align Technology",
+"website_url": "https://www.aligntech.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "align-technology"
+},
+{
+"name": "Intuitive Surgical",
+"website_url": "https://www.intuitive.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "intuitive-surgical"
+},
+{
+"name": "Teleflex",
+"website_url": "https://www.teleflex.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "teleflex"
+},
+{
+"name": "Convatec",
+"website_url": "https://www.convatec.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "convatec"
+},
+{
+"name": "M\u00f6lnlycke Health Care",
+"website_url": "https://www.molnlycke.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "m-lnlycke-health-care"
+},
+{
+"name": "Ansell",
+"website_url": "https://www.ansell.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "ansell"
+},
+{
+"name": "Fujifilm Healthcare",
+"website_url": "https://www.fujifilm.com",
+"sector": "Medical devices",
+"emirate": "Multiple",
+"id": "fujifilm-healthcare"
+},
+{
+"name": "Thales",
+"website_url": "https://www.thalesgroup.com",
+"sector": "Defence & aerospace",
+"emirate": "Multiple",
+"id": "thales"
+},
+{
+"name": "Leonardo",
+"website_url": "https://www.leonardo.com",
+"sector": "Defence & aerospace",
+"emirate": "Abu Dhabi",
+"id": "leonardo"
+},
+{
+"name": "Saab",
+"website_url": "https://www.saab.com",
+"sector": "Defence",
+"emirate": "Abu Dhabi",
+"id": "saab"
+},
+{
+"name": "RTX (Raytheon)",
+"website_url": "https://www.rtx.com",
+"sector": "Defence & aerospace",
+"emirate": "Abu Dhabi",
+"id": "rtx-raytheon"
+},
+{
+"name": "Northrop Grumman",
+"website_url": "https://www.northropgrumman.com",
+"sector": "Defence",
+"emirate": "Abu Dhabi",
+"id": "northrop-grumman"
+},
+{
+"name": "BAE Systems",
+"website_url": "https://www.baesystems.com",
+"sector": "Defence",
+"emirate": "Abu Dhabi",
+"id": "bae-systems"
+},
+{
+"name": "Lockheed Martin",
+"website_url": "https://www.lockheedmartin.com",
+"sector": "Defence & aerospace",
+"emirate": "Abu Dhabi",
+"id": "lockheed-martin"
+},
+{
+"name": "Brink's",
+"website_url": "https://www.brinks.com",
+"sector": "Security & cash logistics",
+"emirate": "Multiple",
+"id": "brink-s"
+},
+{
+"name": "Safran",
+"website_url": "https://www.safran-group.com",
+"sector": "Aerospace",
+"emirate": "Multiple",
+"id": "safran"
+},
+{
+"name": "CAE",
+"website_url": "https://www.cae.com",
+"sector": "Aerospace training",
+"emirate": "Dubai",
+"id": "cae"
+},
+{
+"name": "Topaz Energy and Marine",
+"website_url": "https://www.topazenergymarine.com",
+"sector": "Marine services",
+"emirate": "Dubai",
+"id": "topaz-energy-and-marine"
+},
+{
+"name": "Wilhelmsen",
+"website_url": "https://www.wilhelmsen.com",
+"sector": "Maritime services",
+"emirate": "Multiple",
+"id": "wilhelmsen"
+},
+{
+"name": "COSCO Shipping",
+"website_url": "https://www.coscoshipping.com",
+"sector": "Shipping",
+"emirate": "Dubai",
+"id": "cosco-shipping"
+},
+{
+"name": "Svitzer",
+"website_url": "https://www.svitzer.com",
+"sector": "Towage & marine",
+"emirate": "Multiple",
+"id": "svitzer"
+},
+{
+"name": "Damen Shipyards",
+"website_url": "https://www.damen.com",
+"sector": "Shipbuilding",
+"emirate": "Dubai",
+"id": "damen-shipyards"
+},
+{
+"name": "Emirates Shipping Line",
+"website_url": "https://www.emiratesline.com",
+"sector": "Shipping",
+"emirate": "Sharjah",
+"id": "emirates-shipping-line"
+},
+{
+"name": "Al Seer Marine",
+"website_url": "https://www.alseermarine.com",
+"sector": "Marine",
+"emirate": "Abu Dhabi",
+"id": "al-seer-marine"
+},
+{
+"name": "Guardian Glass",
+"website_url": "https://www.guardian.com",
+"sector": "Glass manufacturing",
+"emirate": "RAK",
+"id": "guardian-glass"
+},
+{
+"name": "Olam",
+"website_url": "https://www.olamgroup.com",
+"sector": "Agriculture",
+"emirate": "Dubai",
+"id": "olam"
+},
+{
+"name": "Elite Agro",
+"website_url": "https://www.eliteagro.com",
+"sector": "Agriculture",
+"emirate": "Abu Dhabi",
+"id": "elite-agro"
+},
+{
+"name": "Al Khaleej Sugar",
+"website_url": "https://www.alkhaleejsugar.com",
+"sector": "Sugar refining",
+"emirate": "Dubai",
+"id": "al-khaleej-sugar"
+},
+{
+"name": "Pure Harvest Smart Farms",
+"website_url": "https://www.pureharvest.com",
+"sector": "Agritech",
+"emirate": "Abu Dhabi",
+"id": "pure-harvest-smart-farms"
+},
+{
+"name": "IFFCO",
+"website_url": "https://www.iffco.com",
+"sector": "Food & agriculture",
+"emirate": "Sharjah",
+"id": "iffco"
+},
+{
+"name": "Tadweer (Abu Dhabi Waste Management)",
+"website_url": "https://www.tadweer.gov.ae",
+"sector": "Waste management",
+"emirate": "Abu Dhabi",
+"id": "tadweer-abu-dhabi-waste-management"
+},
+{
+"name": "Averda",
+"website_url": "https://www.averda.com",
+"sector": "Waste management",
+"emirate": "Multiple",
+"id": "averda"
+},
+{
+"name": "Enviroserve",
+"website_url": "https://www.enviroserve.com",
+"sector": "Recycling",
+"emirate": "Dubai",
+"id": "enviroserve"
+},
+{
+"name": "Environment Agency Abu Dhabi",
+"website_url": "https://www.ead.gov.ae",
+"sector": "Environment regulator",
+"emirate": "Abu Dhabi",
+"id": "environment-agency-abu-dhabi"
+},
+{
+"name": "Aurecon",
+"website_url": "https://www.aurecongroup.com",
+"sector": "Engineering consultancy",
+"emirate": "Dubai",
+"id": "aurecon"
+},
+{
+"name": "Ramboll",
+"website_url": "https://www.ramboll.com",
+"sector": "Engineering consultancy",
+"emirate": "Dubai",
+"id": "ramboll"
+},
+{
+"name": "Systra",
+"website_url": "https://www.systra.com",
+"sector": "Transport engineering",
+"emirate": "Dubai",
+"id": "systra"
+},
+{
+"name": "Egis",
+"website_url": "https://www.egis-group.com",
+"sector": "Engineering consultancy",
+"emirate": "Multiple",
+"id": "egis"
+},
+{
+"name": "TYLin",
+"website_url": "https://www.tylin.com",
+"sector": "Engineering consultancy",
+"emirate": "Dubai",
+"id": "tylin"
+},
+{
+"name": "Gleeds",
+"website_url": "https://www.gleeds.com",
+"sector": "Project consultancy",
+"emirate": "Multiple",
+"id": "gleeds"
+},
+{
+"name": "Rider Levett Bucknall",
+"website_url": "https://www.rlb.com",
+"sector": "Cost consultancy",
+"emirate": "Multiple",
+"id": "rider-levett-bucknall"
+},
+{
+"name": "Woods Bagot",
+"website_url": "https://www.woodsbagot.com",
+"sector": "Architecture & design",
+"emirate": "Dubai",
+"id": "woods-bagot"
+},
+{
+"name": "SMEC",
+"website_url": "https://www.smec.com",
+"sector": "Engineering consultancy",
+"emirate": "Dubai",
+"id": "smec"
+},
+{
+"name": "Tetra Tech",
+"website_url": "https://www.tetratech.com",
+"sector": "Engineering & environmental",
+"emirate": "Dubai",
+"id": "tetra-tech"
+},
+{
+"name": "Al Shafar General Contracting",
+"website_url": "https://www.alshafar.com",
+"sector": "Contracting",
+"emirate": "Dubai",
+"id": "al-shafar-general-contracting"
+},
+{
+"name": "Dubai American Academy",
+"website_url": "https://www.daa.ae",
+"sector": "School",
+"emirate": "Dubai",
+"id": "dubai-american-academy"
+},
+{
+"name": "Repton School Dubai",
+"website_url": "https://www.reptondubai.org",
+"sector": "School",
+"emirate": "Dubai",
+"id": "repton-school-dubai"
+},
+{
+"name": "Dubai College",
+"website_url": "https://www.dubaicollege.org",
+"sector": "School",
+"emirate": "Dubai",
+"id": "dubai-college"
+},
+{
+"name": "Emirates International School",
+"website_url": "https://www.eischools.ae",
+"sector": "School",
+"emirate": "Dubai",
+"id": "emirates-international-school"
+},
+{
+"name": "American School of Dubai",
+"website_url": "https://www.asdubai.org",
+"sector": "School",
+"emirate": "Dubai",
+"id": "american-school-of-dubai"
+},
+{
+"name": "Raha International School",
+"website_url": "https://www.rahaschools.com",
+"sector": "School",
+"emirate": "Abu Dhabi",
+"id": "raha-international-school"
+},
+{
+"name": "Cranleigh Abu Dhabi",
+"website_url": "https://www.cranleigh.ae",
+"sector": "School",
+"emirate": "Abu Dhabi",
+"id": "cranleigh-abu-dhabi"
+},
+{
+"name": "Jebel Ali School",
+"website_url": "https://www.jebelalischool.org",
+"sector": "School",
+"emirate": "Dubai",
+"id": "jebel-ali-school"
+},
+{
+"name": "Swiss International Scientific School Dubai",
+"website_url": "https://www.sisd.ae",
+"sector": "School",
+"emirate": "Dubai",
+"id": "swiss-international-scientific-school-dubai"
+},
+{
+"name": "Brighton College Dubai",
+"website_url": "https://www.brightoncollegedubai.ae",
+"sector": "School",
+"emirate": "Dubai",
+"id": "brighton-college-dubai"
+},
+{
+"name": "SABIS",
+"website_url": "https://www.sabis.net",
+"sector": "School group",
+"emirate": "Multiple",
+"id": "sabis"
+},
+{
+"name": "Al Mawakeb Schools",
+"website_url": "https://www.almawakeb.sch.ae",
+"sector": "School group",
+"emirate": "Dubai",
+"id": "al-mawakeb-schools"
+},
+{
+"name": "North London Collegiate School Dubai",
+"website_url": "https://www.nlcsdubai.ae",
+"sector": "School",
+"emirate": "Dubai",
+"id": "north-london-collegiate-school-dubai"
+},
+{
+"name": "University of Dubai",
+"website_url": "https://www.ud.ac.ae",
+"sector": "University",
+"emirate": "Dubai",
+"id": "university-of-dubai"
+},
+{
+"name": "SP Jain School of Global Management",
+"website_url": "https://www.spjain.org",
+"sector": "University",
+"emirate": "Dubai",
+"id": "sp-jain-school-of-global-management"
+},
+{
+"name": "Hult International Business School",
+"website_url": "https://www.hult.edu",
+"sector": "University",
+"emirate": "Dubai",
+"id": "hult-international-business-school"
+},
+{
+"name": "SAE Institute",
+"website_url": "https://www.sae.edu",
+"sector": "College",
+"emirate": "Dubai",
+"id": "sae-institute"
+},
+{
+"name": "Emirates Academy of Hospitality Management",
+"website_url": "https://www.emiratesacademy.edu",
+"sector": "College",
+"emirate": "Dubai",
+"id": "emirates-academy-of-hospitality-management"
+},
+{
+"name": "Dubai Institute of Design and Innovation",
+"website_url": "https://www.didi.ac.ae",
+"sector": "College",
+"emirate": "Dubai",
+"id": "dubai-institute-of-design-and-innovation"
+},
+{
+"name": "Emirates Institute for Banking and Financial Studies",
+"website_url": "https://www.eibfs.ae",
+"sector": "Training",
+"emirate": "Multiple",
+"id": "emirates-institute-for-banking-and-financial-studies"
+},
+{
+"name": "University of Khorfakkan",
+"website_url": "https://www.ukf.ac.ae",
+"sector": "University",
+"emirate": "Sharjah",
+"id": "university-of-khorfakkan"
+},
+{
+"name": "Al Qasimia University",
+"website_url": "https://www.alqasimia.ac.ae",
+"sector": "University",
+"emirate": "Sharjah",
+"id": "al-qasimia-university"
+},
+{
+"name": "Abu Dhabi School of Management",
+"website_url": "https://www.adsm.ac.ae",
+"sector": "University",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-school-of-management"
+},
+{
+"name": "Liwa College",
+"website_url": "https://www.lc.ac.ae",
+"sector": "College",
+"emirate": "Abu Dhabi",
+"id": "liwa-college"
+},
+{
+"name": "Fatima College of Health Sciences",
+"website_url": "https://www.fchs.ac.ae",
+"sector": "College",
+"emirate": "Abu Dhabi",
+"id": "fatima-college-of-health-sciences"
+},
+{
+"name": "Abu Dhabi Vocational Education and Training Institute",
+"website_url": "https://www.adveti.ac.ae",
+"sector": "Vocational education",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-vocational-education-and-training-institute"
+},
+{
+"name": "Institute of Applied Technology",
+"website_url": "https://www.iat.ac.ae",
+"sector": "Vocational education",
+"emirate": "Multiple",
+"id": "institute-of-applied-technology"
+},
+{
+"name": "Rabdan Academy",
+"website_url": "https://www.ra.ac.ae",
+"sector": "University",
+"emirate": "Abu Dhabi",
+"id": "rabdan-academy"
+},
+{
+"name": "Mohammed Bin Rashid School of Government",
+"website_url": "https://www.mbrsg.ae",
+"sector": "Education",
+"emirate": "Dubai",
+"id": "mohammed-bin-rashid-school-of-government"
+},
+{
+"name": "Mohamed bin Zayed University for Humanities",
+"website_url": "https://www.mbzuh.ac.ae",
+"sector": "University",
+"emirate": "Abu Dhabi",
+"id": "mohamed-bin-zayed-university-for-humanities"
+},
+{
+"name": "Ministry of Education UAE",
+"website_url": "https://www.moe.gov.ae",
+"sector": "Government education",
+"emirate": "Multiple",
+"id": "ministry-of-education-uae"
+},
+{
+"name": "Sharjah Private Education Authority",
+"website_url": "https://www.spea.shj.ae",
+"sector": "Government education",
+"emirate": "Sharjah",
+"id": "sharjah-private-education-authority"
+},
+{
+"name": "City University College of Ajman",
+"website_url": "https://www.cuca.ae",
+"sector": "University",
+"emirate": "Ajman",
+"id": "city-university-college-of-ajman"
+},
+{
+"name": "Dubai Medical College for Girls",
+"website_url": "https://www.dmcg.edu",
+"sector": "College",
+"emirate": "Dubai",
+"id": "dubai-medical-college-for-girls"
+},
+{
+"name": "Dubai Pharmacy College",
+"website_url": "https://www.dpc.edu",
+"sector": "College",
+"emirate": "Dubai",
+"id": "dubai-pharmacy-college"
+},
+{
+"name": "Al Hosn University",
+"website_url": "https://www.alhosnu.ae",
+"sector": "University",
+"emirate": "Abu Dhabi",
+"id": "al-hosn-university"
+},
+{
+"name": "American University in the Emirates",
+"website_url": "https://www.aue.ae",
+"sector": "University",
+"emirate": "Dubai",
+"id": "american-university-in-the-emirates"
+},
+{
+"name": "Mohammed bin Rashid Al Maktoum Knowledge Foundation",
+"website_url": "https://www.mbrf.ae",
+"sector": "Education and knowledge",
+"emirate": "Dubai",
+"id": "mohammed-bin-rashid-al-maktoum-knowledge-foundation"
+},
+{
+"name": "Arab Bank UAE",
+"website_url": "https://www.arabbank.ae",
+"sector": "Banking",
+"emirate": "Multiple",
+"id": "arab-bank-uae"
+},
+{
+"name": "Bank of Baroda UAE",
+"website_url": "https://www.bankofbaroda.ae",
+"sector": "Banking",
+"emirate": "Multiple",
+"id": "bank-of-baroda-uae"
+},
+{
+"name": "Doha Bank UAE",
+"website_url": "https://www.dohabank.ae",
+"sector": "Banking",
+"emirate": "Multiple",
+"id": "doha-bank-uae"
+},
+{
+"name": "National Bank of Kuwait UAE",
+"website_url": "https://www.nbk.com",
+"sector": "Banking",
+"emirate": "Multiple",
+"id": "national-bank-of-kuwait-uae"
+},
+{
+"name": "QNB UAE",
+"website_url": "https://www.qnb.com",
+"sector": "Banking",
+"emirate": "Multiple",
+"id": "qnb-uae"
+},
+{
+"name": "Emirates Investment Bank",
+"website_url": "https://www.eibank.com",
+"sector": "Banking",
+"emirate": "Dubai",
+"id": "emirates-investment-bank"
+},
+{
+"name": "Habib Bank Limited UAE",
+"website_url": "https://www.hbl.com",
+"sector": "Banking",
+"emirate": "Multiple",
+"id": "habib-bank-limited-uae"
+},
+{
+"name": "Kuwait Finance House UAE",
+"website_url": "https://www.kfh.com",
+"sector": "Banking",
+"emirate": "Multiple",
+"id": "kuwait-finance-house-uae"
+},
+{
+"name": "Bank Muscat UAE",
+"website_url": "https://www.bankmuscat.com",
+"sector": "Banking",
+"emirate": "Multiple",
+"id": "bank-muscat-uae"
+},
+{
+"name": "Tamweel",
+"website_url": "https://www.tamweel.ae",
+"sector": "Islamic finance",
+"emirate": "Dubai",
+"id": "tamweel"
+},
+{
+"name": "PayTabs",
+"website_url": "https://www.paytabs.com",
+"sector": "Payments fintech",
+"emirate": "Multiple",
+"id": "paytabs"
+},
+{
+"name": "Telr",
+"website_url": "https://www.telr.com",
+"sector": "Payments fintech",
+"emirate": "Dubai",
+"id": "telr"
+},
+{
+"name": "Sarwa",
+"website_url": "https://www.sarwa.co",
+"sector": "Fintech wealth",
+"emirate": "Dubai",
+"id": "sarwa"
+},
+{
+"name": "BitOasis",
+"website_url": "https://www.bitoasis.net",
+"sector": "Crypto exchange",
+"emirate": "Dubai",
+"id": "bitoasis"
+},
+{
+"name": "Alaan",
+"website_url": "https://www.alaan.com",
+"sector": "Spend management fintech",
+"emirate": "Dubai",
+"id": "alaan"
+},
+{
+"name": "Souqalmal",
+"website_url": "https://www.souqalmal.com",
+"sector": "Financial comparison",
+"emirate": "Dubai",
+"id": "souqalmal"
+},
+{
+"name": "Yallacompare",
+"website_url": "https://www.yallacompare.com",
+"sector": "Financial comparison",
+"emirate": "Dubai",
+"id": "yallacompare"
+},
+{
+"name": "Xpress Money",
+"website_url": "https://www.xpressmoney.com",
+"sector": "Remittance",
+"emirate": "Dubai",
+"id": "xpress-money"
+},
+{
+"name": "Wall Street Exchange",
+"website_url": "https://www.wallstreet.ae",
+"sector": "Exchange house",
+"emirate": "Multiple",
+"id": "wall-street-exchange"
+},
+{
+"name": "Al Buhaira National Insurance",
+"website_url": "https://www.albuhaira.com",
+"sector": "Insurance",
+"emirate": "Sharjah",
+"id": "al-buhaira-national-insurance"
+},
+{
+"name": "Dubai National Insurance",
+"website_url": "https://www.dnir.ae",
+"sector": "Insurance",
+"emirate": "Dubai",
+"id": "dubai-national-insurance"
+},
+{
+"name": "Alliance Insurance",
+"website_url": "https://www.alliance.ae",
+"sector": "Insurance",
+"emirate": "Dubai",
+"id": "alliance-insurance"
+},
+{
+"name": "Al Ain Ahlia Insurance",
+"website_url": "https://www.alainins.com",
+"sector": "Insurance",
+"emirate": "Abu Dhabi",
+"id": "al-ain-ahlia-insurance"
+},
+{
+"name": "Union Insurance",
+"website_url": "https://www.unioninsure.ae",
+"sector": "Insurance",
+"emirate": "Dubai",
+"id": "union-insurance"
+},
+{
+"name": "Noor Takaful",
+"website_url": "https://www.noortakaful.com",
+"sector": "Takaful insurance",
+"emirate": "Dubai",
+"id": "noor-takaful"
+},
+{
+"name": "Takaful Emarat",
+"website_url": "https://www.takafulemarat.com",
+"sector": "Takaful insurance",
+"emirate": "Dubai",
+"id": "takaful-emarat"
+},
+{
+"name": "National General Insurance",
+"website_url": "https://www.ngi.ae",
+"sector": "Insurance",
+"emirate": "Dubai",
+"id": "national-general-insurance"
+},
+{
+"name": "Methaq Takaful",
+"website_url": "https://www.methaq.ae",
+"sector": "Takaful insurance",
+"emirate": "Abu Dhabi",
+"id": "methaq-takaful"
+},
+{
+"name": "AWNIC (Alliance Wealth National Insurance)",
+"website_url": "https://www.awnic.com",
+"sector": "Insurance",
+"emirate": "Dubai",
+"id": "awnic-alliance-wealth-national-insurance"
+},
+{
+"name": "RAK Insurance",
+"website_url": "https://www.rakinsurance.com",
+"sector": "Insurance",
+"emirate": "RAK",
+"id": "rak-insurance"
+},
+{
+"name": "Al Wathba Insurance",
+"website_url": "https://www.alwathba.com",
+"sector": "Insurance",
+"emirate": "Abu Dhabi",
+"id": "al-wathba-insurance"
+},
+{
+"name": "Etihad Credit Insurance",
+"website_url": "https://www.eci.ae",
+"sector": "Credit insurance",
+"emirate": "Abu Dhabi",
+"id": "etihad-credit-insurance"
+},
+{
+"name": "Lunate",
+"website_url": "https://www.lunate.com",
+"sector": "Asset management",
+"emirate": "Abu Dhabi",
+"id": "lunate"
+},
+{
+"name": "Waha Capital",
+"website_url": "https://www.wahacapital.ae",
+"sector": "Investment",
+"emirate": "Abu Dhabi",
+"id": "waha-capital"
+},
+{
+"name": "Gulf Capital",
+"website_url": "https://www.gulfcapital.com",
+"sector": "Asset management",
+"emirate": "Abu Dhabi",
+"id": "gulf-capital"
+},
+{
+"name": "Investment Corporation of Dubai",
+"website_url": "https://www.icd.gov.ae",
+"sector": "Sovereign investment",
+"emirate": "Dubai",
+"id": "investment-corporation-of-dubai"
+},
+{
+"name": "Abu Dhabi Investment Council",
+"website_url": "https://www.adic.ae",
+"sector": "Asset management",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-investment-council"
+},
+{
+"name": "Mubadala Capital",
+"website_url": "https://www.mubadalacapital.com",
+"sector": "Asset management",
+"emirate": "Abu Dhabi",
+"id": "mubadala-capital"
+},
+{
+"name": "Al Ramz Capital",
+"website_url": "https://www.alramz.ae",
+"sector": "Brokerage",
+"emirate": "Dubai",
+"id": "al-ramz-capital"
+},
+{
+"name": "EFG Hermes UAE",
+"website_url": "https://www.efghermes.com",
+"sector": "Investment banking",
+"emirate": "Dubai",
+"id": "efg-hermes-uae"
+},
+{
+"name": "UBS UAE",
+"website_url": "https://www.ubs.com",
+"sector": "Banking and wealth",
+"emirate": "Multiple",
+"id": "ubs-uae"
+},
+{
+"name": "Dubai World",
+"website_url": "https://www.dubaiworld.ae",
+"sector": "Investment holding",
+"emirate": "Dubai",
+"id": "dubai-world"
+},
+{
+"name": "National Bonds",
+"website_url": "https://www.nationalbonds.ae",
+"sector": "Savings and investment",
+"emirate": "Dubai",
+"id": "national-bonds"
+},
+{
+"name": "Nasdaq Dubai",
+"website_url": "https://www.nasdaqdubai.com",
+"sector": "Stock exchange",
+"emirate": "Dubai",
+"id": "nasdaq-dubai"
+},
+{
+"name": "Ministry of Finance UAE",
+"website_url": "https://www.mof.gov.ae",
+"sector": "Government finance",
+"emirate": "Multiple",
+"id": "ministry-of-finance-uae"
+},
+{
+"name": "Dubai Department of Finance",
+"website_url": "https://www.dof.gov.ae",
+"sector": "Government finance",
+"emirate": "Dubai",
+"id": "dubai-department-of-finance"
+},
+{
+"name": "General Pension and Social Security Authority",
+"website_url": "https://www.gpssa.gov.ae",
+"sector": "Pensions regulator",
+"emirate": "Multiple",
+"id": "general-pension-and-social-security-authority"
+},
+{
+"name": "Al Etihad Credit Bureau",
+"website_url": "https://www.aecb.gov.ae",
+"sector": "Credit bureau",
+"emirate": "Multiple",
+"id": "al-etihad-credit-bureau"
+},
+{
+"name": "Abu Dhabi Investment Office",
+"website_url": "https://www.adio.gov.ae",
+"sector": "Investment promotion",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-investment-office"
+},
+{
+"name": "Arabian Oud",
+"website_url": "https://www.arabianoud.com",
+"sector": "Fragrance retail",
+"emirate": "Multiple",
+"id": "arabian-oud"
+},
+{
+"name": "Ansar Gallery",
+"website_url": "https://www.ansargallery.com",
+"sector": "Supermarkets and malls",
+"emirate": "Dubai",
+"id": "ansar-gallery"
+},
+{
+"name": "Waitrose UAE",
+"website_url": "https://www.waitrose.ae",
+"sector": "Supermarkets",
+"emirate": "Dubai",
+"id": "waitrose-uae"
+},
+{
+"name": "Paris Gallery",
+"website_url": "https://www.parisgallery.com",
+"sector": "Beauty and fragrance retail",
+"emirate": "Dubai",
+"id": "paris-gallery"
+},
+{
+"name": "Azadea Group",
+"website_url": "https://www.azadea.com",
+"sector": "Multi-brand retail",
+"emirate": "Multiple",
+"id": "azadea-group"
+},
+{
+"name": "Dubizzle",
+"website_url": "https://www.dubizzle.com",
+"sector": "Online classifieds marketplace",
+"emirate": "Dubai",
+"id": "dubizzle"
+},
+{
+"name": "BurJuman",
+"website_url": "https://www.burjuman.com",
+"sector": "Mall operator",
+"emirate": "Dubai",
+"id": "burjuman"
+},
+{
+"name": "Mall of the Emirates",
+"website_url": "https://www.mallofemirates.com",
+"sector": "Mall operator",
+"emirate": "Dubai",
+"id": "mall-of-the-emirates"
+},
+{
+"name": "Rivoli Group",
+"website_url": "https://www.rivoligroup.com",
+"sector": "Watches and luxury retail",
+"emirate": "Dubai",
+"id": "rivoli-group"
+},
+{
+"name": "Yateem Optician",
+"website_url": "https://www.yateem.com",
+"sector": "Optical retail",
+"emirate": "Dubai",
+"id": "yateem-optician"
+},
+{
+"name": "EPPCO",
+"website_url": "https://www.eppco.ae",
+"sector": "Fuel retail",
+"emirate": "Multiple",
+"id": "eppco"
+},
+{
+"name": "Domino's Pizza UAE",
+"website_url": "https://www.dominos.ae",
+"sector": "Quick service restaurants",
+"emirate": "Multiple",
+"id": "domino-s-pizza-uae"
+},
+{
+"name": "Pizza Hut UAE",
+"website_url": "https://www.pizzahut.ae",
+"sector": "Quick service restaurants",
+"emirate": "Multiple",
+"id": "pizza-hut-uae"
+},
+{
+"name": "Bateel",
+"website_url": "https://www.bateel.com",
+"sector": "Food and gifting retail",
+"emirate": "Dubai",
+"id": "bateel"
+},
+{
+"name": "Sharjah Cooperative Society",
+"website_url": "https://www.sharjahcoop.ae",
+"sector": "Cooperative supermarkets",
+"emirate": "Sharjah",
+"id": "sharjah-cooperative-society"
+},
+{
+"name": "Sephora Middle East",
+"website_url": "https://www.sephora.ae",
+"sector": "Beauty retail",
+"emirate": "Multiple",
+"id": "sephora-middle-east"
+},
+{
+"name": "Bloomingdale's UAE",
+"website_url": "https://www.bloomingdales.ae",
+"sector": "Department store",
+"emirate": "Dubai",
+"id": "bloomingdale-s-uae"
+},
+{
+"name": "Splash",
+"website_url": "https://www.splashfashions.com",
+"sector": "Fashion retail",
+"emirate": "Multiple",
+"id": "splash"
+},
+{
+"name": "Babyshop",
+"website_url": "https://www.babyshopstores.com",
+"sector": "Kids and baby retail",
+"emirate": "Multiple",
+"id": "babyshop"
+},
+{
+"name": "Max Fashion",
+"website_url": "https://www.maxfashion.com",
+"sector": "Fashion retail",
+"emirate": "Multiple",
+"id": "max-fashion"
+},
+{
+"name": "Lifestyle Stores",
+"website_url": "https://www.lifestylestores.com",
+"sector": "Department store",
+"emirate": "Multiple",
+"id": "lifestyle-stores"
+},
+{
+"name": "Centrepoint",
+"website_url": "https://www.centrepointstores.com",
+"sector": "Fashion and home retail",
+"emirate": "Multiple",
+"id": "centrepoint"
+},
+{
+"name": "Samana Developers",
+"website_url": "https://www.samanadevelopers.com",
+"sector": "Real estate developer",
+"emirate": "Dubai",
+"id": "samana-developers"
+},
+{
+"name": "Al Hamra Real Estate Development",
+"website_url": "https://www.alhamra.ae",
+"sector": "Real estate developer",
+"emirate": "RAK",
+"id": "al-hamra-real-estate-development"
+},
+{
+"name": "Meydan Group",
+"website_url": "https://www.meydan.ae",
+"sector": "Real estate developer",
+"emirate": "Dubai",
+"id": "meydan-group"
+},
+{
+"name": "Tadweer (Abu Dhabi Waste Management Center)",
+"website_url": "https://www.tadweer.gov.ae",
+"sector": "Waste and facilities services",
+"emirate": "Abu Dhabi",
+"id": "tadweer-abu-dhabi-waste-management-center"
+},
+{
+"name": "Fosroc",
+"website_url": "https://www.fosroc.com",
+"sector": "Construction chemicals",
+"emirate": "Multiple",
+"id": "fosroc"
+},
+{
+"name": "Elsewedy Electric",
+"website_url": "https://www.elsewedyelectric.com",
+"sector": "Cables and electrical contracting",
+"emirate": "Multiple",
+"id": "elsewedy-electric"
+},
+{
+"name": "Chiyoda Corporation",
+"website_url": "https://www.chiyodacorp.com",
+"sector": "Engineering and construction",
+"emirate": "Abu Dhabi",
+"id": "chiyoda-corporation"
+},
+{
+"name": "JGC Corporation",
+"website_url": "https://www.jgc.com",
+"sector": "Engineering and construction",
+"emirate": "Abu Dhabi",
+"id": "jgc-corporation"
+},
+{
+"name": "Maire (Tecnimont)",
+"website_url": "https://www.groupmaire.com",
+"sector": "Engineering and construction",
+"emirate": "Multiple",
+"id": "maire-tecnimont"
+},
+{
+"name": "Samsung E&A",
+"website_url": "https://www.samsungena.com",
+"sector": "Engineering and construction",
+"emirate": "Multiple",
+"id": "samsung-e-a"
+},
+{
+"name": "COWI",
+"website_url": "https://www.cowi.com",
+"sector": "Engineering consultancy",
+"emirate": "Multiple",
+"id": "cowi"
+},
+{
+"name": "Faithful+Gould",
+"website_url": "https://www.fgould.com",
+"sector": "Project management consultancy",
+"emirate": "Multiple",
+"id": "faithful-gould"
+},
+{
+"name": "Linesight",
+"website_url": "https://www.linesight.com",
+"sector": "Construction cost consultancy",
+"emirate": "Multiple",
+"id": "linesight"
+},
+{
+"name": "Keolis",
+"website_url": "https://www.keolis.com",
+"sector": "Public transport operator",
+"emirate": "Dubai",
+"id": "keolis"
+},
+{
+"name": "Parkin",
+"website_url": "https://www.parkin.ae",
+"sector": "Parking management",
+"emirate": "Dubai",
+"id": "parkin"
+},
+{
+"name": "Jebel Ali Free Zone (JAFZA)",
+"website_url": "https://www.jafza.ae",
+"sector": "Free zone authority",
+"emirate": "Dubai",
+"id": "jebel-ali-free-zone-jafza"
+},
+{
+"name": "Abu Dhabi Department of Health",
+"website_url": "https://www.doh.gov.ae",
+"sector": "Government - health regulator",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-department-of-health"
+},
+{
+"name": "Abu Dhabi Department of Economic Development",
+"website_url": "https://www.added.gov.ae",
+"sector": "Government - economy",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-department-of-economic-development"
+},
+{
+"name": "Abu Dhabi Department of Energy",
+"website_url": "https://www.doe.gov.ae",
+"sector": "Government - energy regulator",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-department-of-energy"
+},
+{
+"name": "Abu Dhabi Agriculture and Food Safety Authority",
+"website_url": "https://www.adafsa.gov.ae",
+"sector": "Government - agriculture and food safety",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-agriculture-and-food-safety-authority"
+},
+{
+"name": "Abu Dhabi Early Childhood Authority",
+"website_url": "https://www.ecda.gov.ae",
+"sector": "Government - early childhood",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-early-childhood-authority"
+},
+{
+"name": "Abu Dhabi Fund for Development",
+"website_url": "https://www.adfd.ae",
+"sector": "Development finance",
+"emirate": "Abu Dhabi",
+"id": "abu-dhabi-fund-for-development"
+},
+{
+"name": "Al Ain Distribution Company",
+"website_url": "https://www.aadc.ae",
+"sector": "Utilities",
+"emirate": "Abu Dhabi",
+"id": "al-ain-distribution-company"
+},
+{
+"name": "Nawah Energy Company",
+"website_url": "https://www.nawah.ae",
+"sector": "Nuclear energy operations",
+"emirate": "Abu Dhabi",
+"id": "nawah-energy-company"
+},
+{
+"name": "Silal",
+"website_url": "https://www.silal.ae",
+"sector": "Agriculture and food",
+"emirate": "Abu Dhabi",
+"id": "silal"
+},
+{
+"name": "Advanced Technology Research Council (ATRC)",
+"website_url": "https://www.atrc.gov.ae",
+"sector": "Government - research",
+"emirate": "Abu Dhabi",
+"id": "advanced-technology-research-council-atrc"
+},
+{
+"name": "Khalifa Fund for Enterprise Development",
+"website_url": "https://www.khalifafund.ae",
+"sector": "Government - SME development",
+"emirate": "Abu Dhabi",
+"id": "khalifa-fund-for-enterprise-development"
+},
+{
+"name": "Zakum Development Company (ZADCO)",
+"website_url": "https://www.zadco.ae",
+"sector": "Oil and gas",
+"emirate": "Abu Dhabi",
+"id": "zakum-development-company-zadco"
+},
+{
+"name": "Al Masraf Bank",
+"website_url": "https://www.almasraf.ae",
+"sector": "Banking",
+"emirate": "Abu Dhabi",
+"id": "al-masraf-bank"
+},
+{
+"name": "Department of Government Enablement",
+"website_url": "https://www.dge.gov.ae",
+"sector": "Government - digital",
+"emirate": "Abu Dhabi",
+"id": "department-of-government-enablement"
+},
+{
+"name": "UAE Space Agency",
+"website_url": "https://www.space.gov.ae",
+"sector": "Federal government",
+"emirate": "Abu Dhabi",
+"id": "uae-space-agency"
+},
+{
+"name": "National Emergency Crisis and Disaster Management Authority (NCEMA)",
+"website_url": "https://www.ncema.gov.ae",
+"sector": "Federal government",
+"emirate": "Abu Dhabi",
+"id": "national-emergency-crisis-and-disaster-management-authority-ncema"
+},
+{
+"name": "Dubai Civil Defence",
+"website_url": "https://www.dcd.gov.ae",
+"sector": "Government - emergency services",
+"emirate": "Dubai",
+"id": "dubai-civil-defence"
+},
+{
+"name": "Dubai Public Prosecution",
+"website_url": "https://www.dxbpp.gov.ae",
+"sector": "Government - legal",
+"emirate": "Dubai",
+"id": "dubai-public-prosecution"
+},
+{
+"name": "General Directorate of Residency and Foreigners Affairs Dubai (GDRFA)",
+"website_url": "https://gdrfad.gov.ae",
+"sector": "Government - immigration",
+"emirate": "Dubai",
+"id": "general-directorate-of-residency-and-foreigners-affairs-dubai-gdrfa"
+},
+{
+"name": "Community Development Authority Dubai",
+"website_url": "https://www.cda.gov.ae",
+"sector": "Government - social development",
+"emirate": "Dubai",
+"id": "community-development-authority-dubai"
+},
+{
+"name": "Mohammed Bin Rashid Housing Establishment",
+"website_url": "https://www.mbrhe.ae",
+"sector": "Government - housing",
+"emirate": "Dubai",
+"id": "mohammed-bin-rashid-housing-establishment"
+},
+{
+"name": "Salik",
+"website_url": "https://www.salik.ae",
+"sector": "Transport - tolling",
+"emirate": "Dubai",
+"id": "salik"
+},
+{
+"name": "Dubai Airport Free Zone Authority (DAFZA)",
+"website_url": "https://www.dafza.ae",
+"sector": "Free zone",
+"emirate": "Dubai",
+"id": "dubai-airport-free-zone-authority-dafza"
+},
+{
+"name": "Dubai Supply Authority (DUSUP)",
+"website_url": "https://www.dusup.ae",
+"sector": "Energy - gas supply",
+"emirate": "Dubai",
+"id": "dubai-supply-authority-dusup"
+},
+{
+"name": "Etihad ESCO",
+"website_url": "https://www.etihadesco.ae",
+"sector": "Energy services",
+"emirate": "Dubai",
+"id": "etihad-esco"
+},
+{
+"name": "Islamic Affairs and Charitable Activities Department (IACAD)",
+"website_url": "https://www.iacad.gov.ae",
+"sector": "Government - religious affairs",
+"emirate": "Dubai",
+"id": "islamic-affairs-and-charitable-activities-department-iacad"
+},
+{
+"name": "Museum of the Future",
+"website_url": "https://museumofthefuture.ae",
+"sector": "Culture and attractions",
+"emirate": "Dubai",
+"id": "museum-of-the-future"
+},
+{
+"name": "Dubai Hills Estate",
+"website_url": "https://www.dubaihillsestate.ae",
+"sector": "Real estate",
+"emirate": "Dubai",
+"id": "dubai-hills-estate"
+},
+{
+"name": "Dubai Integrated Economic Zones (DIEZ)",
+"website_url": "https://www.diez.ae",
+"sector": "Free zone",
+"emirate": "Dubai",
+"id": "dubai-integrated-economic-zones-diez"
+},
+{
+"name": "Investment Corporation of Dubai (ICD)",
+"website_url": "https://www.icd.gov.ae",
+"sector": "Sovereign investment",
+"emirate": "Dubai",
+"id": "investment-corporation-of-dubai-icd"
+},
+{
+"name": "Department of Finance Dubai",
+"website_url": "https://www.dof.gov.ae",
+"sector": "Government - finance",
+"emirate": "Dubai",
+"id": "department-of-finance-dubai"
+},
+{
+"name": "Dubai Sports City",
+"website_url": "https://www.dubaisportscity.ae",
+"sector": "Real estate - sports",
+"emirate": "Dubai",
+"id": "dubai-sports-city"
+},
+{
+"name": "Sharjah Research Technology and Innovation Park (SRTIP)",
+"website_url": "https://www.srtip.ae",
+"sector": "Technology park",
+"emirate": "Sharjah",
+"id": "sharjah-research-technology-and-innovation-park-srtip"
+},
+{
+"name": "Sharjah Media City (Shams)",
+"website_url": "https://www.shams.ae",
+"sector": "Free zone / media",
+"emirate": "Sharjah",
+"id": "sharjah-media-city-shams"
+},
+{
+"name": "Sharjah Publishing City",
+"website_url": "https://www.spc.ae",
+"sector": "Free zone / publishing",
+"emirate": "Sharjah",
+"id": "sharjah-publishing-city"
+},
+{
+"name": "Sharjah Municipality",
+"website_url": "https://www.shjmun.gov.ae",
+"sector": "Government",
+"emirate": "Sharjah",
+"id": "sharjah-municipality"
+},
+{
+"name": "Sharjah Private Education Authority (SPEA)",
+"website_url": "https://www.spea.shj.ae",
+"sector": "Government / education",
+"emirate": "Sharjah",
+"id": "sharjah-private-education-authority-spea"
+},
+{
+"name": "Sharjah Economic Development Department",
+"website_url": "https://www.sedd.ae",
+"sector": "Government",
+"emirate": "Sharjah",
+"id": "sharjah-economic-development-department"
+},
+{
+"name": "Ajman Police",
+"website_url": "https://www.ajmanpolice.gov.ae",
+"sector": "Government / security",
+"emirate": "Ajman",
+"id": "ajman-police"
+},
+{
+"name": "Ajman Municipality and Planning Department",
+"website_url": "https://www.am.gov.ae",
+"sector": "Government",
+"emirate": "Ajman",
+"id": "ajman-municipality-and-planning-department"
+},
+{
+"name": "Ajman Department of Economic Development",
+"website_url": "https://www.ajmanded.ae",
+"sector": "Government",
+"emirate": "Ajman",
+"id": "ajman-department-of-economic-development"
+},
+{
+"name": "Ajman Tourism Development Department",
+"website_url": "https://www.ajmantourism.ae",
+"sector": "Government / tourism",
+"emirate": "Ajman",
+"id": "ajman-tourism-development-department"
+},
+{
+"name": "Al Zorah Development",
+"website_url": "https://www.alzorah.com",
+"sector": "Real estate",
+"emirate": "Ajman",
+"id": "al-zorah-development"
+},
+{
+"name": "City University Ajman",
+"website_url": "https://www.cu.ac.ae",
+"sector": "Higher education",
+"emirate": "Ajman",
+"id": "city-university-ajman"
+},
+{
+"name": "Ras Al Khaimah Police",
+"website_url": "https://www.rakpolice.gov.ae",
+"sector": "Government / security",
+"emirate": "RAK",
+"id": "ras-al-khaimah-police"
+},
+{
+"name": "American University of Ras Al Khaimah (AURAK)",
+"website_url": "https://www.aurak.ac.ae",
+"sector": "Higher education",
+"emirate": "RAK",
+"id": "american-university-of-ras-al-khaimah-aurak"
+},
+{
+"name": "Ras Al Khaimah Chamber of Commerce and Industry",
+"website_url": "https://www.rakchamber.ae",
+"sector": "Government / business",
+"emirate": "RAK",
+"id": "ras-al-khaimah-chamber-of-commerce-and-industry"
+},
+{
+"name": "Fujairah Oil Industry Zone (FOIZ)",
+"website_url": "https://www.foiz.ae",
+"sector": "Oil and gas / free zone",
+"emirate": "Fujairah",
+"id": "fujairah-oil-industry-zone-foiz"
+},
+{
+"name": "Fujairah Tourism Authority",
+"website_url": "https://www.fujairahtourism.ae",
+"sector": "Government / tourism",
+"emirate": "Fujairah",
+"id": "fujairah-tourism-authority"
+},
+{
+"name": "Federal Authority for Identity, Citizenship, Customs and Port Security (ICP)",
+"website_url": "https://www.icp.gov.ae",
+"sector": "Government",
+"emirate": "Multiple",
+"id": "federal-authority-for-identity-citizenship-customs-and-port-security-icp"
+},
+{
+"name": "Federal Competitiveness and Statistics Centre (FCSC)",
+"website_url": "https://www.fcsc.gov.ae",
+"sector": "Government",
+"emirate": "Multiple",
+"id": "federal-competitiveness-and-statistics-centre-fcsc"
+},
+{
+"name": "National Emergency Crisis and Disasters Management Authority (NCEMA)",
+"website_url": "https://www.ncema.gov.ae",
+"sector": "Government",
+"emirate": "Multiple",
+"id": "national-emergency-crisis-and-disasters-management-authority-ncema"
+}
+]
