@@ -7,8 +7,11 @@ import { chromium } from 'playwright';
 
 const CONCURRENCY = Number(process.env.CONCURRENCY || 8);
 const PAGE_TIMEOUT = 30000;
-const ROLE = /\b(l\s?&\s?d|learning|talent|training|trainer|organi[sz]ation(al)? development|people development|capability|instructional|e-?learning|leadership development|succession|hr business partner|hrbp|culture|development specialist|development manager)\b/i;
-const NOISE = /^(learn more|read more|apply now|view all|see all|search|home|careers?|jobs?|sign in|log ?in|menu|skip to|cookie|privacy|terms|about|contact|training and development policy)$/i;
+const TOPIC = /\b(l\s?&\s?d|learning|talent|training|trainer|organi[sz]ation(al)? development|people development|capability|instructional|e-?learning|leadership development|succession|hr business partner|hrbp|development)\b/i;
+const TITLE = /\b(manager|specialist|executive|officer|lead|head|director|partner|coordinator|supervisor|advisor|adviser|consultant|designer|facilitator|trainer|analyst|assistant|vice president|vp|avp|senior|junior|associate|business partner|generalist)\b/i;
+const NOT_JOB = /(talent community|talent network|talent pool|talent pipeline|talent programs?|early (talent|career)|(our|group|company'?s|ethics|learning|inclusive|the \\w+) culture|culture (and|&) (values|diversity|inclusion)|talent acquisition|our values|join our|privacy|policy|academy|lms portal|learning hub|lifelong|digital learning|corporate training|personal training|training institute|certification|fitness|school for life|webinar|podcast|emiratis?ation|national talent community|career fair|graduate|internship|apprentice)/i;
+const ROLE = { test: (t) => TOPIC.test(t) && TITLE.test(t) && !NOT_JOB.test(t) };
+const NOISE = /^(learn more|read more|apply now|view all|see all|search|home|careers?|jobs?|sign in|log ?in|menu|skip to|cookie|privacy|terms|about|contact)$/i;
 
 const companies = JSON.parse(fs.readFileSync('companies.json', 'utf8'));
 const db = new pg.Client({ connectionString: process.env.NEON_DATABASE_URL, ssl: { rejectUnauthorized: false } });
