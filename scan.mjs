@@ -23,6 +23,9 @@ await db.query(`create table if not exists scan_status (
   company_id text primary key, company_name text, url text, status text, matches int,
   note text, scanned_at timestamptz default now())`);
 
+await db.query(`create table if not exists company_history(company_id text primary key, company_name text, first_listed timestamptz default now())`);
+for (const c of companies) await db.query('insert into company_history(company_id,company_name) values($1,$2) on conflict do nothing', [c.id, c.name]);
+
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const jobIdFrom = (u) => (u.match(/(\d{3,})(?!.*\d{3,})/) || [])[1] || '';
 
