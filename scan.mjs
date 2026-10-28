@@ -5,7 +5,7 @@ import fs from 'node:fs';
 import pg from 'pg';
 import { chromium } from 'playwright';
 
-const CONCURRENCY = Number(process.env.CONCURRENCY || 8);
+const CONCURRENCY = Number(process.env.CONCURRENCY || 10);
 const PAGE_TIMEOUT = 30000;
 const TOPIC = /\b(l\s?&\s?d|learning|talent|training|trainer|organi[sz]ation(al)? development|people development|capability|instructional|e-?learning|leadership development|succession|hr business partner|hrbp|development)\b/i;
 const TITLE = /\b(manager|specialist|executive|officer|lead|head|director|partner|coordinator|supervisor|advisor|adviser|consultant|designer|facilitator|trainer|analyst|assistant|vice president|vp|avp|senior|junior|associate|business partner|generalist)\b/i;

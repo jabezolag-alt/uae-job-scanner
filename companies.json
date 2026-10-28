@@ -2758,5 +2758,2189 @@
   "ats": "Custom",
   "sector": "Insurance",
   "needs_review": false
+ },
+ {
+  "id": "kempinski-hotels",
+  "name": "Kempinski Hotels",
+  "url": "https://careers.kempinski.com",
+  "ats": "Custom",
+  "sector": "Hotels & resorts",
+  "needs_review": true
+ },
+ {
+  "id": "emaar-hospitality-group",
+  "name": "Emaar Hospitality Group",
+  "url": "https://www.emaar.com/en/careers",
+  "ats": "Oracle HCM",
+  "sector": "Hotels, entertainment, F&B",
+  "needs_review": true
+ },
+ {
+  "id": "dusit-international",
+  "name": "Dusit International",
+  "url": "https://careers.dusit.com/",
+  "ats": "Custom",
+  "sector": "Hotels & resorts",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-parks-and-resorts",
+  "name": "Dubai Parks and Resorts",
+  "url": "https://careers.dubaiparksandresorts.com/vacancies/",
+  "ats": "Custom",
+  "sector": "Theme parks & entertainment",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-duty-free",
+  "name": "Dubai Duty Free",
+  "url": "https://careers.dubaidutyfree.com/",
+  "ats": "Custom",
+  "sector": "Airport retail & hospitality",
+  "needs_review": true
+ },
+ {
+  "id": "abu-dhabi-national-hotels-adnh",
+  "name": "Abu Dhabi National Hotels (ADNH)",
+  "url": "https://www.adnh.com/contents/careers",
+  "ats": "Custom",
+  "sector": "Hotels, catering, tours",
+  "needs_review": true
+ },
+ {
+  "id": "al-habtoor-group",
+  "name": "Al Habtoor Group",
+  "url": "https://www.habtoor.com/en/22/careers/employment/",
+  "ats": "Custom",
+  "sector": "Hotels, hospitality, leisure",
+  "needs_review": true
+ },
+ {
+  "id": "millennium-hotels-resorts",
+  "name": "Millennium Hotels & Resorts",
+  "url": "https://www.millenniumhotels.com/en/careers",
+  "ats": "Custom",
+  "sector": "Hotels & resorts",
+  "needs_review": true
+ },
+ {
+  "id": "ja-resorts-hotels",
+  "name": "JA Resorts & Hotels",
+  "url": "https://careers.jaresortshotels.com/",
+  "ats": "Custom",
+  "sector": "Hotels & resorts",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-holding-entertainment-global-village",
+  "name": "Dubai Holding Entertainment (Global Village)",
+  "url": "https://www.globalvillage.ae/en/careers",
+  "ats": "Unknown",
+  "sector": "Entertainment & leisure",
+  "needs_review": true
+ },
+ {
+  "id": "caesars-palace-dubai",
+  "name": "Caesars Palace Dubai",
+  "url": "https://www.caesars.com/dubai/careers/",
+  "ats": "Unknown",
+  "sector": "Hotels & resorts",
+  "needs_review": true
+ },
+ {
+  "id": "hard-rock-hotels",
+  "name": "Hard Rock Hotels",
+  "url": "https://hotel.hardrock.com/careers.aspx",
+  "ats": "Unknown",
+  "sector": "Hotels & resorts",
+  "needs_review": true
+ },
+ {
+  "id": "nobu-hospitality",
+  "name": "Nobu Hospitality",
+  "url": "https://noburestaurants.com/home/careers",
+  "ats": "Unknown",
+  "sector": "Restaurants & hotels",
+  "needs_review": true
+ },
+ {
+  "id": "louvre-hotels-group",
+  "name": "Louvre Hotels Group",
+  "url": "https://www.louvrehotels.com/en-us/work-with-us/discover-our-positions/",
+  "ats": "Unknown",
+  "sector": "Hotels",
+  "needs_review": true
+ },
+ {
+  "id": "best-western-hotels-resorts",
+  "name": "Best Western Hotels & Resorts",
+  "url": "https://jobs.bestwestern.com/",
+  "ats": "Unknown",
+  "sector": "Hotels",
+  "needs_review": true
+ },
+ {
+  "id": "premier-inn-middle-east",
+  "name": "Premier Inn Middle East",
+  "url": "https://mena.premierinn.com/en/about-us/",
+  "ats": "Unknown",
+  "sector": "Hotels",
+  "needs_review": true
+ },
+ {
+  "id": "oberoi-hotels-resorts",
+  "name": "Oberoi Hotels & Resorts",
+  "url": "https://www.oberoihotels.com/",
+  "ats": "Unknown",
+  "sector": "Hotels & resorts",
+  "needs_review": true
+ },
+ {
+  "id": "six-senses-hotels-resorts-spas",
+  "name": "Six Senses Hotels Resorts Spas",
+  "url": "https://www.sixsenses.com/en/",
+  "ats": "Unknown",
+  "sector": "Hotels & resorts",
+  "needs_review": true
+ },
+ {
+  "id": "informa-markets-middle-east",
+  "name": "Informa Markets Middle East",
+  "url": "https://careers.informa.com/",
+  "ats": "Unknown",
+  "sector": "Events & exhibitions",
+  "needs_review": true
+ },
+ {
+  "id": "reed-exhibitions-middle-east",
+  "name": "Reed Exhibitions Middle East",
+  "url": "https://www.reedexpo.com/",
+  "ats": "Unknown",
+  "sector": "Events & exhibitions",
+  "needs_review": true
+ },
+ {
+  "id": "department-of-culture-and-tourism-abu-dhabi",
+  "name": "Department of Culture and Tourism Abu Dhabi",
+  "url": "https://careers.dctabudhabi.ae/",
+  "ats": "SuccessFactors",
+  "sector": "Tourism & culture authority",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-department-of-economy-and-tourism-det",
+  "name": "Dubai Department of Economy and Tourism (DET)",
+  "url": "https://www.dubaidet.gov.ae/en/contact-det/careers",
+  "ats": "Unknown",
+  "sector": "Tourism authority",
+  "needs_review": true
+ },
+ {
+  "id": "shurooq-sharjah-investment-and-development-authority",
+  "name": "Shurooq (Sharjah Investment and Development Authority)",
+  "url": "https://careers.shurooq.gov.ae/postcv.aspx",
+  "ats": "Custom",
+  "sector": "Tourism & leisure development",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-commerce-and-tourism-development-authority",
+  "name": "Sharjah Commerce and Tourism Development Authority",
+  "url": "https://www.sharjahtourism.ae/",
+  "ats": "Unknown",
+  "sector": "Tourism authority",
+  "needs_review": true
+ },
+ {
+  "id": "ras-al-khaimah-tourism-development-authority",
+  "name": "Ras Al Khaimah Tourism Development Authority",
+  "url": "https://raktda.com/opportunities/",
+  "ats": "Unknown",
+  "sector": "Tourism authority",
+  "needs_review": true
+ },
+ {
+  "id": "louvre-abu-dhabi",
+  "name": "Louvre Abu Dhabi",
+  "url": "https://www.louvreabudhabi.ae/",
+  "ats": "Unknown",
+  "sector": "Culture & tourism",
+  "needs_review": true
+ },
+ {
+  "id": "aldar-hospitality",
+  "name": "Aldar Hospitality",
+  "url": "https://cdn.aldar.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Hotels & hospitality (Aldar group)",
+  "needs_review": true
+ },
+ {
+  "id": "gold-s-gym-uae",
+  "name": "Gold's Gym UAE",
+  "url": "https://goldsgym.ae/careers/",
+  "ats": "Custom",
+  "sector": "Fitness & leisure",
+  "needs_review": true
+ },
+ {
+  "id": "arabian-adventures-emirates",
+  "name": "Arabian Adventures (Emirates)",
+  "url": "https://www.arabian-adventures.com/ae/english/careers-aa.html",
+  "ats": "Custom",
+  "sector": "Tourism & tours",
+  "needs_review": true
+ },
+ {
+  "id": "platinum-heritage-hero-experiences-group",
+  "name": "Platinum Heritage (Hero Experiences Group)",
+  "url": "https://uae.platinum-heritage.com/careers",
+  "ats": "Custom",
+  "sector": "Tourism & experiences",
+  "needs_review": true
+ },
+ {
+  "id": "rayna-tours",
+  "name": "Rayna Tours",
+  "url": "https://www.raynatours.com/about-us",
+  "ats": "Unknown",
+  "sector": "Tourism & tours",
+  "needs_review": true
+ },
+ {
+  "id": "compass-group-middle-east",
+  "name": "Compass Group Middle East",
+  "url": "https://www.compass-group.com/en/working-for-us/career-opportunities.html",
+  "ats": "Unknown",
+  "sector": "Catering & food service",
+  "needs_review": true
+ },
+ {
+  "id": "citymax-hotels",
+  "name": "Citymax Hotels",
+  "url": "https://citymaxhotels.com/",
+  "ats": "Unknown",
+  "sector": "Hotels",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-opera",
+  "name": "Dubai Opera",
+  "url": "https://www.dubaiopera.com/en/contact-us",
+  "ats": "Unknown",
+  "sector": "Entertainment venue",
+  "needs_review": true
+ },
+ {
+  "id": "m42",
+  "name": "M42",
+  "url": "https://careers-m42.icims.com",
+  "ats": "iCIMS",
+  "sector": "Healthcare group",
+  "needs_review": true
+ },
+ {
+  "id": "abbvie",
+  "name": "AbbVie",
+  "url": "https://careers.abbvie.com",
+  "ats": "Unknown",
+  "sector": "Pharma",
+  "needs_review": true
+ },
+ {
+  "id": "bristol-myers-squibb",
+  "name": "Bristol Myers Squibb",
+  "url": "https://jobs.bms.com",
+  "ats": "Unknown",
+  "sector": "Pharma",
+  "needs_review": true
+ },
+ {
+  "id": "amgen",
+  "name": "Amgen",
+  "url": "https://careers.amgen.com/search-jobs",
+  "ats": "Unknown",
+  "sector": "Biotech",
+  "needs_review": true
+ },
+ {
+  "id": "viatris",
+  "name": "Viatris",
+  "url": "https://viatris.wd5.myworkdayjobs.com/External",
+  "ats": "Workday",
+  "sector": "Pharma",
+  "needs_review": true
+ },
+ {
+  "id": "teva-pharmaceutical",
+  "name": "Teva Pharmaceutical",
+  "url": "https://careers.teva/careers",
+  "ats": "Unknown",
+  "sector": "Pharma",
+  "needs_review": true
+ },
+ {
+  "id": "merck-kgaa-emd-group",
+  "name": "Merck KGaA (EMD Group)",
+  "url": "https://careers.emdgroup.com/us/en",
+  "ats": "Unknown",
+  "sector": "Pharma / life sciences",
+  "needs_review": true
+ },
+ {
+  "id": "gilead-sciences",
+  "name": "Gilead Sciences",
+  "url": "https://jobs.gilead.com",
+  "ats": "Unknown",
+  "sector": "Biopharma",
+  "needs_review": true
+ },
+ {
+  "id": "servier",
+  "name": "Servier",
+  "url": "https://careers.servier.com",
+  "ats": "Unknown",
+  "sector": "Pharma",
+  "needs_review": true
+ },
+ {
+  "id": "fresenius-medical-care",
+  "name": "Fresenius Medical Care",
+  "url": "https://careers.fresenius.com",
+  "ats": "Unknown",
+  "sector": "Dialysis / medical devices",
+  "needs_review": true
+ },
+ {
+  "id": "zulekha-healthcare-group",
+  "name": "Zulekha Healthcare Group",
+  "url": "https://myhrismax1.myadrenalin.com/CandidateMAX/#/?CompanyID=ZULEKHA",
+  "ats": "Custom",
+  "sector": "Hospital group",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-hospitals-group",
+  "name": "Emirates Hospitals Group",
+  "url": "https://emirateshospitals.ae/careers/",
+  "ats": "Custom",
+  "sector": "Hospital group",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-health",
+  "name": "Dubai Health",
+  "url": "https://dubaihealth.ae/careers",
+  "ats": "Unknown",
+  "sector": "Academic health system",
+  "needs_review": true
+ },
+ {
+  "id": "zimmer-biomet",
+  "name": "Zimmer Biomet",
+  "url": "https://apply.workable.com/zimmer-biomet/",
+  "ats": "Unknown",
+  "sector": "Medical devices",
+  "needs_review": true
+ },
+ {
+  "id": "johnson-johnson-medtech",
+  "name": "Johnson & Johnson MedTech",
+  "url": "https://www.careers.jnj.com",
+  "ats": "Unknown",
+  "sector": "Medical devices",
+  "needs_review": true
+ },
+ {
+  "id": "thumbay-group",
+  "name": "Thumbay Group",
+  "url": "https://thumbaygroup.com/careers",
+  "ats": "Unknown",
+  "sector": "Healthcare and education group",
+  "needs_review": true
+ },
+ {
+  "id": "al-zahra-hospital",
+  "name": "Al Zahra Hospital",
+  "url": "https://www.alzahra.com/careers",
+  "ats": "Unknown",
+  "sector": "Hospital",
+  "needs_review": true
+ },
+ {
+  "id": "life-pharmacy-life-healthcare-group",
+  "name": "Life Pharmacy (Life Healthcare Group)",
+  "url": "https://www.lifepharmacy.com/careers",
+  "ats": "Unknown",
+  "sector": "Pharmacy chain",
+  "needs_review": true
+ },
+ {
+  "id": "nas-neuron-health-services",
+  "name": "NAS Neuron Health Services",
+  "url": "https://nas.ae/careers",
+  "ats": "Unknown",
+  "sector": "TPA / health insurance services",
+  "needs_review": true
+ },
+ {
+  "id": "prime-healthcare-group",
+  "name": "Prime Healthcare Group",
+  "url": "https://primehealthcare.ae/careers",
+  "ats": "Unknown",
+  "sector": "Hospital group",
+  "needs_review": true
+ },
+ {
+  "id": "medcare-hospitals",
+  "name": "Medcare Hospitals",
+  "url": "https://www.medcare.ae/careers",
+  "ats": "Unknown",
+  "sector": "Hospital group",
+  "needs_review": true
+ },
+ {
+  "id": "al-ansari-exchange",
+  "name": "Al Ansari Exchange",
+  "url": "https://careers.alansariexchange.com",
+  "ats": "SuccessFactors",
+  "sector": "Exchange house / remittance",
+  "needs_review": true
+ },
+ {
+  "id": "central-bank-of-the-uae-cbuae",
+  "name": "Central Bank of the UAE (CBUAE)",
+  "url": "https://centralbank.ae/en/careers/",
+  "ats": "Custom",
+  "sector": "Regulator",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-financial-services-authority-dfsa",
+  "name": "Dubai Financial Services Authority (DFSA)",
+  "url": "https://www.dfsa.ae/career",
+  "ats": "Custom",
+  "sector": "Financial free zone regulator",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-insurance-company",
+  "name": "Emirates Insurance Company",
+  "url": "https://eminsco.com/careers",
+  "ats": "Custom",
+  "sector": "Insurance",
+  "needs_review": true
+ },
+ {
+  "id": "western-union",
+  "name": "Western Union",
+  "url": "https://careers.westernunion.com",
+  "ats": "Workday",
+  "sector": "Remittance / payments",
+  "needs_review": true
+ },
+ {
+  "id": "moody-s",
+  "name": "Moody's",
+  "url": "https://careers.moodys.com",
+  "ats": "Unknown",
+  "sector": "Ratings / financial info",
+  "needs_review": true
+ },
+ {
+  "id": "metlife",
+  "name": "MetLife",
+  "url": "https://www.metlifecareers.com",
+  "ats": "Unknown",
+  "sector": "Insurance",
+  "needs_review": true
+ },
+ {
+  "id": "wtw-willis-towers-watson",
+  "name": "WTW (Willis Towers Watson)",
+  "url": "https://careers.wtwco.com/jobs/search",
+  "ats": "Unknown",
+  "sector": "Insurance broking / HR consulting",
+  "needs_review": true
+ },
+ {
+  "id": "gallagher-arthur-j-gallagher",
+  "name": "Gallagher (Arthur J. Gallagher)",
+  "url": "https://jobs.ajg.com/ajg-home/jobs",
+  "ats": "Unknown",
+  "sector": "Insurance broking",
+  "needs_review": true
+ },
+ {
+  "id": "invesco",
+  "name": "Invesco",
+  "url": "https://invesco.wd1.myworkdayjobs.com/IVZ",
+  "ats": "Workday",
+  "sector": "Asset management",
+  "needs_review": true
+ },
+ {
+  "id": "societe-generale",
+  "name": "Societe Generale",
+  "url": "https://careers.societegenerale.com/rechercher",
+  "ats": "Custom",
+  "sector": "Banking",
+  "needs_review": true
+ },
+ {
+  "id": "stripe",
+  "name": "Stripe",
+  "url": "https://stripe.com/jobs",
+  "ats": "Custom",
+  "sector": "Fintech / payments",
+  "needs_review": true
+ },
+ {
+  "id": "paypal",
+  "name": "PayPal",
+  "url": "https://paypal.eightfold.ai/careers",
+  "ats": "Eightfold",
+  "sector": "Fintech / payments",
+  "needs_review": true
+ },
+ {
+  "id": "checkout-com",
+  "name": "Checkout.com",
+  "url": "https://www.checkout.com/careers",
+  "ats": "Unknown",
+  "sector": "Fintech / payments",
+  "needs_review": true
+ },
+ {
+  "id": "kkr",
+  "name": "KKR",
+  "url": "https://www.kkr.com/careers/career-opportunities",
+  "ats": "Unknown",
+  "sector": "Private equity / asset management",
+  "needs_review": true
+ },
+ {
+  "id": "chubb",
+  "name": "Chubb",
+  "url": "https://careers.chubb.com",
+  "ats": "Oracle HCM",
+  "sector": "Insurance",
+  "needs_review": true
+ },
+ {
+  "id": "nasdaq",
+  "name": "Nasdaq",
+  "url": "https://www.nasdaq.com/careers",
+  "ats": "Unknown",
+  "sector": "Exchange / fintech",
+  "needs_review": true
+ },
+ {
+  "id": "investcorp",
+  "name": "Investcorp",
+  "url": "https://www.investcorp.com/careers",
+  "ats": "Unknown",
+  "sector": "Alternative investments",
+  "needs_review": true
+ },
+ {
+  "id": "julius-baer",
+  "name": "Julius Baer",
+  "url": "https://careers.juliusbaer.com",
+  "ats": "Unknown",
+  "sector": "Private banking / wealth",
+  "needs_review": true
+ },
+ {
+  "id": "lseg-london-stock-exchange-group",
+  "name": "LSEG (London Stock Exchange Group)",
+  "url": "https://careers.lseg.com",
+  "ats": "Unknown",
+  "sector": "Exchange / financial data",
+  "needs_review": true
+ },
+ {
+  "id": "credit-agricole-cib",
+  "name": "Credit Agricole CIB",
+  "url": "https://careers.ca-cib.com",
+  "ats": "Unknown",
+  "sector": "Banking",
+  "needs_review": true
+ },
+ {
+  "id": "american-express",
+  "name": "American Express",
+  "url": "https://aexp.eightfold.ai/careers",
+  "ats": "Eightfold",
+  "sector": "Cards / payments",
+  "needs_review": true
+ },
+ {
+  "id": "okx",
+  "name": "OKX",
+  "url": "https://www.okx.com/careers",
+  "ats": "Custom",
+  "sector": "Crypto exchange",
+  "needs_review": true
+ },
+ {
+  "id": "lockton",
+  "name": "Lockton",
+  "url": "https://www.locktoninternational.com/careers",
+  "ats": "Unknown",
+  "sector": "Insurance broking",
+  "needs_review": true
+ },
+ {
+  "id": "howden",
+  "name": "Howden",
+  "url": "https://www.howdengroup.com/careers",
+  "ats": "Unknown",
+  "sector": "Insurance broking",
+  "needs_review": true
+ },
+ {
+  "id": "wio-bank",
+  "name": "Wio Bank",
+  "url": "https://www.wio.io/en/careers",
+  "ats": "Unknown",
+  "sector": "Digital bank",
+  "needs_review": true
+ },
+ {
+  "id": "zand-bank",
+  "name": "Zand Bank",
+  "url": "https://www.zand.ae",
+  "ats": "Unknown",
+  "sector": "Digital bank",
+  "needs_review": true
+ },
+ {
+  "id": "network-international",
+  "name": "Network International",
+  "url": "https://www.network.global",
+  "ats": "Unknown",
+  "sector": "Payments / fintech",
+  "needs_review": true
+ },
+ {
+  "id": "orient-insurance",
+  "name": "Orient Insurance",
+  "url": "https://www.orientinsurance.com",
+  "ats": "Unknown",
+  "sector": "Insurance (Al Futtaim)",
+  "needs_review": true
+ },
+ {
+  "id": "lulu-international-exchange",
+  "name": "Lulu International Exchange",
+  "url": "https://www.luluexchange.com",
+  "ats": "Unknown",
+  "sector": "Exchange house / remittance",
+  "needs_review": true
+ },
+ {
+  "id": "financial-services-regulatory-authority-adgm-fsra",
+  "name": "Financial Services Regulatory Authority (ADGM FSRA)",
+  "url": "https://www.adgm.com/fsra",
+  "ats": "Unknown",
+  "sector": "Financial free zone regulator",
+  "needs_review": true
+ },
+ {
+  "id": "securities-and-commodities-authority-sca",
+  "name": "Securities and Commodities Authority (SCA)",
+  "url": "https://www.sca.gov.ae",
+  "ats": "Unknown",
+  "sector": "Regulator",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-insurance-company",
+  "name": "Dubai Insurance Company",
+  "url": "https://www.dubins.ae",
+  "ats": "Unknown",
+  "sector": "Insurance",
+  "needs_review": true
+ },
+ {
+  "id": "national-bank-of-umm-al-qaiwain-nbq",
+  "name": "National Bank of Umm Al Qaiwain (NBQ)",
+  "url": "https://www.nbq.ae",
+  "ats": "Unknown",
+  "sector": "Banking",
+  "needs_review": true
+ },
+ {
+  "id": "united-arab-bank",
+  "name": "United Arab Bank",
+  "url": "https://www.uab.ae",
+  "ats": "Unknown",
+  "sector": "Banking",
+  "needs_review": true
+ },
+ {
+  "id": "invest-bank",
+  "name": "Invest Bank",
+  "url": "https://www.investbank.ae",
+  "ats": "Unknown",
+  "sector": "Banking",
+  "needs_review": true
+ },
+ {
+  "id": "nakheel",
+  "name": "Nakheel",
+  "url": "https://www.nakheel.com/en/careers",
+  "ats": "Oracle HCM",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-properties",
+  "name": "Dubai Properties",
+  "url": "https://www.dubaiproperties.ae/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "danube-properties",
+  "name": "Danube Properties",
+  "url": "https://www.danubeproperties.com/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "deyaar-development",
+  "name": "Deyaar Development",
+  "url": "https://www.deyaar.ae/en/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "nshama",
+  "name": "Nshama",
+  "url": "https://www.nshama.com/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "select-group",
+  "name": "Select Group",
+  "url": "https://www.select-group.ae/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "reportage-properties",
+  "name": "Reportage Properties",
+  "url": "https://www.reportageproperties.com/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "tilal-properties",
+  "name": "Tilal Properties",
+  "url": "https://www.tilalproperties.com/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-south",
+  "name": "Dubai South",
+  "url": "https://www.dubaisouth.ae/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "wasl-properties",
+  "name": "Wasl Properties",
+  "url": "https://www.wasl.ae/en/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "arabian-construction-company-acc",
+  "name": "Arabian Construction Company (ACC)",
+  "url": "https://www.acc-uae.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "alec-engineering-and-contracting",
+  "name": "ALEC Engineering and Contracting",
+  "url": "https://www.alec.ae/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "khansaheb-civil-engineering",
+  "name": "Khansaheb Civil Engineering",
+  "url": "https://www.khansaheb.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "al-naboodah-construction-group",
+  "name": "Al Naboodah Construction Group",
+  "url": "https://www.alnaboodah.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "dutco-group",
+  "name": "Dutco Group",
+  "url": "https://www.dutco.com",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "consolidated-contractors-company-ccc",
+  "name": "Consolidated Contractors Company (CCC)",
+  "url": "https://www.ccc.net/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "larsen-toubro-middle-east",
+  "name": "Larsen & Toubro (Middle East)",
+  "url": "https://larsentoubrocareers.peoplestrong.com",
+  "ats": "Custom",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "shapoorji-pallonji-middle-east",
+  "name": "Shapoorji Pallonji Middle East",
+  "url": "https://www.shapoorjipallonji.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "samsung-c-t-uae",
+  "name": "Samsung C&T (UAE)",
+  "url": "https://www.samsungcnt.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "hyundai-engineering-construction-uae",
+  "name": "Hyundai Engineering & Construction (UAE)",
+  "url": "https://www.hdec.kr/en/recruit",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "china-state-construction-engineering-cscec-middle-east",
+  "name": "China State Construction Engineering (CSCEC Middle East)",
+  "url": "https://www.cscec.com",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "orascom-construction",
+  "name": "Orascom Construction",
+  "url": "https://www.orascom.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "brookfield-multiplex-middle-east",
+  "name": "Brookfield Multiplex (Middle East)",
+  "url": "https://www.multiplex.global/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "laing-o-rourke-middle-east",
+  "name": "Laing O'Rourke (Middle East)",
+  "url": "https://www.laingorourke.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "bechtel",
+  "name": "Bechtel",
+  "url": "https://jobs.bechtel.com",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "fluor",
+  "name": "Fluor",
+  "url": "https://fluor.jobs/jobs/",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "kbr",
+  "name": "KBR",
+  "url": "https://jobs.kbr.com",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "worley",
+  "name": "Worley",
+  "url": "https://jobs.worley.com/careers",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "turner-townsend",
+  "name": "Turner & Townsend",
+  "url": "https://www.turnerandtownsend.com/join-us/current-opportunities/",
+  "ats": "Custom",
+  "sector": "Project management & cost consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "arcadis",
+  "name": "Arcadis",
+  "url": "https://careers.arcadis.com",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "stantec",
+  "name": "Stantec",
+  "url": "https://www.stantec.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "gensler",
+  "name": "Gensler",
+  "url": "https://talent.gensler.com",
+  "ats": "Custom",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "buro-happold",
+  "name": "Buro Happold",
+  "url": "https://www.burohappold.com/careers/",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "keo-international-consultants",
+  "name": "KEO International Consultants",
+  "url": "https://www.keoic.com/careers",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "khatib-alami",
+  "name": "Khatib & Alami",
+  "url": "https://www.khatibalami.com/careers",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "perkins-will",
+  "name": "Perkins&Will",
+  "url": "https://perkinswill.com/careers/",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "hok",
+  "name": "HOK",
+  "url": "https://www.hok.com/careers/",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "currie-brown",
+  "name": "Currie & Brown",
+  "url": "https://www.curriebrown.com/careers/",
+  "ats": "Unknown",
+  "sector": "Project management & cost consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "cundall",
+  "name": "Cundall",
+  "url": "https://www.cundall.com/careers",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "cushman-wakefield-core",
+  "name": "Cushman & Wakefield Core",
+  "url": "https://www.cushwake.ae/en/careers",
+  "ats": "Unknown",
+  "sector": "Real estate brokerage",
+  "needs_review": true
+ },
+ {
+  "id": "knight-frank-uae",
+  "name": "Knight Frank UAE",
+  "url": "https://jobs.knightfrank.com",
+  "ats": "SuccessFactors",
+  "sector": "Real estate brokerage",
+  "needs_review": true
+ },
+ {
+  "id": "colliers-uae",
+  "name": "Colliers UAE",
+  "url": "https://careers.colliers.com/jobs",
+  "ats": "Custom",
+  "sector": "Real estate brokerage",
+  "needs_review": true
+ },
+ {
+  "id": "savills-middle-east",
+  "name": "Savills Middle East",
+  "url": "https://savillsmiddleeast.teamtailor.com/",
+  "ats": "Custom",
+  "sector": "Real estate brokerage",
+  "needs_review": true
+ },
+ {
+  "id": "property-finder",
+  "name": "Property Finder",
+  "url": "https://job-boards.greenhouse.io/propertyfinder",
+  "ats": "Greenhouse",
+  "sector": "Real estate portal / proptech",
+  "needs_review": true
+ },
+ {
+  "id": "betterhomes",
+  "name": "Betterhomes",
+  "url": "https://www.bhomes.com/en/careers",
+  "ats": "Custom",
+  "sector": "Real estate brokerage",
+  "needs_review": true
+ },
+ {
+  "id": "allsopp-allsopp",
+  "name": "Allsopp & Allsopp",
+  "url": "https://www.allsoppandallsopp.com/careers",
+  "ats": "Unknown",
+  "sector": "Real estate brokerage",
+  "needs_review": true
+ },
+ {
+  "id": "gulf-sotheby-s-driven-properties",
+  "name": "Gulf Sotheby's / Driven Properties",
+  "url": "https://www.drivenproperties.com/careers",
+  "ats": "Unknown",
+  "sector": "Real estate brokerage",
+  "needs_review": true
+ },
+ {
+  "id": "fam-properties",
+  "name": "Fam Properties",
+  "url": "https://www.famproperties.com/careers",
+  "ats": "Unknown",
+  "sector": "Real estate brokerage",
+  "needs_review": true
+ },
+ {
+  "id": "khidmah",
+  "name": "Khidmah",
+  "url": "https://www.khidmah.com/careers",
+  "ats": "Unknown",
+  "sector": "Facilities management",
+  "needs_review": true
+ },
+ {
+  "id": "efs-facilities-services",
+  "name": "EFS Facilities Services",
+  "url": "https://www.efsme.com/careers",
+  "ats": "Unknown",
+  "sector": "Facilities management",
+  "needs_review": true
+ },
+ {
+  "id": "iss-facility-services-uae",
+  "name": "ISS Facility Services UAE",
+  "url": "https://www.issworld.com/en-ae/careers",
+  "ats": "Unknown",
+  "sector": "Facilities management",
+  "needs_review": true
+ },
+ {
+  "id": "sodexo-middle-east",
+  "name": "Sodexo Middle East",
+  "url": "https://ae.sodexo.com/careers.html",
+  "ats": "Unknown",
+  "sector": "Facilities management",
+  "needs_review": true
+ },
+ {
+  "id": "serco-middle-east",
+  "name": "Serco Middle East",
+  "url": "https://www.serco.com/careers",
+  "ats": "Unknown",
+  "sector": "Facilities management",
+  "needs_review": true
+ },
+ {
+  "id": "bouygues-energies-services-middle-east",
+  "name": "Bouygues Energies & Services Middle East",
+  "url": "https://www.bouygues-es.com/careers",
+  "ats": "Unknown",
+  "sector": "Facilities management",
+  "needs_review": true
+ },
+ {
+  "id": "otis-elevator-uae",
+  "name": "Otis Elevator (UAE)",
+  "url": "https://www.otis.com/en/us/careers",
+  "ats": "Workday",
+  "sector": "Building systems & MEP",
+  "needs_review": true
+ },
+ {
+  "id": "schindler-middle-east",
+  "name": "Schindler Middle East",
+  "url": "https://group.schindler.com/en/careers.html",
+  "ats": "Unknown",
+  "sector": "Building systems & MEP",
+  "needs_review": true
+ },
+ {
+  "id": "kone-middle-east",
+  "name": "KONE Middle East",
+  "url": "https://careers.kone.com",
+  "ats": "Unknown",
+  "sector": "Building systems & MEP",
+  "needs_review": true
+ },
+ {
+  "id": "tk-elevator-middle-east",
+  "name": "TK Elevator Middle East",
+  "url": "https://www.tkelevator.com/global-en/careers/",
+  "ats": "Unknown",
+  "sector": "Building systems & MEP",
+  "needs_review": true
+ },
+ {
+  "id": "johnson-controls-middle-east",
+  "name": "Johnson Controls (Middle East)",
+  "url": "https://jobs.johnsoncontrols.com",
+  "ats": "Workday",
+  "sector": "Building systems & MEP",
+  "needs_review": true
+ },
+ {
+  "id": "carrier-middle-east",
+  "name": "Carrier Middle East",
+  "url": "https://careers.carrier.com",
+  "ats": "Unknown",
+  "sector": "Building systems & MEP",
+  "needs_review": true
+ },
+ {
+  "id": "honeywell-middle-east",
+  "name": "Honeywell Middle East",
+  "url": "https://careers.honeywell.com",
+  "ats": "Unknown",
+  "sector": "Building systems & MEP",
+  "needs_review": true
+ },
+ {
+  "id": "schneider-electric-middle-east",
+  "name": "Schneider Electric Middle East",
+  "url": "https://www.se.com/ww/en/about-us/careers/",
+  "ats": "Unknown",
+  "sector": "Building systems & MEP",
+  "needs_review": true
+ },
+ {
+  "id": "abb-middle-east",
+  "name": "ABB Middle East",
+  "url": "https://careers.abb",
+  "ats": "Unknown",
+  "sector": "Building systems & MEP",
+  "needs_review": true
+ },
+ {
+  "id": "holcim-middle-east",
+  "name": "Holcim Middle East",
+  "url": "https://careers.holcim.com",
+  "ats": "Unknown",
+  "sector": "Building materials",
+  "needs_review": true
+ },
+ {
+  "id": "rak-ceramics",
+  "name": "RAK Ceramics",
+  "url": "https://corporate.rakceramics.com/careers",
+  "ats": "Unknown",
+  "sector": "Building materials",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-steel-arkan",
+  "name": "Emirates Steel Arkan",
+  "url": "https://www.emiratessteelarkan.com/careers",
+  "ats": "Unknown",
+  "sector": "Building materials",
+  "needs_review": true
+ },
+ {
+  "id": "saint-gobain-middle-east",
+  "name": "Saint-Gobain Middle East",
+  "url": "https://www.saint-gobain.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Building materials",
+  "needs_review": true
+ },
+ {
+  "id": "jotun-uae",
+  "name": "Jotun UAE",
+  "url": "https://www.jotun.com/ae-en/careers",
+  "ats": "Unknown",
+  "sector": "Building materials",
+  "needs_review": true
+ },
+ {
+  "id": "national-paints",
+  "name": "National Paints",
+  "url": "https://www.national-paints.com/careers",
+  "ats": "Unknown",
+  "sector": "Building materials",
+  "needs_review": true
+ },
+ {
+  "id": "gulf-extrusions",
+  "name": "Gulf Extrusions",
+  "url": "https://www.gulfextrusions.com/careers",
+  "ats": "Unknown",
+  "sector": "Building materials",
+  "needs_review": true
+ },
+ {
+  "id": "conares",
+  "name": "Conares",
+  "url": "https://www.conares.com/careers",
+  "ats": "Unknown",
+  "sector": "Building materials",
+  "needs_review": true
+ },
+ {
+  "id": "depa-group",
+  "name": "Depa Group",
+  "url": "https://www.depa.com/careers",
+  "ats": "Unknown",
+  "sector": "Interior fit-out & design",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-investments-park-dip",
+  "name": "Dubai Investments Park (DIP)",
+  "url": "https://www.dip.ae/careers",
+  "ats": "Unknown",
+  "sector": "Real estate developer",
+  "needs_review": true
+ },
+ {
+  "id": "ghantoot-group",
+  "name": "Ghantoot Group",
+  "url": "https://www.ghantoot.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "six-construct",
+  "name": "Six Construct",
+  "url": "https://www.sixconstruct.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "hassan-allam-holding",
+  "name": "Hassan Allam Holding",
+  "url": "https://www.hassanallam.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "trojan-holding",
+  "name": "Trojan Holding",
+  "url": "https://www.trojan.ae/careers",
+  "ats": "Unknown",
+  "sector": "Construction & contracting",
+  "needs_review": true
+ },
+ {
+  "id": "norr-group",
+  "name": "NORR Group",
+  "url": "https://www.norr.com/careers",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "populous",
+  "name": "Populous",
+  "url": "https://populous.com/careers",
+  "ats": "Unknown",
+  "sector": "Engineering & design consultancy",
+  "needs_review": true
+ },
+ {
+  "id": "spinneys",
+  "name": "Spinneys",
+  "url": "https://corporate.spinneys.com/Careers",
+  "ats": "Custom",
+  "sector": "Supermarkets / retail",
+  "needs_review": true
+ },
+ {
+  "id": "mumzworld",
+  "name": "Mumzworld",
+  "url": "https://careers.mumzworld.com/jobs",
+  "ats": "Custom",
+  "sector": "E-commerce / mother and baby retail",
+  "needs_review": true
+ },
+ {
+  "id": "al-maya-group",
+  "name": "Al Maya Group",
+  "url": "https://www.almaya.ae/career.php",
+  "ats": "Custom",
+  "sector": "Supermarkets / FMCG distribution",
+  "needs_review": true
+ },
+ {
+  "id": "redington-gulf",
+  "name": "Redington Gulf",
+  "url": "https://www.redingtongroup.com/careers",
+  "ats": "Custom",
+  "sector": "Technology and consumer distribution",
+  "needs_review": true
+ },
+ {
+  "id": "namshi",
+  "name": "Namshi",
+  "url": "https://careers.smartrecruiters.com/Namshi",
+  "ats": "SmartRecruiters",
+  "sector": "Fashion e-commerce",
+  "needs_review": true
+ },
+ {
+  "id": "noon",
+  "name": "Noon",
+  "url": "https://www.noon.com/careers",
+  "ats": "Unknown",
+  "sector": "E-commerce",
+  "needs_review": true
+ },
+ {
+  "id": "choithrams",
+  "name": "Choithrams",
+  "url": "https://www.choithrams.com",
+  "ats": "Unknown",
+  "sector": "Supermarkets",
+  "needs_review": true
+ },
+ {
+  "id": "danube-group",
+  "name": "Danube Group",
+  "url": "https://www.danubehome.com",
+  "ats": "Unknown",
+  "sector": "Building materials and home retail",
+  "needs_review": true
+ },
+ {
+  "id": "decathlon-uae",
+  "name": "Decathlon UAE",
+  "url": "https://www.decathlon.ae",
+  "ats": "Unknown",
+  "sector": "Sports retail",
+  "needs_review": true
+ },
+ {
+  "id": "nesto-group",
+  "name": "Nesto Group",
+  "url": "https://www.nestogroup.com",
+  "ats": "Unknown",
+  "sector": "Hypermarkets",
+  "needs_review": true
+ },
+ {
+  "id": "damas-jewellery",
+  "name": "Damas Jewellery",
+  "url": "https://www.damasjewellery.com",
+  "ats": "Unknown",
+  "sector": "Jewellery",
+  "needs_review": true
+ },
+ {
+  "id": "joyalukkas",
+  "name": "Joyalukkas",
+  "url": "https://www.joyalukkas.com",
+  "ats": "Unknown",
+  "sector": "Jewellery",
+  "needs_review": true
+ },
+ {
+  "id": "axiom-telecom",
+  "name": "Axiom Telecom",
+  "url": "https://www.axiomtelecom.com",
+  "ats": "Unknown",
+  "sector": "Electronics retail",
+  "needs_review": true
+ },
+ {
+  "id": "sun-sand-sports",
+  "name": "Sun & Sand Sports",
+  "url": "https://www.sunandsandsports.com",
+  "ats": "Unknown",
+  "sector": "Sports retail",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-government-careers-portal",
+  "name": "Dubai Government Careers Portal",
+  "url": "https://dubaicareers.ae",
+  "ats": "Custom",
+  "sector": "Government",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-police",
+  "name": "Dubai Police",
+  "url": "https://ejob.dubaipolice.gov.ae/en",
+  "ats": "Custom",
+  "sector": "Government / Police",
+  "needs_review": true
+ },
+ {
+  "id": "adek-abu-dhabi-dept-of-education-and-knowledge",
+  "name": "ADEK (Abu Dhabi Dept of Education and Knowledge)",
+  "url": "https://adek.gov.ae/Careers",
+  "ats": "Custom",
+  "sector": "Government / Education",
+  "needs_review": true
+ },
+ {
+  "id": "department-of-municipalities-and-transport-abu-dhabi",
+  "name": "Department of Municipalities and Transport (Abu Dhabi)",
+  "url": "https://pages.dmt.gov.ae/en/Careers",
+  "ats": "Custom",
+  "sector": "Government",
+  "needs_review": true
+ },
+ {
+  "id": "ministry-of-community-empowerment-moce",
+  "name": "Ministry of Community Empowerment (MOCE)",
+  "url": "https://moce.gov.ae/en/careers",
+  "ats": "Custom",
+  "sector": "Federal Ministry",
+  "needs_review": true
+ },
+ {
+  "id": "ajman-government-department-of-digital-ajman",
+  "name": "Ajman Government (Department of Digital Ajman)",
+  "url": "https://www.ajman.ae/en/job-vacancies",
+  "ats": "Custom",
+  "sector": "Government",
+  "needs_review": true
+ },
+ {
+  "id": "tecom-group",
+  "name": "TECOM Group",
+  "url": "https://www.tecom.ae/careers",
+  "ats": "Unknown",
+  "sector": "Free zones / Business parks",
+  "needs_review": true
+ },
+ {
+  "id": "rakez-ras-al-khaimah-economic-zone",
+  "name": "RAKEZ (Ras Al Khaimah Economic Zone)",
+  "url": "https://www.rakez.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Free zone",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-electricity-water-and-gas-authority-sewa",
+  "name": "Sharjah Electricity, Water and Gas Authority (SEWA)",
+  "url": "https://careers.sewa.gov.ae/english/CurrentVacancies.aspx",
+  "ats": "Custom",
+  "sector": "Utility / Government",
+  "needs_review": true
+ },
+ {
+  "id": "twofour54",
+  "name": "twofour54",
+  "url": "https://www.twofour54.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Media free zone",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-department-of-human-resources",
+  "name": "Sharjah Department of Human Resources",
+  "url": "https://dhr.gov.ae",
+  "ats": "Custom",
+  "sector": "Government",
+  "needs_review": true
+ },
+ {
+  "id": "khda-knowledge-and-human-development-authority",
+  "name": "KHDA (Knowledge and Human Development Authority)",
+  "url": "https://www.khda.gov.ae",
+  "ats": "Unknown",
+  "sector": "Government / Education",
+  "needs_review": true
+ },
+ {
+  "id": "federal-authority-for-government-human-resources-fahr",
+  "name": "Federal Authority for Government Human Resources (FAHR)",
+  "url": "https://government.ae/en/resources/government-jobs",
+  "ats": "Custom",
+  "sector": "Federal Government",
+  "needs_review": true
+ },
+ {
+  "id": "ministry-of-human-resources-careers-portal",
+  "name": "Ministry of Human Resources careers portal",
+  "url": "https://mohre.gov.ae/en/careers",
+  "ats": "Custom",
+  "sector": "Federal Ministry",
+  "needs_review": true
+ },
+ {
+  "id": "mohammed-bin-rashid-space-centre",
+  "name": "Mohammed Bin Rashid Space Centre",
+  "url": "https://www.mbrsc.ae",
+  "ats": "Unknown",
+  "sector": "Government / Space",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-culture-and-arts-authority",
+  "name": "Dubai Culture and Arts Authority",
+  "url": "https://www.dubaiculture.gov.ae",
+  "ats": "Unknown",
+  "sector": "Government / Culture",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-silicon-oasis-authority",
+  "name": "Dubai Silicon Oasis Authority",
+  "url": "https://www.dso.ae",
+  "ats": "Unknown",
+  "sector": "Free zone",
+  "needs_review": true
+ },
+ {
+  "id": "kezad",
+  "name": "KEZAD",
+  "url": "https://www.kezad.com",
+  "ats": "Unknown",
+  "sector": "Industrial zone",
+  "needs_review": true
+ },
+ {
+  "id": "masdar-city-free-zone",
+  "name": "Masdar City Free Zone",
+  "url": "https://www.masdarcityfreezone.com",
+  "ats": "Unknown",
+  "sector": "Free zone",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-chambers",
+  "name": "Dubai Chambers",
+  "url": "https://www.dubaichamber.com",
+  "ats": "Unknown",
+  "sector": "Government / Chamber",
+  "needs_review": true
+ },
+ {
+  "id": "equinix",
+  "name": "Equinix",
+  "url": "https://careers.equinix.com",
+  "ats": "Custom",
+  "sector": "Technology / Data Centres",
+  "needs_review": true
+ },
+ {
+  "id": "tech-mahindra",
+  "name": "Tech Mahindra",
+  "url": "https://careers.techmahindra.com",
+  "ats": "Custom",
+  "sector": "IT Services",
+  "needs_review": true
+ },
+ {
+  "id": "hcltech",
+  "name": "HCLTech",
+  "url": "https://careers.hcltech.com/",
+  "ats": "Custom",
+  "sector": "IT Services",
+  "needs_review": true
+ },
+ {
+  "id": "ltimindtree",
+  "name": "LTIMindtree (LTM)",
+  "url": "https://www.ltm.com/careers",
+  "ats": "Custom",
+  "sector": "IT Services",
+  "needs_review": true
+ },
+ {
+  "id": "genpact",
+  "name": "Genpact",
+  "url": "https://www.genpact.com/careers",
+  "ats": "Custom",
+  "sector": "BPO / Professional Services",
+  "needs_review": true
+ },
+ {
+  "id": "concentrix",
+  "name": "Concentrix",
+  "url": "https://careers.concentrix.com",
+  "ats": "Custom",
+  "sector": "BPO / Call Centres",
+  "needs_review": true
+ },
+ {
+  "id": "teleperformance",
+  "name": "Teleperformance",
+  "url": "https://jobs.teleperformance.com",
+  "ats": "Custom",
+  "sector": "BPO / Call Centres",
+  "needs_review": true
+ },
+ {
+  "id": "crowe-uae",
+  "name": "Crowe UAE",
+  "url": "https://www.crowe.com/ae/careers",
+  "ats": "Custom",
+  "sector": "Audit & Advisory",
+  "needs_review": true
+ },
+ {
+  "id": "kroll",
+  "name": "Kroll",
+  "url": "https://www.kroll.com/en/careers",
+  "ats": "Custom",
+  "sector": "Advisory / Risk",
+  "needs_review": true
+ },
+ {
+  "id": "fti-consulting",
+  "name": "FTI Consulting",
+  "url": "https://www.fticonsulting.com/careers",
+  "ats": "Custom",
+  "sector": "Management Consulting",
+  "needs_review": true
+ },
+ {
+  "id": "alvarez-and-marsal",
+  "name": "Alvarez & Marsal",
+  "url": "https://www.alvarezandmarsal.com/careers",
+  "ats": "Custom",
+  "sector": "Advisory",
+  "needs_review": true
+ },
+ {
+  "id": "kearney",
+  "name": "Kearney",
+  "url": "https://www.kearney.com/careers",
+  "ats": "Custom",
+  "sector": "Management Consulting",
+  "needs_review": true
+ },
+ {
+  "id": "korn-ferry",
+  "name": "Korn Ferry",
+  "url": "https://jobs.kornferry.com",
+  "ats": "Custom",
+  "sector": "HR Consulting / Executive Search",
+  "needs_review": true
+ },
+ {
+  "id": "forvis-mazars",
+  "name": "Forvis Mazars",
+  "url": "https://www.forvismazars.com/ae/en/careers",
+  "ats": "Custom",
+  "sector": "Audit & Advisory",
+  "needs_review": true
+ },
+ {
+  "id": "rsm-uae",
+  "name": "RSM UAE",
+  "url": "https://www.rsm.global/uae/careers",
+  "ats": "Custom",
+  "sector": "Audit & Advisory",
+  "needs_review": true
+ },
+ {
+  "id": "alixpartners",
+  "name": "AlixPartners",
+  "url": "https://www.alixpartners.com/careers/",
+  "ats": "Custom",
+  "sector": "Management Consulting",
+  "needs_review": true
+ },
+ {
+  "id": "heidrick-struggles",
+  "name": "Heidrick & Struggles",
+  "url": "https://www.heidrick.com/en/careers",
+  "ats": "Custom",
+  "sector": "Executive Search",
+  "needs_review": true
+ },
+ {
+  "id": "egon-zehnder",
+  "name": "Egon Zehnder",
+  "url": "https://www.egonzehnder.com/careers",
+  "ats": "Custom",
+  "sector": "Executive Search",
+  "needs_review": true
+ },
+ {
+  "id": "robert-half-uae",
+  "name": "Robert Half UAE",
+  "url": "https://www.roberthalf.com/ae/en/jobs",
+  "ats": "Custom",
+  "sector": "Recruitment",
+  "needs_review": true
+ },
+ {
+  "id": "randstad-uae",
+  "name": "Randstad UAE",
+  "url": "https://www.randstad.ae/jobs/",
+  "ats": "Custom",
+  "sector": "Recruitment",
+  "needs_review": true
+ },
+ {
+  "id": "morgan-mckinley-uae",
+  "name": "Morgan McKinley UAE",
+  "url": "https://www.morganmckinley.com/ae",
+  "ats": "Custom",
+  "sector": "Recruitment",
+  "needs_review": true
+ },
+ {
+  "id": "manpowergroup-uae",
+  "name": "ManpowerGroup UAE",
+  "url": "https://www.manpowergroup.ae/",
+  "ats": "Custom",
+  "sector": "Recruitment / Staffing",
+  "needs_review": true
+ },
+ {
+  "id": "adecco-uae",
+  "name": "Adecco UAE",
+  "url": "https://www.adecco.ae",
+  "ats": "Custom",
+  "sector": "Recruitment / Staffing",
+  "needs_review": true
+ },
+ {
+  "id": "roland-berger",
+  "name": "Roland Berger",
+  "url": "https://www.rolandberger.com/en/Careers/",
+  "ats": "Custom",
+  "sector": "Management Consulting",
+  "needs_review": true
+ },
+ {
+  "id": "arthur-d-little",
+  "name": "Arthur D. Little",
+  "url": "https://www.adlittle.com/en/careers",
+  "ats": "Custom",
+  "sector": "Management Consulting",
+  "needs_review": true
+ },
+ {
+  "id": "huawei-uae",
+  "name": "Huawei UAE",
+  "url": "https://career.huawei.com/reccampportal/portal5/index.html",
+  "ats": "Custom",
+  "sector": "Telecom / ICT",
+  "needs_review": true
+ },
+ {
+  "id": "halliburton",
+  "name": "Halliburton",
+  "url": "https://jobs.halliburton.com",
+  "ats": "Custom",
+  "sector": "Oilfield services",
+  "needs_review": true
+ },
+ {
+  "id": "petrofac",
+  "name": "Petrofac",
+  "url": "https://careers.petrofac.com",
+  "ats": "Unknown",
+  "sector": "Oil and gas engineering",
+  "needs_review": true
+ },
+ {
+  "id": "technip-energies",
+  "name": "Technip Energies",
+  "url": "https://careers.technipenergies.com",
+  "ats": "Unknown",
+  "sector": "Oil and gas engineering",
+  "needs_review": true
+ },
+ {
+  "id": "weatherford",
+  "name": "Weatherford",
+  "url": "https://careers.weatherford.com",
+  "ats": "Unknown",
+  "sector": "Oilfield services",
+  "needs_review": true
+ },
+ {
+  "id": "nov",
+  "name": "NOV",
+  "url": "https://nov.wd5.myworkdayjobs.com/NOV_External",
+  "ats": "Workday",
+  "sector": "Oilfield equipment",
+  "needs_review": true
+ },
+ {
+  "id": "nabors",
+  "name": "Nabors",
+  "url": "https://careers.nabors.com",
+  "ats": "Unknown",
+  "sector": "Drilling",
+  "needs_review": true
+ },
+ {
+  "id": "npcc-national-petroleum-construction-company",
+  "name": "NPCC (National Petroleum Construction Company)",
+  "url": "https://www.npcc.ae/careers",
+  "ats": "Custom",
+  "sector": "Offshore EPC",
+  "needs_review": true
+ },
+ {
+  "id": "totalenergies",
+  "name": "TotalEnergies",
+  "url": "https://careers.totalenergies.com",
+  "ats": "Custom",
+  "sector": "Oil and gas",
+  "needs_review": true
+ },
+ {
+  "id": "ewec-emirates-water-and-electricity-company",
+  "name": "EWEC (Emirates Water and Electricity Company)",
+  "url": "https://www.ewec.ae/en/careers",
+  "ats": "Unknown",
+  "sector": "Utilities and water",
+  "needs_review": true
+ },
+ {
+  "id": "fedex-express-uae",
+  "name": "FedEx Express UAE",
+  "url": "https://careers.fedex.com",
+  "ats": "Custom",
+  "sector": "Logistics / courier",
+  "needs_review": true
+ },
+ {
+  "id": "siemens-energy",
+  "name": "Siemens Energy",
+  "url": "https://jobs.siemens-energy.com",
+  "ats": "Custom",
+  "sector": "Energy technology",
+  "needs_review": true
+ },
+ {
+  "id": "abb",
+  "name": "ABB",
+  "url": "https://careers.abb",
+  "ats": "Custom",
+  "sector": "Industrial automation",
+  "needs_review": true
+ },
+ {
+  "id": "wood-wood-group",
+  "name": "Wood (Wood Group)",
+  "url": "https://www.woodplc.com/careers",
+  "ats": "Unknown",
+  "sector": "Energy engineering",
+  "needs_review": true
+ },
+ {
+  "id": "technipfmc",
+  "name": "TechnipFMC",
+  "url": "https://careers.technipfmc.com",
+  "ats": "Unknown",
+  "sector": "Oilfield services",
+  "needs_review": true
+ },
+ {
+  "id": "kuehne-nagel",
+  "name": "Kuehne+Nagel",
+  "url": "https://jobs.kuehne-nagel.com",
+  "ats": "Unknown",
+  "sector": "Freight forwarding",
+  "needs_review": true
+ },
+ {
+  "id": "gac-gulf-agency-company",
+  "name": "GAC (Gulf Agency Company)",
+  "url": "https://www.gac.com/careers",
+  "ats": "Unknown",
+  "sector": "Shipping and logistics",
+  "needs_review": true
+ },
+ {
+  "id": "honeywell",
+  "name": "Honeywell",
+  "url": "https://careers.honeywell.com",
+  "ats": "Unknown",
+  "sector": "Industrial",
+  "needs_review": true
+ },
+ {
+  "id": "schneider-electric",
+  "name": "Schneider Electric",
+  "url": "https://careers.se.com",
+  "ats": "Unknown",
+  "sector": "Industrial / energy management",
+  "needs_review": true
+ },
+ {
+  "id": "acwa-power",
+  "name": "ACWA Power",
+  "url": "https://www.acwapower.com/careers",
+  "ats": "Unknown",
+  "sector": "Power and water",
+  "needs_review": true
+ },
+ {
+  "id": "veolia",
+  "name": "Veolia",
+  "url": "https://careers.veolia.com",
+  "ats": "Unknown",
+  "sector": "Water, waste, energy",
+  "needs_review": true
+ },
+ {
+  "id": "engie",
+  "name": "ENGIE",
+  "url": "https://careers.engie.com",
+  "ats": "Unknown",
+  "sector": "Energy and utilities",
+  "needs_review": true
+ },
+ {
+  "id": "wizz-air-abu-dhabi",
+  "name": "Wizz Air Abu Dhabi",
+  "url": "https://careers.wizzair.com",
+  "ats": "Unknown",
+  "sector": "Aviation",
+  "needs_review": true
+ },
+ {
+  "id": "boeing",
+  "name": "Boeing",
+  "url": "https://jobs.boeing.com",
+  "ats": "Unknown",
+  "sector": "Aerospace",
+  "needs_review": true
+ },
+ {
+  "id": "rolls-royce",
+  "name": "Rolls-Royce",
+  "url": "https://careers.rolls-royce.com",
+  "ats": "Unknown",
+  "sector": "Aerospace",
+  "needs_review": true
+ },
+ {
+  "id": "edge-group",
+  "name": "EDGE Group",
+  "url": "https://www.edgegroupuae.com/careers",
+  "ats": "Unknown",
+  "sector": "Defence and aerospace",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-aerospace-enterprise-dae",
+  "name": "Dubai Aerospace Enterprise (DAE)",
+  "url": "https://www.dubaiaerospace.com/careers",
+  "ats": "Unknown",
+  "sector": "Aviation leasing / MRO",
+  "needs_review": true
+ },
+ {
+  "id": "ducab",
+  "name": "Ducab",
+  "url": "https://www.ducab.com/careers",
+  "ats": "Unknown",
+  "sector": "Cables manufacturing",
+  "needs_review": true
+ },
+ {
+  "id": "al-dahra",
+  "name": "Al Dahra",
+  "url": "https://www.aldahra.com/careers",
+  "ats": "Unknown",
+  "sector": "Agriculture and food",
+  "needs_review": true
+ },
+ {
+  "id": "fertiglobe",
+  "name": "Fertiglobe",
+  "url": "https://www.fertiglobe.com/careers",
+  "ats": "Unknown",
+  "sector": "Fertilizers and chemicals",
+  "needs_review": true
+ },
+ {
+  "id": "dow-chemical",
+  "name": "Dow Chemical",
+  "url": "https://corporate.dow.com/en-us/careers",
+  "ats": "Unknown",
+  "sector": "Chemicals",
+  "needs_review": true
+ },
+ {
+  "id": "basf",
+  "name": "BASF",
+  "url": "https://www.basf.com/global/en/careers",
+  "ats": "Unknown",
+  "sector": "Chemicals",
+  "needs_review": true
+ },
+ {
+  "id": "sabic",
+  "name": "SABIC",
+  "url": "https://www.sabic.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Petrochemicals",
+  "needs_review": true
+ },
+ {
+  "id": "akzonobel",
+  "name": "AkzoNobel",
+  "url": "https://www.akzonobel.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Paints and coatings",
+  "needs_review": true
+ },
+ {
+  "id": "cma-cgm",
+  "name": "CMA CGM",
+  "url": "https://www.cma-cgm.com/careers",
+  "ats": "Unknown",
+  "sector": "Shipping",
+  "needs_review": true
+ },
+ {
+  "id": "hapag-lloyd",
+  "name": "Hapag-Lloyd",
+  "url": "https://www.hapag-lloyd.com/en/company/careers.html",
+  "ats": "Unknown",
+  "sector": "Shipping",
+  "needs_review": true
+ },
+ {
+  "id": "ceva-logistics",
+  "name": "CEVA Logistics",
+  "url": "https://www.cevalogistics.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Logistics",
+  "needs_review": true
+ },
+ {
+  "id": "lamprell",
+  "name": "Lamprell",
+  "url": "https://www.lamprell.com/careers",
+  "ats": "Unknown",
+  "sector": "Offshore fabrication",
+  "needs_review": true
+ },
+ {
+  "id": "drydocks-world",
+  "name": "Drydocks World",
+  "url": "https://www.drydocks.gov.ae/careers",
+  "ats": "Unknown",
+  "sector": "Shipbuilding and repair",
+  "needs_review": true
+ },
+ {
+  "id": "airbus",
+  "name": "Airbus",
+  "url": "https://www.airbus.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Aerospace",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-post-group",
+  "name": "Emirates Post Group",
+  "url": "https://www.emiratespostgroup.ae",
+  "ats": "Unknown",
+  "sector": "Postal and logistics",
+  "needs_review": true
+ },
+ {
+  "id": "ghitha-holding",
+  "name": "Ghitha Holding",
+  "url": "https://www.ghitha.com",
+  "ats": "Unknown",
+  "sector": "Food and agriculture",
+  "needs_review": true
+ },
+ {
+  "id": "caterpillar-al-bahar-zahid-dealers",
+  "name": "Caterpillar (Al-Bahar / Zahid dealers)",
+  "url": "https://careers.caterpillar.com",
+  "ats": "Unknown",
+  "sector": "Heavy equipment",
+  "needs_review": true
+ },
+ {
+  "id": "cummins",
+  "name": "Cummins",
+  "url": "https://www.cummins.com/careers",
+  "ats": "Unknown",
+  "sector": "Engines and power",
+  "needs_review": true
  }
 ]
