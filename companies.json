@@ -82,7 +82,7 @@
  {
   "id": "adia",
   "name": "Abu Dhabi Investment Authority (ADIA)",
-  "url": "https://careers.adia.ae/",
+  "url": "https://jobs.adia.ae/",
   "ats": "Custom",
   "sector": "Investment",
   "needs_review": false
@@ -425,7 +425,7 @@
  },
  {
   "id": "atkinsr-alis",
-  "name": "AtkinsR\u00e9alis",
+  "name": "AtkinsRéalis",
   "url": "https://careers.atkinsrealis.com/en",
   "ats": "Custom",
   "sector": "Construction",
@@ -986,7 +986,7 @@
  {
   "id": "dp-world",
   "name": "DP World",
-  "url": "https://careers.dpworld.com/",
+  "url": "https://www.dpworld.com/en/careers/vacancies",
   "ats": "Custom",
   "sector": "Aviation",
   "needs_review": false
@@ -1258,7 +1258,7 @@
  {
   "id": "etihad-rail",
   "name": "Etihad Rail",
-  "url": "https://www.etihadrail.ae/careers",
+  "url": "https://careers.etihadrail.ae",
   "ats": "Unknown",
   "sector": "Government",
   "needs_review": false
@@ -2778,7 +2778,7 @@
  {
   "id": "dusit-international",
   "name": "Dusit International",
-  "url": "https://careers.dusit.com/",
+  "url": "https://dusit-international.com/en/careers",
   "ats": "Custom",
   "sector": "Hotels & resorts",
   "needs_review": true
@@ -2930,7 +2930,7 @@
  {
   "id": "dubai-department-of-economy-and-tourism-det",
   "name": "Dubai Department of Economy and Tourism (DET)",
-  "url": "https://www.dubaidet.gov.ae/en/contact-det/careers",
+  "url": "https://dubaidet.gov.ae/en/careers",
   "ats": "Unknown",
   "sector": "Tourism authority",
   "needs_review": true
@@ -2970,7 +2970,7 @@
  {
   "id": "aldar-hospitality",
   "name": "Aldar Hospitality",
-  "url": "https://cdn.aldar.com/en/careers",
+  "url": "https://jobs.lever.co/aldar",
   "ats": "Unknown",
   "sector": "Hotels & hospitality (Aldar group)",
   "needs_review": true
@@ -3018,7 +3018,7 @@
  {
   "id": "citymax-hotels",
   "name": "Citymax Hotels",
-  "url": "https://citymaxhotels.com/",
+  "url": "https://citymaxhotels.com/careers",
   "ats": "Unknown",
   "sector": "Hotels",
   "needs_review": true
@@ -3098,7 +3098,7 @@
  {
   "id": "servier",
   "name": "Servier",
-  "url": "https://careers.servier.com",
+  "url": "https://jobs.servier.com",
   "ats": "Unknown",
   "sector": "Pharma",
   "needs_review": true
@@ -3274,7 +3274,7 @@
  {
   "id": "invesco",
   "name": "Invesco",
-  "url": "https://invesco.wd1.myworkdayjobs.com/IVZ",
+  "url": "https://careers.invesco.com/emea/",
   "ats": "Workday",
   "sector": "Asset management",
   "needs_review": true
@@ -3354,7 +3354,7 @@
  {
   "id": "lseg-london-stock-exchange-group",
   "name": "LSEG (London Stock Exchange Group)",
-  "url": "https://careers.lseg.com",
+  "url": "https://www.lseg.com/en/careers?lang=en",
   "ats": "Unknown",
   "sector": "Exchange / financial data",
   "needs_review": true
@@ -3362,7 +3362,7 @@
  {
   "id": "credit-agricole-cib",
   "name": "Credit Agricole CIB",
-  "url": "https://careers.ca-cib.com",
+  "url": "https://casa-cacib-recrute.talent-soft.com/",
   "ats": "Unknown",
   "sector": "Banking",
   "needs_review": true
@@ -3378,7 +3378,7 @@
  {
   "id": "okx",
   "name": "OKX",
-  "url": "https://www.okx.com/careers",
+  "url": "https://job-boards.greenhouse.io/okx",
   "ats": "Custom",
   "sector": "Crypto exchange",
   "needs_review": true
@@ -3562,7 +3562,7 @@
  {
   "id": "wasl-properties",
   "name": "Wasl Properties",
-  "url": "https://www.wasl.ae/en/careers",
+  "url": "https://careers.wasl.ae",
   "ats": "Unknown",
   "sector": "Real estate developer",
   "needs_review": true
@@ -3834,7 +3834,7 @@
  {
   "id": "property-finder",
   "name": "Property Finder",
-  "url": "https://job-boards.greenhouse.io/propertyfinder",
+  "url": "https://propertyfinder.com/careers/job-search",
   "ats": "Greenhouse",
   "sector": "Real estate portal / proptech",
   "needs_review": true
@@ -3858,7 +3858,7 @@
  {
   "id": "gulf-sotheby-s-driven-properties",
   "name": "Gulf Sotheby's / Driven Properties",
-  "url": "https://www.drivenproperties.com/careers",
+  "url": "https://apply.workable.com/driven-properties-1/",
   "ats": "Unknown",
   "sector": "Real estate brokerage",
   "needs_review": true
@@ -3866,7 +3866,7 @@
  {
   "id": "fam-properties",
   "name": "Fam Properties",
-  "url": "https://www.famproperties.com/careers",
+  "url": "https://famproperties.com/real-estate-jobs-dubai",
   "ats": "Unknown",
   "sector": "Real estate brokerage",
   "needs_review": true
@@ -3890,7 +3890,7 @@
  {
   "id": "iss-facility-services-uae",
   "name": "ISS Facility Services UAE",
-  "url": "https://www.issworld.com/en-ae/careers",
+  "url": "https://www.issworld.com/en-ae",
   "ats": "Unknown",
   "sector": "Facilities management",
   "needs_review": true
@@ -3906,7 +3906,7 @@
  {
   "id": "serco-middle-east",
   "name": "Serco Middle East",
-  "url": "https://www.serco.com/careers",
+  "url": "https://careers.serco.com/ME/",
   "ats": "Unknown",
   "sector": "Facilities management",
   "needs_review": true
@@ -3962,7 +3962,7 @@
  {
   "id": "carrier-middle-east",
   "name": "Carrier Middle East",
-  "url": "https://careers.carrier.com",
+  "url": "https://jobs.carrier.com/",
   "ats": "Unknown",
   "sector": "Building systems & MEP",
   "needs_review": true
@@ -3978,7 +3978,7 @@
  {
   "id": "schneider-electric-middle-east",
   "name": "Schneider Electric Middle East",
-  "url": "https://www.se.com/ww/en/about-us/careers/",
+  "url": "https://careers.se.com/uae",
   "ats": "Unknown",
   "sector": "Building systems & MEP",
   "needs_review": true
@@ -4018,7 +4018,7 @@
  {
   "id": "saint-gobain-middle-east",
   "name": "Saint-Gobain Middle East",
-  "url": "https://www.saint-gobain.com/en/careers",
+  "url": "https://www.saint-gobain.com/en/careers/i-am-experienced",
   "ats": "Unknown",
   "sector": "Building materials",
   "needs_review": true
@@ -4330,7 +4330,7 @@
  {
   "id": "federal-authority-for-government-human-resources-fahr",
   "name": "Federal Authority for Government Human Resources (FAHR)",
-  "url": "https://government.ae/en/resources/government-jobs",
+  "url": "https://fahr.gov.ae/en/jobs",
   "ats": "Custom",
   "sector": "Federal Government",
   "needs_review": true
@@ -4434,7 +4434,7 @@
  {
   "id": "concentrix",
   "name": "Concentrix",
-  "url": "https://careers.concentrix.com",
+  "url": "https://jobs.concentrix.com",
   "ats": "Custom",
   "sector": "BPO / Call Centres",
   "needs_review": true
@@ -4450,7 +4450,7 @@
  {
   "id": "crowe-uae",
   "name": "Crowe UAE",
-  "url": "https://www.crowe.com/ae/careers",
+  "url": "https://crowe.com/ae/careers/job-opportunities",
   "ats": "Custom",
   "sector": "Audit & Advisory",
   "needs_review": true
@@ -4498,7 +4498,7 @@
  {
   "id": "forvis-mazars",
   "name": "Forvis Mazars",
-  "url": "https://www.forvismazars.com/ae/en/careers",
+  "url": "https://www.forvismazars.com/ae/en/join-us/apply-for-latest-openings",
   "ats": "Custom",
   "sector": "Audit & Advisory",
   "needs_review": true
@@ -4530,7 +4530,7 @@
  {
   "id": "egon-zehnder",
   "name": "Egon Zehnder",
-  "url": "https://www.egonzehnder.com/careers",
+  "url": "https://apply.workable.com/ezrecruiting/",
   "ats": "Custom",
   "sector": "Executive Search",
   "needs_review": true
@@ -4554,7 +4554,7 @@
  {
   "id": "morgan-mckinley-uae",
   "name": "Morgan McKinley UAE",
-  "url": "https://www.morganmckinley.com/ae",
+  "url": "https://careers.morganmckinley.com/",
   "ats": "Custom",
   "sector": "Recruitment",
   "needs_review": true
@@ -4610,7 +4610,7 @@
  {
   "id": "petrofac",
   "name": "Petrofac",
-  "url": "https://careers.petrofac.com",
+  "url": "https://www.petrofac.com/careers/find-a-job-at-petrofac/",
   "ats": "Unknown",
   "sector": "Oil and gas engineering",
   "needs_review": true
@@ -4738,7 +4738,7 @@
  {
   "id": "schneider-electric",
   "name": "Schneider Electric",
-  "url": "https://careers.se.com",
+  "url": "https://careers.se.com/jobs/locations",
   "ats": "Unknown",
   "sector": "Industrial / energy management",
   "needs_review": true
@@ -4746,7 +4746,7 @@
  {
   "id": "acwa-power",
   "name": "ACWA Power",
-  "url": "https://www.acwapower.com/careers",
+  "url": "https://careers.acwapower.com/",
   "ats": "Unknown",
   "sector": "Power and water",
   "needs_review": true
@@ -4754,7 +4754,7 @@
  {
   "id": "veolia",
   "name": "Veolia",
-  "url": "https://careers.veolia.com",
+  "url": "https://jobs.veolia.com/en/",
   "ats": "Unknown",
   "sector": "Water, waste, energy",
   "needs_review": true
@@ -4794,7 +4794,7 @@
  {
   "id": "edge-group",
   "name": "EDGE Group",
-  "url": "https://www.edgegroupuae.com/careers",
+  "url": "https://careers.edgegroup.ae/",
   "ats": "Unknown",
   "sector": "Defence and aerospace",
   "needs_review": true
@@ -4874,7 +4874,7 @@
  {
   "id": "hapag-lloyd",
   "name": "Hapag-Lloyd",
-  "url": "https://www.hapag-lloyd.com/en/company/careers.html",
+  "url": "https://www.hapag-lloyd.com/en/company/career/overview/application.html",
   "ats": "Unknown",
   "sector": "Shipping",
   "needs_review": true
@@ -4882,7 +4882,7 @@
  {
   "id": "ceva-logistics",
   "name": "CEVA Logistics",
-  "url": "https://www.cevalogistics.com/en/careers",
+  "url": "https://jobs.cmacgm-group.com/CEVALogistics/",
   "ats": "Unknown",
   "sector": "Logistics",
   "needs_review": true
@@ -4890,7 +4890,7 @@
  {
   "id": "lamprell",
   "name": "Lamprell",
-  "url": "https://www.lamprell.com/careers",
+  "url": "https://www.lamprell.com/career-opportunities/",
   "ats": "Unknown",
   "sector": "Offshore fabrication",
   "needs_review": true
