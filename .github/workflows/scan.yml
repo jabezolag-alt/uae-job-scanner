@@ -4,6 +4,8 @@ on:
     - cron: "0 4 * * *"    # 8:00 Dubai
     - cron: "0 9 * * *"    # 13:00 Dubai
     - cron: "0 14 * * *"   # 18:00 Dubai
+  push:
+    paths: ['run-scan.txt']
   workflow_dispatch:        # lets you press "Run workflow" by hand
 jobs:
   scan:

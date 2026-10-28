@@ -1,5 +1,7 @@
 name: Find career pages
 on:
+  push:
+    paths: ['run-discover.txt']
   workflow_dispatch:
 jobs:
   discover:
