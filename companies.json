@@ -1,0 +1,2762 @@
+[
+ {
+  "id": "abbott",
+  "name": "Abbott",
+  "url": "https://www.jobs.abbott/us/en",
+  "ats": "Phenom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "abu-dhabi-airports",
+  "name": "Abu Dhabi Airports (ADAC)",
+  "url": "https://hcts.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Aviation",
+  "needs_review": false
+ },
+ {
+  "id": "abu-dhabi-aviation",
+  "name": "Abu Dhabi Aviation",
+  "url": "https://ada.ae/careers/",
+  "ats": "Direct",
+  "sector": "Aviation",
+  "needs_review": false
+ },
+ {
+  "id": "abu-dhabi-media",
+  "name": "Abu Dhabi Media",
+  "url": "https://www.admn.ae/en/career",
+  "ats": "Oracle HCM",
+  "sector": "Media & Entertainment",
+  "needs_review": false
+ },
+ {
+  "id": "abu-dhabi-university",
+  "name": "Abu Dhabi University",
+  "url": "https://www.adu.ac.ae/about-adu/careers-at-adu/current-vacancies",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "accenture-uae",
+  "name": "Accenture UAE",
+  "url": "https://www.accenture.com/ae-en/careers",
+  "ats": "Workday",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "accor-me",
+  "name": "Accor Middle East",
+  "url": "https://careers.accor.com/global/en/",
+  "ats": "Custom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "ad-ports-group",
+  "name": "AD Ports Group",
+  "url": "https://www.adportsgroup.com/en/careers",
+  "ats": "Oracle HCM",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "adcb",
+  "name": "Abu Dhabi Commercial Bank (ADCB)",
+  "url": "https://adcbcareers.com/",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "adgm",
+  "name": "Abu Dhabi Global Market (ADGM)",
+  "url": "https://jobs.adgm.com/",
+  "ats": "Oracle HCM",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "adia",
+  "name": "Abu Dhabi Investment Authority (ADIA)",
+  "url": "https://careers.adia.ae/",
+  "ats": "Custom",
+  "sector": "Investment",
+  "needs_review": false
+ },
+ {
+  "id": "adib",
+  "name": "Abu Dhabi Islamic Bank (ADIB)",
+  "url": "https://www.adib.ae/en/Pages/careers.aspx",
+  "ats": "Oracle HCM",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "adnec",
+  "name": "Abu Dhabi National Exhibition Centre (ADNEC)",
+  "url": "https://careers.adnecgroup.ae/",
+  "ats": "Unknown",
+  "sector": "Events & Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "adnic-abu-dhabi-national-insurance",
+  "name": "ADNIC (Abu Dhabi National Insurance)",
+  "url": "https://adnic.ae/current-job-openings",
+  "ats": "Direct",
+  "sector": "Insurance",
+  "needs_review": false
+ },
+ {
+  "id": "adnoc-distribution",
+  "name": "ADNOC Distribution",
+  "url": "https://jobs.adnoc.ae/us/en/adnoc-distribution-careers",
+  "ats": "Phenom",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "adnoc-drilling",
+  "name": "ADNOC Drilling",
+  "url": "https://jobs.adnoc.ae/us/en/search-results",
+  "ats": "Phenom",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "adnoc-gas",
+  "name": "ADNOC Gas",
+  "url": "https://jobs.adnoc.ae/us/en/search-results",
+  "ats": "Phenom",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "adnoc-group",
+  "name": "ADNOC Group",
+  "url": "https://jobs.adnoc.ae/us/en/search-results",
+  "ats": "Phenom",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "adnoc-logistics-services",
+  "name": "ADNOC Logistics & Services",
+  "url": "https://jobs.adnoc.ae/us/en/search-results",
+  "ats": "Phenom",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "adobe-middle-east",
+  "name": "Adobe Middle East",
+  "url": "https://careers.adobe.com/",
+  "ats": "Workday",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "adx",
+  "name": "Abu Dhabi Securities Exchange (ADX)",
+  "url": "https://www.adx.ae/en/about-adx/contact-us/job-opportunities-at-adx",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "aecom-middle-east",
+  "name": "AECOM Middle East",
+  "url": "https://aecom.jobs/",
+  "ats": "Unknown",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "agility-uae",
+  "name": "Agility Logistics UAE",
+  "url": "https://apply.workable.com/agility/",
+  "ats": "Custom",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "agthia-group",
+  "name": "Agthia Group",
+  "url": "https://www.agthia.com/en/careers",
+  "ats": "Custom",
+  "sector": "FMCG",
+  "needs_review": false
+ },
+ {
+  "id": "air-arabia",
+  "name": "Air Arabia",
+  "url": "https://www.airarabiagroupcareers.com/gb/en/search-results",
+  "ats": "Phenom",
+  "sector": "Aviation",
+  "needs_review": false
+ },
+ {
+  "id": "ajman-bank",
+  "name": "Ajman Bank",
+  "url": "https://www.ajmanbank.ae/site/careers.html",
+  "ats": "Unknown",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "ajman-university",
+  "name": "Ajman University",
+  "url": "https://iabeey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/requisitions",
+  "ats": "Oracle HCM",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "al-ain-university",
+  "name": "Al Ain University",
+  "url": "https://www.aau.ac.ae/vacancies",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "al-futtaim-group",
+  "name": "Al-Futtaim Group",
+  "url": "https://www.afuturewithus.com/",
+  "ats": "Unknown",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "al-ghurair-group",
+  "name": "Al Ghurair Group",
+  "url": "https://www.alghurair.com/careers",
+  "ats": "Direct",
+  "sector": "Investment",
+  "needs_review": false
+ },
+ {
+  "id": "al-jaber-group",
+  "name": "Al Jaber Group",
+  "url": "https://aljaber.com/work-with-us/",
+  "ats": "Custom",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "al-tamimi-company",
+  "name": "Al Tamimi & Company",
+  "url": "https://www.tamimi.com/careers/",
+  "ats": "Custom",
+  "sector": "Legal & Professional Services",
+  "needs_review": false
+ },
+ {
+  "id": "al-tayer-group",
+  "name": "Al Tayer Group",
+  "url": "https://www.altayer.com/careers",
+  "ats": "Oracle HCM",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "aldar-education",
+  "name": "Aldar Education",
+  "url": "https://fa-etxx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "aldar-properties",
+  "name": "Aldar Properties",
+  "url": "https://www.aldar.com/en/careers",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "alef-education",
+  "name": "Alef Education",
+  "url": "https://www.alefeducation.com/careers",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "allianz-middle-east",
+  "name": "Allianz (Middle East)",
+  "url": "https://careers.allianz.com/global/en",
+  "ats": "Phenom",
+  "sector": "Insurance",
+  "needs_review": false
+ },
+ {
+  "id": "almarai",
+  "name": "Almarai",
+  "url": "https://www.almarai.com/careers",
+  "ats": "SuccessFactors",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "alshaya-group",
+  "name": "Alshaya Group",
+  "url": "https://www.alshaya.com/en/careers",
+  "ats": "Custom",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "amazon-uae",
+  "name": "Amazon UAE",
+  "url": "https://www.amazon.jobs/en/search?base_query=&loc_query=Dubai%2C+United+Arab+Emirates&latitude=25.26952&longitude=55.30885&loc_group_id=&invalid_location=false&country=ARE&city=Dubai&region=&county=Dubai",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "american-hospital-dubai",
+  "name": "American Hospital Dubai",
+  "url": "https://fa-epvs-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+  "ats": "Oracle HCM",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "american-university-in-dubai-aud",
+  "name": "American University in Dubai (AUD)",
+  "url": "https://jobs.aud.edu/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "american-university-of-sharjah",
+  "name": "American University of Sharjah",
+  "url": "https://www.aus.edu/about/working-at-aus",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "americana-restaurants",
+  "name": "Americana Restaurants",
+  "url": "https://www.americanarestaurants.com/careers/",
+  "ats": "Direct",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "amity-university-dubai",
+  "name": "Amity University Dubai",
+  "url": "https://amityuniversity.ae/contact-us/work-at-amity",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "anghami",
+  "name": "Anghami",
+  "url": "https://anghami.zenats.com/en/careers_page",
+  "ats": "Unknown",
+  "sector": "Media & Entertainment",
+  "needs_review": false
+ },
+ {
+  "id": "aon-uae",
+  "name": "Aon (UAE)",
+  "url": "https://jobs.aon.com/",
+  "ats": "iCIMS",
+  "sector": "Insurance",
+  "needs_review": false
+ },
+ {
+  "id": "apparel-group",
+  "name": "Apparel Group",
+  "url": "https://ediu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "arada",
+  "name": "Arada",
+  "url": "https://www.arada.com/en/careers/",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "aramex",
+  "name": "Aramex",
+  "url": "https://careers.aramex.com/search/",
+  "ats": "SuccessFactors",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "arup",
+  "name": "Arup",
+  "url": "https://www.arup.com/careers/",
+  "ats": "Unknown",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "aster-dm-healthcare",
+  "name": "Aster DM Healthcare",
+  "url": "https://www.asterdmhealthcare.com/careers",
+  "ats": "Unknown",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "astrazeneca",
+  "name": "AstraZeneca",
+  "url": "https://careers.astrazeneca.com",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "atkinsr-alis",
+  "name": "AtkinsR\u00e9alis",
+  "url": "https://careers.atkinsrealis.com/en",
+  "ats": "Custom",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "atlantis-palm",
+  "name": "Atlantis, The Palm",
+  "url": "https://jobs.kerzner.com/go/Atlantis-Dubai/4167122/",
+  "ats": "SuccessFactors",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "atos-middle-east",
+  "name": "Atos Middle East",
+  "url": "https://atos.net/en/careers",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "axa-uae",
+  "name": "AXA (UAE)",
+  "url": "https://careers.axa.com/careers-home/",
+  "ats": "iCIMS",
+  "sector": "Insurance",
+  "needs_review": false
+ },
+ {
+  "id": "azizi-developments",
+  "name": "Azizi Developments",
+  "url": "https://aziziconnect-careers.peoplestrong.com/",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "bain-company-middle-east",
+  "name": "Bain & Company Middle East",
+  "url": "https://www.bain.com/careers/",
+  "ats": "Direct",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "baker-hughes-uae",
+  "name": "Baker Hughes UAE",
+  "url": "https://careers.bakerhughes.com/",
+  "ats": "Phenom",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "baker-mckenzie-middle-east",
+  "name": "Baker McKenzie Middle East",
+  "url": "https://www.bakermckenzie.com/en/careers",
+  "ats": "Direct",
+  "sector": "Legal & Professional Services",
+  "needs_review": false
+ },
+ {
+  "id": "bank-of-america-dubai",
+  "name": "Bank of America (Dubai)",
+  "url": "https://careers.bankofamerica.com/en-us",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "bank-of-sharjah",
+  "name": "Bank of Sharjah",
+  "url": "https://www.bankofsharjah.com/en/careers",
+  "ats": "Direct",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "banyan-group",
+  "name": "Banyan Group",
+  "url": "https://www.groupbanyan.com/careers",
+  "ats": "Direct",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "barakah-enec",
+  "name": "Barakah / ENEC",
+  "url": "https://careers.enec.ae/",
+  "ats": "SuccessFactors",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "barclays-uae",
+  "name": "Barclays (UAE)",
+  "url": "https://search.jobs.barclays/",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "baxter-international",
+  "name": "Baxter International",
+  "url": "https://jobs.baxter.com/en",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "bayanat",
+  "name": "Bayanat",
+  "url": "https://fa-euca-test-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Space42Careers",
+  "ats": "Oracle HCM",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "bayer",
+  "name": "Bayer",
+  "url": "https://www.bayer.com/en/careers",
+  "ats": "Eightfold",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "bcg-middle-east",
+  "name": "BCG Middle East",
+  "url": "https://careers.bcg.com",
+  "ats": "Phenom",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "bd-becton-dickinson",
+  "name": "BD (Becton Dickinson)",
+  "url": "https://jobs.bd.com/en",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "bdo-uae",
+  "name": "BDO UAE",
+  "url": "https://www.bdo.ae/en-gb/careers",
+  "ats": "Direct",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "bee-ah",
+  "name": "Bee'ah",
+  "url": "https://www.beeahgroup.com/work-for-beeah/",
+  "ats": "SuccessFactors",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "bein-media",
+  "name": "beIN Media Group",
+  "url": "https://www.beinmediagroup.com/careers/",
+  "ats": "Custom",
+  "sector": "Media & Entertainment",
+  "needs_review": false
+ },
+ {
+  "id": "besix",
+  "name": "BESIX",
+  "url": "https://www.besix.com/en/careers/all-careers",
+  "ats": "Unknown",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "bfl-group-brands-for-less",
+  "name": "BFL Group (Brands For Less)",
+  "url": "https://bflgroup.ae/careers/",
+  "ats": "Direct",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "binance-uae",
+  "name": "Binance (UAE)",
+  "url": "https://www.binance.com/en/careers",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "binghatti",
+  "name": "Binghatti",
+  "url": "https://careers.binghatti.com/jobs",
+  "ats": "Unknown",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "blackrock-uae",
+  "name": "BlackRock (UAE)",
+  "url": "https://careers.blackrock.com/",
+  "ats": "Custom",
+  "sector": "Investment",
+  "needs_review": false
+ },
+ {
+  "id": "bloom-education",
+  "name": "Bloom Education",
+  "url": "https://www.careers-page.com/bloomeducation",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "bloom-holding",
+  "name": "Bloom Holding",
+  "url": "https://bloomholding.com/careers",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "bnp-paribas-uae",
+  "name": "BNP Paribas UAE",
+  "url": "https://bnpparibas.ae/en/careers/",
+  "ats": "Direct",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "boehringer-ingelheim",
+  "name": "Boehringer Ingelheim",
+  "url": "https://www.boehringer-ingelheim.com/careers",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "borouge",
+  "name": "Borouge",
+  "url": "https://careers.borouge.com/",
+  "ats": "Unknown",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "brighton-college-abu-dhabi",
+  "name": "Brighton College Abu Dhabi",
+  "url": "https://www.brightoncollege.ae/work-with-us",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "british-council-uae",
+  "name": "British Council UAE",
+  "url": "https://careers.britishcouncil.org/",
+  "ats": "Eightfold",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "british-university-in-dubai-buid",
+  "name": "British University in Dubai (BUiD)",
+  "url": "https://www.buid.ac.ae/jobs/",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "burjeel-holdings",
+  "name": "Burjeel Holdings",
+  "url": "https://burjeel.com/careers/",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "bybit-uae",
+  "name": "Bybit (UAE)",
+  "url": "https://job-boards.eu.greenhouse.io/bybit",
+  "ats": "Greenhouse",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "capgemini-middle-east",
+  "name": "Capgemini Middle East",
+  "url": "https://www.capgemini.com/careers/",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "careem",
+  "name": "Careem",
+  "url": "https://jobs.careem.com/",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "cbre",
+  "name": "CBRE",
+  "url": "https://www.cbre.ae/careers",
+  "ats": "Unknown",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "centara-hotels-resorts",
+  "name": "Centara Hotels & Resorts",
+  "url": "https://www.centarahotelsresorts.com/careers",
+  "ats": "Direct",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "chalhoub-group",
+  "name": "Chalhoub Group",
+  "url": "https://careers.chalhoubgroup.com/",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "cigna-healthcare",
+  "name": "Cigna Healthcare",
+  "url": "https://jobs.thecignagroup.com/us/en",
+  "ats": "Phenom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "cisco-uae",
+  "name": "Cisco UAE",
+  "url": "https://careers.cisco.com/global/en",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "citi-uae",
+  "name": "Citi UAE",
+  "url": "https://jobs.citi.com",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "cleveland-clinic-abudhabi",
+  "name": "Cleveland Clinic Abu Dhabi",
+  "url": "https://www.clevelandclinicabudhabi.ae/en/careers",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "clyde-co",
+  "name": "Clyde & Co",
+  "url": "https://careers.clydeco.com/en",
+  "ats": "Workday",
+  "sector": "Legal & Professional Services",
+  "needs_review": false
+ },
+ {
+  "id": "cognita-middle-east",
+  "name": "Cognita Middle East",
+  "url": "https://www.cognita.com/our-careers/work-with-us/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "cognizant-uae",
+  "name": "Cognizant UAE",
+  "url": "https://careers.cognizant.com/global-en/",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "colgate-palmolive-middle-east",
+  "name": "Colgate-Palmolive Middle East",
+  "url": "https://jobs.colgate.com/",
+  "ats": "SuccessFactors",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "commercial-bank-dubai",
+  "name": "Commercial Bank of Dubai (CBD)",
+  "url": "https://www.cbd.ae/home/contact-us/careers",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "commercial-bank-international-cbi",
+  "name": "Commercial Bank International (CBI)",
+  "url": "https://www.cbiuae.com/en/careers/careers/",
+  "ats": "Direct",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "core42",
+  "name": "Core42",
+  "url": "https://careers.core42.ai/",
+  "ats": "SuccessFactors",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "crypto-com-uae",
+  "name": "Crypto.com (UAE)",
+  "url": "https://crypto.com/en/careers",
+  "ats": "Lever",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "curtin-university-dubai",
+  "name": "Curtin University Dubai",
+  "url": "https://curtindubai.ac.ae/about/jobs-at-curtin/job-vacancies/",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "damac-properties",
+  "name": "DAMAC Properties",
+  "url": "https://www.damacgroup.com/en-ae/careers/",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "daman-health",
+  "name": "Daman (National Health Insurance)",
+  "url": "https://erel.fa.em8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+  "ats": "Oracle HCM",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "danone-middle-east",
+  "name": "Danone Middle East",
+  "url": "https://careers.danone.com/en-global/home.html",
+  "ats": "Unknown",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "dar-al-handasah",
+  "name": "Dar Al-Handasah",
+  "url": "https://www.dar.com/careers",
+  "ats": "Direct",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "deliveroo-uae",
+  "name": "Deliveroo UAE",
+  "url": "https://careers.deliveroo.co.uk/locations/united-arab-emirates/",
+  "ats": "Custom",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "dell-technologies-uae",
+  "name": "Dell Technologies UAE",
+  "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers",
+  "ats": "Oracle HCM",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "deloitte-middle-east",
+  "name": "Deloitte Middle East",
+  "url": "https://middleeastjobs.deloitte.com/careersME/SearchJobs",
+  "ats": "Custom",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "dentsu-middle-east",
+  "name": "dentsu Middle East",
+  "url": "https://www.dentsu.com/careers",
+  "ats": "Unknown",
+  "sector": "Media & Entertainment",
+  "needs_review": false
+ },
+ {
+  "id": "deutsche-bank-uae",
+  "name": "Deutsche Bank (UAE)",
+  "url": "https://careers.db.com/",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "dewa",
+  "name": "DEWA (Dubai Electricity & Water)",
+  "url": "https://www.dewa.gov.ae/en/career-portal/job-search",
+  "ats": "Custom",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "dha",
+  "name": "Dubai Health Authority (DHA)",
+  "url": "https://services.dha.gov.ae/sheryan/wps/portal/home/opportunities",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "dhl-express-uae",
+  "name": "DHL Express UAE",
+  "url": "https://careers.dhl.com",
+  "ats": "Phenom",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "difc",
+  "name": "Dubai International Financial Centre (DIFC)",
+  "url": "https://www.difc.ae/about/careers",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "dmcc-dubai-multi-commodities-centre",
+  "name": "DMCC (Dubai Multi Commodities Centre)",
+  "url": "https://dmcc.ae/careers",
+  "ats": "Oracle HCM",
+  "sector": "Government",
+  "needs_review": false
+ },
+ {
+  "id": "dnata",
+  "name": "dnata",
+  "url": "https://careers-dnata.icims.com/jobs/search?pr=1",
+  "ats": "iCIMS",
+  "sector": "Aviation",
+  "needs_review": false
+ },
+ {
+  "id": "dolphin-energy",
+  "name": "Dolphin Energy",
+  "url": "https://www.dolphinenergy.com/careers",
+  "ats": "SuccessFactors",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "dp-world",
+  "name": "DP World",
+  "url": "https://careers.dpworld.com/",
+  "ats": "Custom",
+  "sector": "Aviation",
+  "needs_review": false
+ },
+ {
+  "id": "dr-sulaiman-al-habib-medical-group",
+  "name": "Dr. Sulaiman Al Habib Medical Group",
+  "url": "https://talents.hmg.com/",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "dsv-uae",
+  "name": "DSV UAE",
+  "url": "https://www.dsv.com/en/careers/job-openings",
+  "ats": "Unknown",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "du-eitc",
+  "name": "du (EITC)",
+  "url": "https://www.du.ae/about-us/careers",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "dubai-airports",
+  "name": "Dubai Airports",
+  "url": "https://dubaiairports.ae/corporate/careers",
+  "ats": "Custom",
+  "sector": "Aviation",
+  "needs_review": false
+ },
+ {
+  "id": "dubai-cares",
+  "name": "Dubai Cares",
+  "url": "https://www.dubaicares.ae/careers",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "dubai-customs",
+  "name": "Dubai Customs",
+  "url": "https://www.dubaicustoms.gov.ae/en/Pages/Careers.aspx",
+  "ats": "Direct",
+  "sector": "Government",
+  "needs_review": false
+ },
+ {
+  "id": "dubai-financial-market-dfm",
+  "name": "Dubai Financial Market (DFM)",
+  "url": "https://www.dfm.ae/discover-dfm/careers",
+  "ats": "Direct",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "dubai-future-foundation",
+  "name": "Dubai Future Foundation",
+  "url": "https://careers.dubaifuture.gov.ae/",
+  "ats": "Custom",
+  "sector": "Government",
+  "needs_review": false
+ },
+ {
+  "id": "dubai-holding",
+  "name": "Dubai Holding",
+  "url": "https://dhcareers.avature.net/en_US/newcareersmarketplace/SearchJobs",
+  "ats": "Custom",
+  "sector": "Investment",
+  "needs_review": false
+ },
+ {
+  "id": "dubai-investments",
+  "name": "Dubai Investments",
+  "url": "https://www.dubaiinvestments.com/careers",
+  "ats": "Oracle HCM",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "dubai-islamic-bank",
+  "name": "Dubai Islamic Bank (DIB)",
+  "url": "https://careers.dib.ae/",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "dubai-municipality",
+  "name": "Dubai Municipality",
+  "url": "https://jobs.dubaicareers.ae/careersection/dubaicareers/jobsearch.ftl?ignoreSavedQuery&f=ORGANIZATION(3805100456)&lang=en",
+  "ats": "Taleo",
+  "sector": "Government",
+  "needs_review": false
+ },
+ {
+  "id": "dulsco",
+  "name": "Dulsco",
+  "url": "https://www.dulsco.com/careers",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "dwight-school-dubai",
+  "name": "Dwight School Dubai",
+  "url": "https://dwight.ae/careers/",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "dwtc",
+  "name": "Dubai World Trade Centre (DWTC)",
+  "url": "https://careers.dwtc.com/",
+  "ats": "Custom",
+  "sector": "Events & Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "eagle-hills",
+  "name": "Eagle Hills",
+  "url": "https://eaglehills.com/careers/",
+  "ats": "Oracle HCM",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "eand-etisalat",
+  "name": "e& (Etisalat)",
+  "url": "https://careers.etisalat.ae/en/index.html",
+  "ats": "Custom",
+  "sector": "Media & Comms",
+  "needs_review": false
+ },
+ {
+  "id": "eli-lilly",
+  "name": "Eli Lilly",
+  "url": "https://careers.lilly.com/us/en/search-results",
+  "ats": "Phenom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "ellington-properties",
+  "name": "Ellington Properties",
+  "url": "https://ellingtonproperties.ae/en/careers",
+  "ats": "Oracle HCM",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "emaar-properties",
+  "name": "Emaar Properties",
+  "url": "https://emhm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/",
+  "ats": "Oracle HCM",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "emirates-aviation-university",
+  "name": "Emirates Aviation University",
+  "url": "https://www.eau.ac.ae/careers/",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "emirates-college-for-advanced-education-ecae",
+  "name": "Emirates College for Advanced Education (ECAE)",
+  "url": "https://www.ecae.ac.ae/en/careers/",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "emirates-global-aluminium-ega",
+  "name": "Emirates Global Aluminium (EGA)",
+  "url": "https://www.ega.ae/en/opportunity/careers",
+  "ats": "Unknown",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "emirates-group",
+  "name": "Emirates Group",
+  "url": "https://www.emiratesgroupcareers.com/search-and-apply/",
+  "ats": "Custom",
+  "sector": "Aviation",
+  "needs_review": false
+ },
+ {
+  "id": "emirates-islamic",
+  "name": "Emirates Islamic",
+  "url": "https://www.emiratesislamic.ae/en/about-us/careers",
+  "ats": "Oracle HCM",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "emirates-national-schools",
+  "name": "Emirates National Schools",
+  "url": "https://ens.sch.ae/careers",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "emirates-nbd",
+  "name": "Emirates NBD",
+  "url": "https://fa-evlo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "emrill",
+  "name": "Emrill",
+  "url": "https://www.emrill.com/careers/",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "enoc",
+  "name": "Emirates National Oil Company (ENOC)",
+  "url": "https://careers.enoc.com/viewalljobs/?locale=en_US",
+  "ats": "SuccessFactors",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "ericsson-uae",
+  "name": "Ericsson UAE",
+  "url": "https://www.ericsson.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Telecom",
+  "needs_review": false
+ },
+ {
+  "id": "eros-group",
+  "name": "Eros Group",
+  "url": "https://www.erosgroup.ae/careers.php",
+  "ats": "Direct",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "esol-education",
+  "name": "Esol Education",
+  "url": "https://www.esoleducation.com/careers",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "etihad-airways",
+  "name": "Etihad Airways",
+  "url": "https://careers.smartrecruiters.com/EtihadAirways5",
+  "ats": "SmartRecruiters",
+  "sector": "Aviation",
+  "needs_review": false
+ },
+ {
+  "id": "etihad-rail",
+  "name": "Etihad Rail",
+  "url": "https://www.etihadrail.ae/careers",
+  "ats": "Unknown",
+  "sector": "Government",
+  "needs_review": false
+ },
+ {
+  "id": "expeditors-uae",
+  "name": "Expeditors UAE",
+  "url": "https://www.expeditors.com/careers",
+  "ats": "Unknown",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "expo-city-dubai",
+  "name": "Expo City Dubai",
+  "url": "https://www.expocitydubai.com/en/careers/",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "ey-mena",
+  "name": "EY MENA",
+  "url": "https://www.ey.com/en_ae/careers",
+  "ats": "Custom",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "fab-first-abu-dhabi-bank",
+  "name": "First Abu Dhabi Bank (FAB)",
+  "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/fabCareers/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "fakeeh-university-hospital",
+  "name": "Fakeeh University Hospital",
+  "url": "https://www.fuh.care/about-us/careers",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "farnek",
+  "name": "Farnek",
+  "url": "https://www.farnek.com/careers/",
+  "ats": "Direct",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "ferrero-middle-east",
+  "name": "Ferrero Middle East",
+  "url": "https://www.ferrerocareers.com/us/en",
+  "ats": "SuccessFactors",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "fitness-first-middle-east",
+  "name": "Fitness First Middle East",
+  "url": "https://uae.fitnessfirstme.com/en/work-with-us",
+  "ats": "Direct",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "flydubai",
+  "name": "Flydubai",
+  "url": "https://careers.flydubai.com/jobs",
+  "ats": "iCIMS",
+  "sector": "Aviation",
+  "needs_review": false
+ },
+ {
+  "id": "fortinet-uae",
+  "name": "Fortinet UAE",
+  "url": "https://www.fortinet.com/corporate/careers",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "four-seasons-uae",
+  "name": "Four Seasons UAE",
+  "url": "https://careers.fourseasons.com/us/en/home",
+  "ats": "Phenom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "franklin-templeton-uae",
+  "name": "Franklin Templeton (UAE)",
+  "url": "https://careers.franklintempleton.com/us/en",
+  "ats": "Phenom",
+  "sector": "Investment",
+  "needs_review": false
+ },
+ {
+  "id": "g42",
+  "name": "G42 (Group 42)",
+  "url": "https://careers.g42.ai/global/en/home",
+  "ats": "Phenom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "ge-healthcare",
+  "name": "GE HealthCare",
+  "url": "https://careers.gehealthcare.com/global/en/",
+  "ats": "Phenom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "gems-education",
+  "name": "GEMS Education",
+  "url": "https://careers.gemseducation.com/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "gig-gulf-uae",
+  "name": "GIG Gulf (UAE)",
+  "url": "https://www.giggulf.ae/en/about-us/careers",
+  "ats": "Direct",
+  "sector": "Insurance",
+  "needs_review": false
+ },
+ {
+  "id": "gmg-gulf-marketing-group",
+  "name": "GMG (Gulf Marketing Group)",
+  "url": "https://www.gmg.com/career/",
+  "ats": "Direct",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "goldman-sachs-dubai",
+  "name": "Goldman Sachs (Dubai)",
+  "url": "https://www.goldmansachs.com/careers",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "google-uae",
+  "name": "Google UAE",
+  "url": "https://careers.google.com/locations/dubai/",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "grant-thornton-uae",
+  "name": "Grant Thornton UAE",
+  "url": "https://www.grantthornton.ae/careers/",
+  "ats": "Direct",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "gsk",
+  "name": "GSK",
+  "url": "https://www.gsk.com/en-gb/careers/",
+  "ats": "Unknown",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "gulf-medical-university",
+  "name": "Gulf Medical University",
+  "url": "https://gmu.ac.ae/work-with-us/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "hamdan-bin-mohammed-smart-university-hbmsu",
+  "name": "Hamdan Bin Mohammed Smart University (HBMSU)",
+  "url": "https://careers.hbmsu.ac.ae/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "hays-uae",
+  "name": "Hays UAE",
+  "url": "https://www.hays.ae/jobs",
+  "ats": "Direct",
+  "sector": "Legal & Professional Services",
+  "needs_review": false
+ },
+ {
+  "id": "hellmann-worldwide-logistics-uae",
+  "name": "Hellmann Worldwide Logistics UAE",
+  "url": "https://www.hellmann.com/en/career",
+  "ats": "Workday",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "henkel-middle-east",
+  "name": "Henkel Middle East",
+  "url": "https://www.henkel.com/careers",
+  "ats": "Direct",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "heriot-watt-university-dubai",
+  "name": "Heriot-Watt University Dubai",
+  "url": "https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/",
+  "ats": "Oracle HCM",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "higher-colleges-of-technology-hct",
+  "name": "Higher Colleges of Technology (HCT)",
+  "url": "https://hct.ac.ae/en/careers/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "hikma-pharmaceuticals",
+  "name": "Hikma Pharmaceuticals",
+  "url": "https://www.hikma.com/careers/",
+  "ats": "Unknown",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "hill-international",
+  "name": "Hill International",
+  "url": "https://www.hillintl.com/careers/",
+  "ats": "Oracle HCM",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "hilton-uae",
+  "name": "Hilton UAE",
+  "url": "https://jobs.hilton.com",
+  "ats": "Oracle HCM",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "hpe-uae",
+  "name": "HPE UAE",
+  "url": "https://careers.hpe.com/",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "hsbc-uae",
+  "name": "HSBC UAE",
+  "url": "https://www.hsbc.com/careers/where-we-hire/united-arab-emirates",
+  "ats": "Unknown",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "hyatt-uae",
+  "name": "Hyatt UAE",
+  "url": "https://careers.hyatt.com",
+  "ats": "Unknown",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "ibm-uae",
+  "name": "IBM UAE",
+  "url": "https://www.ibm.com/careers",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "ihc",
+  "name": "International Holding Company (IHC)",
+  "url": "https://www.ihcuae.com/careers",
+  "ats": "Custom",
+  "sector": "Investment",
+  "needs_review": false
+ },
+ {
+  "id": "ihcl-taj-hotels",
+  "name": "IHCL (Taj Hotels)",
+  "url": "https://careers.ihcltata.com/",
+  "ats": "Custom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "ihg-hotels-resorts-uae",
+  "name": "IHG Hotels & Resorts UAE",
+  "url": "https://careers.ihg.com",
+  "ats": "Unknown",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "image-nation",
+  "name": "Image Nation Abu Dhabi",
+  "url": "https://imagenationstudios.ae/en/careers/",
+  "ats": "Custom",
+  "sector": "Media & Entertainment",
+  "needs_review": false
+ },
+ {
+  "id": "imdaad",
+  "name": "Imdaad",
+  "url": "https://www.imdaad.ae/careers",
+  "ats": "Oracle HCM",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "img-worlds-of-adventure",
+  "name": "IMG Worlds of Adventure",
+  "url": "https://www.imgworlds.com/careers",
+  "ats": "Direct",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "imkan-properties",
+  "name": "Imkan Properties",
+  "url": "https://www.imkan.ae/careers",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "imt-dubai-institute-of-management-technology",
+  "name": "IMT Dubai (Institute of Management Technology)",
+  "url": "https://www.imt.ac.ae/career-with-us",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "infosys-uae",
+  "name": "Infosys UAE",
+  "url": "https://www.infosys.com/careers/",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "innoventures-education",
+  "name": "Innoventures Education",
+  "url": "https://www.innoventureseducation.com/careers-ive",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "jacobs",
+  "name": "Jacobs",
+  "url": "https://www.jacobs.com/careers-jacobs",
+  "ats": "Unknown",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "jashanmal-group",
+  "name": "Jashanmal Group",
+  "url": "https://www.jashanmal.com/pages/careers",
+  "ats": "Direct",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "jll",
+  "name": "JLL",
+  "url": "https://www.jll.com/en-ae/careers",
+  "ats": "Workday",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "johnson-johnson",
+  "name": "Johnson & Johnson",
+  "url": "https://www.careers.jnj.com/en/",
+  "ats": "Workday",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "jpmorgan-chase-uae",
+  "name": "JPMorgan Chase (UAE)",
+  "url": "https://www.jpmorganchase.com/careers",
+  "ats": "Oracle HCM",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "julphar",
+  "name": "Julphar",
+  "url": "https://careers.julphar.net/",
+  "ats": "SuccessFactors",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "jumbo-group",
+  "name": "Jumbo Group",
+  "url": "https://www.jumbogroup.com/careers",
+  "ats": "Direct",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "jumeirah-group",
+  "name": "Jumeirah Group",
+  "url": "https://esbe.fa.em8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "kanoo-group",
+  "name": "Kanoo Group",
+  "url": "https://www.kanoo.com/careers/",
+  "ats": "Direct",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "kerzner-international",
+  "name": "Kerzner International",
+  "url": "https://www.kerzner.com/careers",
+  "ats": "Unknown",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "khalifa-university",
+  "name": "Khalifa University",
+  "url": "https://iaaibv.fa.ocs.oraclecloud29.com/hcmUI/CandidateExperience/en/sites/CX_2002/",
+  "ats": "Oracle HCM",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "khazna-data-centers",
+  "name": "Khazna Data Centers",
+  "url": "https://khaznadatacenters.com/careers/",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "kimberly-clark-middle-east",
+  "name": "Kimberly-Clark Middle East",
+  "url": "https://www.careers.kimberly-clark.com/",
+  "ats": "Unknown",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "king-s-college-hospital-london-dubai",
+  "name": "King's College Hospital London Dubai",
+  "url": "https://effb.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/KingsCareerPortal/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "kitopi",
+  "name": "Kitopi",
+  "url": "https://kitopi.com/careers",
+  "ats": "Direct",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "kpmg-lower-gulf",
+  "name": "KPMG Lower Gulf",
+  "url": "https://kpmg.com/ae/en/home/careers.html",
+  "ats": "Oracle HCM",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "kyndryl-uae",
+  "name": "Kyndryl UAE",
+  "url": "https://www.kyndryl.com/us/en/careers",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "l-oreal-middle-east",
+  "name": "L'Oreal Middle East",
+  "url": "https://careers.loreal.com/en",
+  "ats": "Custom",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "landmark-group",
+  "name": "Landmark Group",
+  "url": "https://efhi.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?location=United+Arab+Emirates&locationId=300000000228480&locationLevel=country&mode=location",
+  "ats": "Unknown",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "lenovo-uae",
+  "name": "Lenovo UAE",
+  "url": "https://jobs.lenovo.com/",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "lulu-group",
+  "name": "LuLu Group International",
+  "url": "https://careers.luluretail.com/",
+  "ats": "Custom",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "mace-group",
+  "name": "Mace Group",
+  "url": "https://www.macegroup.com/careers",
+  "ats": "Unknown",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "maersk-uae",
+  "name": "Maersk UAE",
+  "url": "https://www.maersk.com/careers",
+  "ats": "Unknown",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "majid-al-futtaim",
+  "name": "Majid Al Futtaim Group",
+  "url": "https://careers.majidalfuttaim.com/global/en/home",
+  "ats": "Phenom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "malabar-gold-diamonds",
+  "name": "Malabar Gold & Diamonds",
+  "url": "https://careers.malabargroup.com/JobSearch/jobList/1",
+  "ats": "Custom",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "mandarin-oriental-hotel-group",
+  "name": "Mandarin Oriental Hotel Group",
+  "url": "https://careers.mandarinoriental.com/jobs/search",
+  "ats": "Custom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "manipal-academy-of-higher-education-dubai",
+  "name": "Manipal Academy of Higher Education Dubai",
+  "url": "https://www.manipaldubai.com/careers",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "marriott-uae",
+  "name": "Marriott International UAE",
+  "url": "https://jobs.marriott.com/",
+  "ats": "Custom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "mars-middle-east",
+  "name": "Mars Middle East",
+  "url": "https://careers.mars.com/us/en",
+  "ats": "Phenom",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "marsh-middle-east",
+  "name": "Marsh (Middle East)",
+  "url": "https://careers.marsh.com/global/en",
+  "ats": "Phenom",
+  "sector": "Insurance",
+  "needs_review": false
+ },
+ {
+  "id": "masdar",
+  "name": "Masdar (Abu Dhabi Future Energy)",
+  "url": "https://careers.smartrecruiters.com/masdar",
+  "ats": "SmartRecruiters",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "mashreq-bank",
+  "name": "Mashreq Bank",
+  "url": "https://www.mashreq.com/en/uae/about-us/careers/careers-portal/",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "mastercard-uae",
+  "name": "Mastercard (UAE)",
+  "url": "https://careers.mastercard.com/us/en/",
+  "ats": "Phenom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "mbc-group",
+  "name": "MBC Group",
+  "url": "https://ehff.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Media & Entertainment",
+  "needs_review": false
+ },
+ {
+  "id": "mbzuai",
+  "name": "Mohamed Bin Zayed University of AI (MBZUAI)",
+  "url": "https://careers.mbzuai.ac.ae/vacancies/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "mckinsey-company",
+  "name": "McKinsey & Company",
+  "url": "https://www.mckinsey.com/careers",
+  "ats": "Custom",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "mediclinic-me",
+  "name": "Mediclinic Middle East",
+  "url": "https://careers.mediclinic.ae/",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "medtronic",
+  "name": "Medtronic",
+  "url": "https://www.medtronic.com/en-us/our-company/careers.html",
+  "ats": "Workday",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "melia-hotels-international",
+  "name": "Melia Hotels International",
+  "url": "https://careers.melia.com/",
+  "ats": "Unknown",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "mercer-middle-east",
+  "name": "Mercer Middle East",
+  "url": "https://careers.marsh.com/global/en/people-and-investments",
+  "ats": "Phenom",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "meta-middle-east",
+  "name": "Meta Middle East",
+  "url": "https://www.metacareers.com/",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "michael-page-uae",
+  "name": "Michael Page UAE",
+  "url": "https://www.michaelpage.ae/job-search",
+  "ats": "Direct",
+  "sector": "Legal & Professional Services",
+  "needs_review": false
+ },
+ {
+  "id": "microsoft-uae",
+  "name": "Microsoft UAE",
+  "url": "https://careers.microsoft.com/v2/global/en/home.html",
+  "ats": "Eightfold",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "middlesex-university-dubai",
+  "name": "Middlesex University Dubai",
+  "url": "https://www.mdx.ac.ae/workatmdxdubai/academic-vacancies",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "minor-hotels",
+  "name": "Minor Hotels",
+  "url": "https://www.minorhotels.com/en/careers",
+  "ats": "Workday",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "miral",
+  "name": "Miral",
+  "url": "https://enpk.fa.em8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "modon-holding",
+  "name": "Modon Holding",
+  "url": "https://www.modon.com/about-modon/careers",
+  "ats": "Unknown",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "mohammed-bin-rashid-university-of-medicine-and-health-sciences-mbru",
+  "name": "Mohammed Bin Rashid University of Medicine and Health Sciences (MBRU)",
+  "url": "https://www.mbru.ac.ae/work-at-mbru/",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "mohre",
+  "name": "Ministry of Human Resources (MOHRE)",
+  "url": "https://www.mohre.gov.ae/en/careers",
+  "ats": "Direct",
+  "sector": "Government",
+  "needs_review": false
+ },
+ {
+  "id": "mondelez-international-mea",
+  "name": "Mondelez International MEA",
+  "url": "https://www.mondelezinternational.com/careers/",
+  "ats": "Custom",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "morgan-stanley-dubai",
+  "name": "Morgan Stanley (Dubai)",
+  "url": "https://www.morganstanley.com/careers",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "mott-macdonald",
+  "name": "Mott MacDonald",
+  "url": "https://www.mottmac.com/en/careers/explore-our-careers/",
+  "ats": "Unknown",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "msc-mediterranean-shipping-company-uae",
+  "name": "MSC Mediterranean Shipping Company UAE",
+  "url": "https://www.msc.com/en/careers",
+  "ats": "Unknown",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "msd",
+  "name": "MSD",
+  "url": "https://jobs.msd.com/",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "mubadala-investment",
+  "name": "Mubadala Investment Company",
+  "url": "https://www.mubadala.com/en/careers",
+  "ats": "Custom",
+  "sector": "Investment",
+  "needs_review": false
+ },
+ {
+  "id": "multiply-group",
+  "name": "Multiply Group",
+  "url": "https://2pointzero.com/careers",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "national-bank-of-fujairah",
+  "name": "National Bank of Fujairah",
+  "url": "https://careers.nbf.ae/",
+  "ats": "SuccessFactors",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "nestle-middle-east",
+  "name": "Nestle Middle East",
+  "url": "https://www.nestle-mena.com/en/jobs",
+  "ats": "SuccessFactors",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "nextcare",
+  "name": "Nextcare",
+  "url": "https://www.nextcarehealth.com/careers/",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "nmc-healthcare",
+  "name": "NMC Healthcare",
+  "url": "https://eiby.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+  "ats": "Oracle HCM",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "nmdc-group",
+  "name": "NMDC Group",
+  "url": "https://fa-evft-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "nokia-uae",
+  "name": "Nokia UAE",
+  "url": "https://www.nokia.com/about-us/careers/",
+  "ats": "Unknown",
+  "sector": "Telecom",
+  "needs_review": false
+ },
+ {
+  "id": "nord-anglia-education",
+  "name": "Nord Anglia Education",
+  "url": "https://careers.nordanglia.com/",
+  "ats": "SuccessFactors",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "novartis",
+  "name": "Novartis",
+  "url": "https://www.novartis.com/careers",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "novo-nordisk",
+  "name": "Novo Nordisk",
+  "url": "https://www.novonordisk.com/careers/find-a-job.html",
+  "ats": "SuccessFactors",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "ntt-data-middle-east",
+  "name": "NTT DATA Middle East",
+  "url": "https://careers.nttdata.com/global/en",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "nyuad",
+  "name": "New York University Abu Dhabi (NYUAD)",
+  "url": "https://abudhabi-nyu.icims.com/",
+  "ats": "iCIMS",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "okta-middle-east",
+  "name": "Okta Middle East",
+  "url": "https://www.okta.com/company/careers/",
+  "ats": "Greenhouse",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "oliver-wyman-middle-east",
+  "name": "Oliver Wyman Middle East",
+  "url": "https://www.oliverwyman.com/careers.html",
+  "ats": "Direct",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "omniyat",
+  "name": "Omniyat",
+  "url": "https://careers.omniyat.com",
+  "ats": "Custom",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "oracle-uae",
+  "name": "Oracle UAE",
+  "url": "https://www.oracle.com/corporate/careers/",
+  "ats": "Oracle HCM",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "palo-alto-networks-uae",
+  "name": "Palo Alto Networks UAE",
+  "url": "https://jobs.paloaltonetworks.com/",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "parsons",
+  "name": "Parsons",
+  "url": "https://jobs.parsons.com/",
+  "ats": "Custom",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "pearson-middle-east",
+  "name": "Pearson Middle East",
+  "url": "https://pearson.jobs/",
+  "ats": "Unknown",
+  "sector": "Media & Entertainment",
+  "needs_review": false
+ },
+ {
+  "id": "pepsico-middle-east",
+  "name": "PepsiCo Middle East",
+  "url": "https://www.pepsicojobs.com/main",
+  "ats": "Custom",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "pfizer",
+  "name": "Pfizer",
+  "url": "https://www.pfizer.com/about/careers",
+  "ats": "Workday",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "philips",
+  "name": "Philips",
+  "url": "https://www.careers.philips.com/na/en",
+  "ats": "Phenom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "presight-ai",
+  "name": "Presight AI",
+  "url": "https://careers.presight.ai/",
+  "ats": "Oracle HCM",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "procter-gamble-uae",
+  "name": "Procter & Gamble UAE",
+  "url": "https://www.pgcareers.com",
+  "ats": "Phenom",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "purehealth-talentone",
+  "name": "PureHealth Group / TalentOne",
+  "url": "https://fa-eutv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6007/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "pwc-middle-east",
+  "name": "PwC Middle East",
+  "url": "https://www.pwc.com/m1/en/careers.html",
+  "ats": "Unknown",
+  "sector": "Consulting",
+  "needs_review": false
+ },
+ {
+  "id": "radisson-hotel-group-uae",
+  "name": "Radisson Hotel Group UAE",
+  "url": "https://radissoncareers.com/",
+  "ats": "SmartRecruiters",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "rak-properties",
+  "name": "RAK Properties",
+  "url": "https://www.rakproperties.ae/careers/",
+  "ats": "Direct",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "rakbank",
+  "name": "RAKBANK",
+  "url": "https://www.rakbank.ae/en/about-us/careers",
+  "ats": "Oracle HCM",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "reckitt-middle-east",
+  "name": "Reckitt Middle East",
+  "url": "https://careers.reckitt.com/",
+  "ats": "SuccessFactors",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "rit-dubai-rochester-institute-of-technology",
+  "name": "RIT Dubai (Rochester Institute of Technology)",
+  "url": "https://www.rit.edu/dubai/employment",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "roche",
+  "name": "Roche",
+  "url": "https://careers.roche.com/global/en",
+  "ats": "Phenom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "rosewood-hotel-group",
+  "name": "Rosewood Hotel Group",
+  "url": "https://careers.rosewoodhotelgroup.com/",
+  "ats": "Custom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "rotana-hotels",
+  "name": "Rotana Hotels",
+  "url": "https://careers.rotana.com/",
+  "ats": "Custom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "rta-dubai",
+  "name": "Roads & Transport Authority (RTA)",
+  "url": "https://jobs.dubaicareers.ae/careersection/eyov4z5qhfjnsykw9q149t4es7/jobsearch.ftl?lang=en",
+  "ats": "Taleo",
+  "sector": "Government",
+  "needs_review": false
+ },
+ {
+  "id": "s-p-global-uae",
+  "name": "S&P Global (UAE)",
+  "url": "https://careers.spglobal.com/jobs",
+  "ats": "Workday",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "salama-islamic-arab-insurance",
+  "name": "Salama Islamic Arab Insurance",
+  "url": "https://salama.ae/about/careers/",
+  "ats": "Custom",
+  "sector": "Insurance",
+  "needs_review": false
+ },
+ {
+  "id": "salesforce-uae",
+  "name": "Salesforce UAE",
+  "url": "https://www.salesforce.com/company/careers/jobs/",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "sanofi",
+  "name": "Sanofi",
+  "url": "https://jobs.sanofi.com/en",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "sap-uae",
+  "name": "SAP UAE",
+  "url": "https://jobs.sap.com",
+  "ats": "SuccessFactors",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "saudi-german-health",
+  "name": "Saudi German Health",
+  "url": "https://abha.saudigermanhealth.com/en/careers",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "savola-group",
+  "name": "Savola Group",
+  "url": "https://www.savola.com/en/careers",
+  "ats": "Direct",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "seha",
+  "name": "SEHA (Abu Dhabi Health Services)",
+  "url": "https://fa-eutv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "servicenow-uae",
+  "name": "ServiceNow UAE",
+  "url": "https://careers.servicenow.com/",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "shangri-la-group",
+  "name": "Shangri-La Group",
+  "url": "https://www.shangri-la.com/group/careers/",
+  "ats": "Custom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "sharaf-dg",
+  "name": "Sharaf DG",
+  "url": "https://uae.sharafdg.com/careers/",
+  "ats": "Direct",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "shuaa-capital",
+  "name": "Shuaa Capital",
+  "url": "https://www.shuaa.com/en/careers",
+  "ats": "Direct",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "sib",
+  "name": "Sharjah Islamic Bank (SIB)",
+  "url": "https://www.sib.ae/en/about-us/career/job-listing",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "siemens-healthineers",
+  "name": "Siemens Healthineers",
+  "url": "https://www.siemens-healthineers.com/careers",
+  "ats": "Eightfold",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "slb-uae",
+  "name": "SLB UAE",
+  "url": "https://careers.slb.com/",
+  "ats": "Unknown",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "sobha-realty",
+  "name": "Sobha Realty",
+  "url": "https://sobharealty.com/career-opportunity",
+  "ats": "Direct",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "sorbonne-university-abu-dhabi",
+  "name": "Sorbonne University Abu Dhabi",
+  "url": "https://www.sorbonne.ae/en/careers",
+  "ats": "Direct",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "standard-chartered-uae",
+  "name": "Standard Chartered UAE",
+  "url": "https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-the-uae/",
+  "ats": "Unknown",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "strata-manufacturing",
+  "name": "Strata Manufacturing",
+  "url": "https://www.strata.ae/career/",
+  "ats": "Direct",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "sukoon-insurance",
+  "name": "Sukoon Insurance",
+  "url": "https://www.sukoon.com/careers",
+  "ats": "Custom",
+  "sector": "Insurance",
+  "needs_review": false
+ },
+ {
+  "id": "taaleem",
+  "name": "Taaleem",
+  "url": "https://careers.taaleem.ae/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "tabby",
+  "name": "Tabby",
+  "url": "https://tabby.ai/en-AE/careers",
+  "ats": "Custom",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "tabreed",
+  "name": "Tabreed (National Central Cooling)",
+  "url": "https://www.tabreed.ae/careers/",
+  "ats": "Direct",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "takeda",
+  "name": "Takeda",
+  "url": "https://jobs.takeda.com/",
+  "ats": "Custom",
+  "sector": "Healthcare",
+  "needs_review": false
+ },
+ {
+  "id": "talabat",
+  "name": "Talabat",
+  "url": "https://careers.deliveryhero.com/talabat-jobs",
+  "ats": "Custom",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "tamara",
+  "name": "Tamara",
+  "url": "https://tamara.co/en-sa/careers",
+  "ats": "Greenhouse",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "taqa",
+  "name": "TAQA (Abu Dhabi National Energy)",
+  "url": "https://jobs.taqa.com/vacancies/",
+  "ats": "Custom",
+  "sector": "Energy & Utilities",
+  "needs_review": false
+ },
+ {
+  "id": "tashas-group",
+  "name": "Tashas Group",
+  "url": "https://careers.tashasgroup.com/",
+  "ats": "Custom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "tata-consultancy-services-tcs-uae",
+  "name": "Tata Consultancy Services (TCS) UAE",
+  "url": "https://www.tcs.com/careers",
+  "ats": "Custom",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "the-coca-cola-company-middle-east",
+  "name": "The Coca-Cola Company (Middle East)",
+  "url": "https://www.coca-colacompany.com/careers",
+  "ats": "Custom",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "the-first-group",
+  "name": "The First Group",
+  "url": "https://careers.thefirstgroup.com/",
+  "ats": "Custom",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "thomson-reuters-middle-east",
+  "name": "Thomson Reuters Middle East",
+  "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site",
+  "ats": "Workday",
+  "sector": "Media & Entertainment",
+  "needs_review": false
+ },
+ {
+  "id": "time-hotels",
+  "name": "TIME Hotels",
+  "url": "https://www.timehotels.com/careers",
+  "ats": "Direct",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "transguard-group",
+  "name": "Transguard Group",
+  "url": "https://iaboey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+  "ats": "Oracle HCM",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "tristar-group",
+  "name": "Tristar Group",
+  "url": "https://www.tristar-group.co/currently_hiring",
+  "ats": "Direct",
+  "sector": "Logistics",
+  "needs_review": false
+ },
+ {
+  "id": "uaeu",
+  "name": "UAE University (UAEU)",
+  "url": "https://jobs.uaeu.ac.ae/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "unicef-uae-dubai-office",
+  "name": "UNICEF (UAE / Dubai office)",
+  "url": "https://www.unicef.org/careers",
+  "ats": "Custom",
+  "sector": "Government",
+  "needs_review": false
+ },
+ {
+  "id": "unilever-gulf",
+  "name": "Unilever Gulf",
+  "url": "https://careers.unilever.com/en/united-arab-emirates",
+  "ats": "Workday",
+  "sector": "Manufacturing",
+  "needs_review": false
+ },
+ {
+  "id": "union-coop",
+  "name": "Union Coop",
+  "url": "https://careers.smartrecruiters.com/UnionCoop",
+  "ats": "SmartRecruiters",
+  "sector": "Retail",
+  "needs_review": false
+ },
+ {
+  "id": "union-properties",
+  "name": "Union Properties",
+  "url": "https://up.ae/careers/",
+  "ats": "Direct",
+  "sector": "Real Estate",
+  "needs_review": false
+ },
+ {
+  "id": "university-of-birmingham-dubai",
+  "name": "University of Birmingham Dubai",
+  "url": "https://www.birmingham.ac.uk/dubai/jobs",
+  "ats": "Oracle HCM",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "university-of-fujairah",
+  "name": "University of Fujairah",
+  "url": "https://hr.fu.ac.ae/",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "university-of-sharjah",
+  "name": "University of Sharjah",
+  "url": "https://www.sharjah.ac.ae/en/careers",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "visa-uae",
+  "name": "Visa (UAE)",
+  "url": "https://www.visa.com/en-ae/careers",
+  "ats": "Workday",
+  "sector": "Finance & Banking",
+  "needs_review": false
+ },
+ {
+  "id": "wipro-uae",
+  "name": "Wipro UAE",
+  "url": "https://careers.wipro.com/",
+  "ats": "Unknown",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "wpp-middle-east",
+  "name": "WPP Middle East",
+  "url": "https://www.wpp.com/en/careers",
+  "ats": "Custom",
+  "sector": "Media & Entertainment",
+  "needs_review": false
+ },
+ {
+  "id": "wsp-middle-east",
+  "name": "WSP Middle East",
+  "url": "https://www.wsp.com/en-me/careers/job-opportunities",
+  "ats": "Unknown",
+  "sector": "Construction",
+  "needs_review": false
+ },
+ {
+  "id": "wyndham-hotels-resorts",
+  "name": "Wyndham Hotels & Resorts",
+  "url": "https://careers.wyndhamhotels.com",
+  "ats": "SuccessFactors",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "wynn-al-marjan-island",
+  "name": "Wynn Al Marjan Island",
+  "url": "https://wynnalmarjanisland.com/careers",
+  "ats": "Oracle HCM",
+  "sector": "Hospitality",
+  "needs_review": false
+ },
+ {
+  "id": "yahsat",
+  "name": "Yahsat",
+  "url": "https://fa-euca-test-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Space42Careers",
+  "ats": "Oracle HCM",
+  "sector": "Technology",
+  "needs_review": false
+ },
+ {
+  "id": "zayed-university",
+  "name": "Zayed University",
+  "url": "https://zu.ac.ae/main/en/careers/index",
+  "ats": "Custom",
+  "sector": "Education",
+  "needs_review": false
+ },
+ {
+  "id": "zurich-insurance-uae",
+  "name": "Zurich Insurance (UAE)",
+  "url": "https://www.zurich.com/careers",
+  "ats": "Custom",
+  "sector": "Insurance",
+  "needs_review": false
+ }
+]

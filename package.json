@@ -1,0 +1,3 @@
+{ "name": "uae-job-scanner", "version": "1.0.0", "type": "module",
+  "scripts": { "scan": "node scan.mjs" },
+  "dependencies": { "pg": "^8.13.0", "playwright": "^1.49.0" } }
