@@ -410,7 +410,7 @@
  {
   "id": "aster-dm-healthcare",
   "name": "Aster DM Healthcare",
-  "url": "https://www.asterdmhealthcare.com/careers",
+  "url": "https://hcdtgccprod-iayeqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
   "ats": "Unknown",
   "sector": "Healthcare",
   "needs_review": false
@@ -1914,7 +1914,7 @@
  {
   "id": "mediclinic-me",
   "name": "Mediclinic Middle East",
-  "url": "https://careers.mediclinic.ae/",
+  "url": "https://www.mediclinic.ae/en/corporate/jobs-and-careers/working-at-mediclinic.html",
   "ats": "Custom",
   "sector": "Healthcare",
   "needs_review": false
@@ -3090,7 +3090,7 @@
  {
   "id": "gilead-sciences",
   "name": "Gilead Sciences",
-  "url": "https://jobs.gilead.com",
+  "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers",
   "ats": "Unknown",
   "sector": "Biopharma",
   "needs_review": true
@@ -3850,7 +3850,7 @@
  {
   "id": "allsopp-allsopp",
   "name": "Allsopp & Allsopp",
-  "url": "https://www.allsoppandallsopp.com/careers",
+  "url": "https://www.allsoppandallsopp.com/dubai/about-us/careers-at-allsopp-and-allsopp/current-openings",
   "ats": "Unknown",
   "sector": "Real estate brokerage",
   "needs_review": true
@@ -3898,7 +3898,7 @@
  {
   "id": "sodexo-middle-east",
   "name": "Sodexo Middle East",
-  "url": "https://ae.sodexo.com/careers.html",
+  "url": "https://www.sodexo.com/working-at-sodexo/find-a-job",
   "ats": "Unknown",
   "sector": "Facilities management",
   "needs_review": true
@@ -3938,7 +3938,7 @@
  {
   "id": "kone-middle-east",
   "name": "KONE Middle East",
-  "url": "https://careers.kone.com",
+  "url": "https://kone.wd3.myworkdayjobs.com/en-US/Careers",
   "ats": "Unknown",
   "sector": "Building systems & MEP",
   "needs_review": true
@@ -3994,7 +3994,7 @@
  {
   "id": "holcim-middle-east",
   "name": "Holcim Middle East",
-  "url": "https://careers.holcim.com",
+  "url": "https://www.holcim.com/careers",
   "ats": "Unknown",
   "sector": "Building materials",
   "needs_review": true
@@ -4026,7 +4026,7 @@
  {
   "id": "jotun-uae",
   "name": "Jotun UAE",
-  "url": "https://www.jotun.com/ae-en/careers",
+  "url": "https://jotun.wd3.myworkdayjobs.com/Jotun_careers",
   "ats": "Unknown",
   "sector": "Building materials",
   "needs_review": true
@@ -4442,7 +4442,7 @@
  {
   "id": "teleperformance",
   "name": "Teleperformance",
-  "url": "https://jobs.teleperformance.com",
+  "url": "https://www.tp.com/en-us/careers/job-opportunities/?page=0",
   "ats": "Custom",
   "sector": "BPO / Call Centres",
   "needs_review": true
@@ -4458,7 +4458,7 @@
  {
   "id": "kroll",
   "name": "Kroll",
-  "url": "https://www.kroll.com/en/careers",
+  "url": "https://careers.kroll.com/en",
   "ats": "Custom",
   "sector": "Advisory / Risk",
   "needs_review": true
@@ -4826,7 +4826,7 @@
  {
   "id": "fertiglobe",
   "name": "Fertiglobe",
-  "url": "https://www.fertiglobe.com/careers",
+  "url": "https://careers.fertiglobe.com/search/?searchResultView=LIST",
   "ats": "Unknown",
   "sector": "Fertilizers and chemicals",
   "needs_review": true
