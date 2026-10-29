@@ -13,7 +13,9 @@ const NOT_JOB = /(talent community|talent network|talent pool|talent pipeline|ta
 const ROLE = { test: (t) => TOPIC.test(t) && TITLE.test(t) && !NOT_JOB.test(t) };
 const NOISE = /^(learn more|read more|apply now|view all|see all|search|home|careers?|jobs?|sign in|log ?in|menu|skip to|cookie|privacy|terms|about|contact)$/i;
 
-const companies = JSON.parse(fs.readFileSync('companies.json', 'utf8'));
+let companies = JSON.parse(fs.readFileSync('companies.json', 'utf8'));
+// test mode: if scan-only.txt lists company ids, scan just those
+if (fs.existsSync('scan-only.txt')) { const only = fs.readFileSync('scan-only.txt', 'utf8').split(/[\s,]+/).filter(Boolean); if (only.length) companies = companies.filter((c) => only.includes(c.id)); }
 const db = new pg.Client({ connectionString: process.env.NEON_DATABASE_URL, ssl: { rejectUnauthorized: false } });
 await db.connect();
 await db.query(`create table if not exists scan_candidates (
@@ -29,31 +31,95 @@ for (const c of companies) await db.query('insert into company_history(company_i
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const jobIdFrom = (u) => (u.match(/(\d{3,})(?!.*\d{3,})/) || [])[1] || '';
 
+const ATS = /(myworkdayjobs|oraclecloud|successfactors|taleo|lever\.co|greenhouse\.io|workable\.com|smartrecruiters|icims|eightfold|recruitee|teamtailor|jobvite|bamboohr|ultipro|peoplestrong|pageuppeople|cornerstone|zohorecruit|breezy)/i;
+const JOBLINK = /(view (all )?(jobs|vacancies|openings)|search (for )?jobs|current (openings|vacancies|opportunities)|job (openings|search|opportunities)|open (positions|roles|vacancies)|browse jobs|see (all )?(jobs|roles)|explore (jobs|roles|opportunities)|careers?|vacancies|join us)/i;
+const SOCIAL = /(linkedin|facebook|instagram|twitter|x\.com|youtube|tiktok|mailto:|tel:|javascript:|\.pdf$)/i;
+const KEYWORDS = ['learning', 'talent', 'training'];
+const DEADLINE = 75000; // max ms of deep work per company
+
+async function settle(page) {
+  await page.waitForLoadState('networkidle', { timeout: 10000 }).catch(() => {});
+  await page.waitForTimeout(1800);
+}
+
+// scroll to the bottom and press "load more" style buttons so every job is on the page
+async function expand(page) {
+  for (let i = 0; i < 4; i++) {
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight)).catch(() => {});
+    await page.waitForTimeout(700);
+    const btn = page.locator('button, a').filter({ hasText: /^\s*(load more|show more|view more|see more|more jobs|next)\s*$/i }).first();
+    if (await btn.count().catch(() => 0)) { await btn.click({ timeout: 2000 }).catch(() => {}); await page.waitForTimeout(1200); } else if (i > 0) break;
+  }
+}
+
+async function extract(page) {
+  return page.evaluate(() => {
+    const items = [];
+    for (const a of document.querySelectorAll('a[href]')) {
+      const text = (a.innerText || a.getAttribute('aria-label') || '').trim().replace(/\s+/g, ' ');
+      if (!text || text.length > 160) continue;
+      const card = a.closest('li, article, tr, [class*="job"], [class*="card"], [class*="result"]');
+      const context = ((card && card.innerText) || '').trim().replace(/\s+/g, ' ').slice(0, 300);
+      items.push({ text, href: a.href, context });
+    }
+    return items;
+  });
+}
+
+// type a keyword in the page's search box (jobs portals) and read the results
+async function searchKeyword(page, kw) {
+  const box = page.locator('input[type="search"], input[placeholder*="earch" i], input[aria-label*="earch" i], input[name*="keyword" i], input[id*="keyword" i]').first();
+  if (!(await box.count().catch(() => 0))) return false;
+  try { await box.fill(kw, { timeout: 2500 }); await box.press('Enter', { timeout: 2500 }); await settle(page); return true; } catch { return false; }
+}
+
+async function portalLinks(page, here) {
+  const links = await page.evaluate(() => [...document.querySelectorAll('a[href]')].map(a => ({ href: a.href, text: (a.innerText || a.getAttribute('aria-label') || '').trim().slice(0, 80) })));
+  const seen = new Set([here.split('#')[0]]);
+  const out = [];
+  for (const l of links) {
+    if (!/^https?:/.test(l.href) || SOCIAL.test(l.href)) continue;
+    const k = l.href.split('#')[0];
+    if (seen.has(k)) continue;
+    if (ATS.test(k) || JOBLINK.test(l.text)) { seen.add(k); out.push({ url: k, ats: ATS.test(k) }); }
+  }
+  out.sort((a, b) => Number(b.ats) - Number(a.ats));
+  return out.slice(0, 2);
+}
+
 async function scanOne(browser, c) {
   const ctx = await browser.newContext({ userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36', locale: 'en-US' });
   const page = await ctx.newPage();
+  const t0 = Date.now();
+  const all = [];
+  let note = '';
   try {
     const resp = await page.goto(c.url, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
-    await page.waitForLoadState('networkidle', { timeout: 12000 }).catch(() => {});
-    await page.waitForTimeout(2500);
+    await settle(page);
     if (resp && resp.status() >= 400) return { status: 'failed', matches: 0, note: `HTTP ${resp.status()}`, found: [] };
-    const found = await page.evaluate(() => {
-      const items = [];
-      for (const a of document.querySelectorAll('a[href]')) {
-        const text = (a.innerText || a.getAttribute('aria-label') || '').trim().replace(/\s+/g, ' ');
-        if (!text || text.length > 160) continue;
-        const card = a.closest('li, article, tr, [class*="job"], [class*="card"], [class*="result"]');
-        const context = ((card && card.innerText) || '').trim().replace(/\s+/g, ' ').slice(0, 300);
-        items.push({ text, href: a.href, context });
-      }
-      return items;
-    });
-    const hits = found.filter((f) => ROLE.test(f.text) && !NOISE.test(f.text) && f.text.split(' ').length >= 2);
-    const seen = new Set();
-    const uniq = hits.filter((h) => (seen.has(h.href) ? false : seen.add(h.href)));
     const bodyLen = await page.evaluate(() => document.body.innerText.length);
     if (bodyLen < 200) return { status: 'failed', matches: 0, note: 'page empty or blocked', found: [] };
-    return { status: 'ok', matches: uniq.length, note: '', found: uniq };
+    await expand(page);
+    all.push(...await extract(page));
+    // deep step 1: keyword search on this page
+    for (const kw of KEYWORDS) { if (Date.now() - t0 > DEADLINE) break; if (await searchKeyword(page, kw)) { await expand(page); all.push(...await extract(page)); } }
+    // deep step 2: follow the page to the real jobs portal (Oracle, Workday, SuccessFactors ...) and repeat
+    const portals = Date.now() - t0 < DEADLINE ? await portalLinks(page, c.url) : [];
+    for (const p of portals) {
+      if (Date.now() - t0 > DEADLINE) break;
+      try {
+        const r = await page.goto(p.url, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+        if (r && r.status() >= 400) continue;
+        await settle(page); await expand(page);
+        all.push(...await extract(page));
+        for (const kw of KEYWORDS) { if (Date.now() - t0 > DEADLINE) break; if (await searchKeyword(page, kw)) { await expand(page); all.push(...await extract(page)); } }
+        if (p.ats) note = 'portal: ' + p.url.slice(0, 140);
+      } catch { /* portal not reachable, ignore */ }
+    }
+    const hits = all.filter((f) => ROLE.test(f.text) && !NOISE.test(f.text) && f.text.split(' ').length >= 2);
+    const seen = new Set();
+    const uniq = hits.filter((h) => (seen.has(h.href) ? false : seen.add(h.href)));
+    return { status: 'ok', matches: uniq.length, note, found: uniq };
   } catch (e) {
     return { status: 'failed', matches: 0, note: String(e.message).slice(0, 150), found: [] };
   } finally {
