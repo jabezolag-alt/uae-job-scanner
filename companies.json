@@ -8670,5 +8670,13 @@
     "ats": "",
     "sector": "Other",
     "needs_review": true
+  },
+  {
+    "id": "sacoor-brothers",
+    "name": "Sacoor Brothers",
+    "url": "https://sacoorbrothers.zohorecruit.com/jobs/Careers",
+    "ats": "Zoho Recruit",
+    "sector": "Retail",
+    "needs_review": false
   }
 ]
