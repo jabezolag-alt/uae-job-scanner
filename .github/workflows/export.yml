@@ -1,0 +1,24 @@
+name: Export discovered
+on:
+  push:
+    paths: ['run-export.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm install pg --no-save
+      - run: node export.mjs
+        env:
+          NEON_DATABASE_URL: ${{ secrets.NEON_DATABASE_URL }}
+      - run: |
+          git config user.name "scanner"
+          git config user.email "scanner@users.noreply.github.com"
+          git add discovered_export.json
+          git commit -m "Export discovered career pages" || exit 0
+          git push
