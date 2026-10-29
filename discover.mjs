@@ -1,3 +1,5 @@
+process.on('unhandledRejection', (e) => console.log('ignored error:', String(e && e.message || e).slice(0, 200)));
+process.on('uncaughtException', (e) => console.log('ignored error:', String(e && e.message || e).slice(0, 200)));
 // Finds the real careers page of each company in discover.json by opening its website
 // in a real browser. Results go to Neon table discovered_careers.
 import fs from 'fs';
@@ -145,3 +147,4 @@ await browser.close();
 const sum = await client.query(`select status, count(*) from discovered_careers group by 1`);
 console.log(JSON.stringify(sum.rows));
 await client.end();
+process.exit(0);
