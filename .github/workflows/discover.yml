@@ -17,3 +17,4 @@ jobs:
       - run: node discover.mjs
         env:
           NEON_DATABASE_URL: ${{ secrets.NEON_DATABASE_URL }}
+          REDO: '1'

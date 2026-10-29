@@ -12,7 +12,7 @@ await client.query(`create table if not exists discovered_careers (
   company_id text primary key, name text, website text, career_url text,
   status text, note text, checked_at timestamptz default now())`);
 
-const done = new Set((await client.query(`select company_id from discovered_careers where status in ('found','no_careers')`)).rows.map(r => r.company_id));
+const done = process.env.REDO ? new Set() : new Set((await client.query(`select company_id from discovered_careers where status in ('found','no_careers')`)).rows.map(r => r.company_id));
 const todo = list.filter(c => !done.has(c.id));
 console.log(`to check: ${todo.length} of ${list.length}`);
 
@@ -46,11 +46,57 @@ async function loads(page, url) {
   } catch (e) { return { ok: false, note: String(e.message).split('\n')[0].slice(0, 120) }; }
 }
 
+
+const JOBLINK = /(view (all )?(jobs|vacancies|openings)|search (for )?jobs|current (openings|vacancies|opportunities)|job (openings|search|opportunities)|open (positions|roles|vacancies)|browse jobs|see (all )?(jobs|roles)|apply (now|here)|explore (jobs|roles|opportunities))/i;
+
+// On a careers page, look for the real jobs portal (Oracle, Workday, SuccessFactors...) and prefer it.
+async function followToJobs(page, startUrl) {
+  const links = await page.evaluate(() => [...document.querySelectorAll('a[href]')].map(a => ({ href: a.href, text: (a.innerText || a.getAttribute('aria-label') || '').trim().slice(0, 80) })));
+  const c = links.filter(l => /^https?:/.test(l.href) && !BAD.test(l.href) && (ATS.test(l.href) || JOBLINK.test(l.text)))
+                 .map(l => ({ ...l, s: (ATS.test(l.href) ? 10 : 0) + (JOBLINK.test(l.text) ? 3 : 0) }))
+                 .sort((a, b) => b.s - a.s);
+  const seen = new Set();
+  for (const l of c.slice(0, 4)) {
+    const k = l.href.split('#')[0]; if (seen.has(k) || k === startUrl) continue; seen.add(k);
+    const r = await loads(page, k);
+    if (r.ok) return r.final;
+  }
+  return null;
+}
+
+// Website not reachable? try common variants of the address.
+function variants(u) {
+  try {
+    const x = new URL(u); const h = x.hostname.replace(/^www\./, ''); const out = new Set();
+    for (const host of [h, 'www.' + h, 'corporate.' + h, 'careers.' + h, 'jobs.' + h]) out.add('https://' + host + '/');
+    out.delete(x.origin + '/');
+    return [...out];
+  } catch { return []; }
+}
+
+// Last resort: ask a search engine for the company's careers page.
+async function searchCareers(page, name) {
+  try {
+    await page.goto('https://html.duckduckgo.com/html/?q=' + encodeURIComponent(name + ' careers jobs UAE'), { waitUntil: 'domcontentloaded', timeout: 25000 });
+    const hrefs = await page.evaluate(() => [...document.querySelectorAll('a.result__a')].map(a => { try { const u = new URL(a.href); return u.searchParams.get('uddg') || a.href; } catch { return a.href; } }));
+    const tok = name.toLowerCase().replace(/\(.*?\)/g, '').replace(/[^a-z0-9 ]/g, ' ').split(/\s+/).filter(w => w.length > 3 && !/group|holding|company|uae|middle|east|international|services/.test(w));
+    const good = hrefs.filter(h => !BAD.test(h) && (ATS.test(h) || (CAREER.test(h) && tok.some(t => h.toLowerCase().includes(t)))));
+    return good.slice(0, 3);
+  } catch { return []; }
+}
+
 async function findOne(ctx, c) {
   const page = await ctx.newPage();
   try {
-    const home = await loads(page, c.website_url);
-    if (!home.ok) return { status: 'site_failed', note: home.note };
+    let home = await loads(page, c.website_url);
+    if (!home.ok) { for (const v of variants(c.website_url)) { home = await loads(page, v); if (home.ok) break; } }
+    if (!home.ok) {
+      for (const u of await searchCareers(page, c.name)) {
+        const r = await loads(page, u);
+        if (r.ok) { const j = ATS.test(r.final) ? null : await followToJobs(page, r.final); return { status: 'found', career_url: j || r.final, note: 'via search' }; }
+      }
+      return { status: 'site_failed', note: home.note };
+    }
     const links = await page.evaluate(() => [...document.querySelectorAll('a[href]')].map(a => ({ href: a.href, text: (a.innerText || a.getAttribute('aria-label') || '').trim().slice(0, 80) })));
     const cands = [];
     for (const l of links) {
@@ -70,7 +116,10 @@ async function findOne(ctx, c) {
       const r = await loads(page, u);
       if (r.ok) {
         const t = await page.evaluate(() => (document.title + ' ' + document.body.innerText.slice(0, 1500)).toLowerCase());
-        if (/(career|job|vacanc|join|opportunit|apply|hiring)/.test(t)) return { status: 'found', career_url: r.final };
+        if (/(career|job|vacanc|join|opportunit|apply|hiring)/.test(t)) {
+          const j = ATS.test(r.final) ? null : await followToJobs(page, r.final);
+          return { status: 'found', career_url: j || r.final, note: j ? 'jobs portal' : null };
+        }
       }
     }
     return { status: 'no_careers', note: 'no working careers link on site' };
