@@ -7886,5 +7886,789 @@
     "ats": "",
     "sector": "Other",
     "needs_review": false
+  },
+  {
+    "id": "wafi-group",
+    "name": "Wafi Group",
+    "url": "https://www.wafi.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "anantara-hotels",
+    "name": "Anantara Hotels",
+    "url": "https://www.anantara.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "reel-cinemas",
+    "name": "Reel Cinemas",
+    "url": "https://www.reelcinemas.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "menzies-aviation",
+    "name": "Menzies Aviation",
+    "url": "https://menziesaviation.com/careers/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "gulftainer",
+    "name": "Gulftainer",
+    "url": "https://www.gulftainer.com/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "jebel-ali-free-zone",
+    "name": "Jebel Ali Free Zone (JAFZA)",
+    "url": "https://jafza.ae/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "dubai-airport-freezone-authority",
+    "name": "Dubai Airport Freezone Authority (DAFZA)",
+    "url": "https://www.dafz.ae/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "saipem",
+    "name": "Saipem",
+    "url": "https://www.saipem.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "moro-hub",
+    "name": "Moro Hub",
+    "url": "https://www.morohub.com/en/contact-us/careers",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "cloudflare",
+    "name": "Cloudflare",
+    "url": "https://www.cloudflare.com/careers/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "virgin-mobile-uae",
+    "name": "Virgin Mobile UAE",
+    "url": "https://www.virginmobile.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "dla-piper-middle-east",
+    "name": "DLA Piper Middle East",
+    "url": "https://careers.dlapiper.com/?geo=MEA",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "omnicom-media-group-mena",
+    "name": "Omnicom Media Group MENA",
+    "url": "https://omnicommedia.com/mena/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "publicis-groupe-middle-east",
+    "name": "Publicis Groupe Middle East",
+    "url": "https://www.publicisgroupe.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "herbert-smith-freehills-kramer",
+    "name": "Herbert Smith Freehills Kramer (Dubai)",
+    "url": "https://www.hsfkramer.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "iffco-group",
+    "name": "IFFCO Group",
+    "url": "https://jobs.iffco.com/go/Emiratisation-Programme/2902601",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-ain-farms",
+    "name": "Al Ain Farms",
+    "url": "https://alainfarms.com/ar/careers/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "mai-dubai",
+    "name": "Mai Dubai (Emirates Refreshments)",
+    "url": "https://www.maidubaiwater.com/?p=2935",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-habtoor-motors",
+    "name": "Al Habtoor Motors",
+    "url": "https://habtoormotors.com/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "juma-al-majid-group",
+    "name": "Juma Al Majid Group",
+    "url": "https://www.al-majid.com/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "gulf-craft",
+    "name": "Gulf Craft",
+    "url": "https://gulfcraftgroup.com/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "gargash-insurance",
+    "name": "Gargash Insurance (Gargash Group)",
+    "url": "https://www.gargashinsurance.com/careers",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "easa-saleh-al-gurg-group",
+    "name": "Easa Saleh Al Gurg Group",
+    "url": "https://careers.algurg.com:443",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "ali-sons",
+    "name": "Ali & Sons",
+    "url": "https://aliandsons.odoo.com/ar/careers",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-rostamani-group",
+    "name": "Al Rostamani Group",
+    "url": "https://alrostamanigroup.ae/careers/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "ford-middle-east",
+    "name": "Ford Middle East",
+    "url": "https://www.careers.ford.com/location/united-arab-emirates-jobs/48560/290557/2",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "cargill",
+    "name": "Cargill",
+    "url": "https://www.cargill.com/worldwide/united-arab-emirates-uae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "nike",
+    "name": "Nike",
+    "url": "https://www.nike.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "vox-cinemas",
+    "name": "VOX Cinemas",
+    "url": "https://uae.voxcinemas.com/careers",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "legoland-dubai-resort",
+    "name": "LEGOLAND Dubai Resort",
+    "url": "https://www.legoland.com/dubai/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "flight-centre-travel-group",
+    "name": "Flight Centre Travel Group (FCM)",
+    "url": "https://www.fctgcareers.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "novo-cinemas",
+    "name": "Novo Cinemas (Imagine Group)",
+    "url": "https://www.novocinemas.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "gymnation",
+    "name": "GymNation",
+    "url": "https://gymnation.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "yas-marina-circuit",
+    "name": "Yas Marina Circuit",
+    "url": "https://www.yasmarinacircuit.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "msc-cruises",
+    "name": "MSC Cruises",
+    "url": "https://www.msccruises.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "irena",
+    "name": "IRENA (International Renewable Energy Agency)",
+    "url": "https://www.irena.org/Jobs",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "emirates-nature-wwf",
+    "name": "Emirates Nature-WWF",
+    "url": "https://www.emiratesnaturewwf.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "mohammed-bin-rashid-al-maktoum-global-initiatives",
+    "name": "Mohammed bin Rashid Al Maktoum Global Initiatives",
+    "url": "https://www.almaktouminitiatives.org",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-jalila-foundation",
+    "name": "Al Jalila Foundation",
+    "url": "https://aljalilafoundation.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "dubai-autism-center",
+    "name": "Dubai Autism Center",
+    "url": "https://www.dubaiautismcenter.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "bayut",
+    "name": "Bayut",
+    "url": "https://www.bayut.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "keeta",
+    "name": "Keeta (Meituan)",
+    "url": "https://www.keeta.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "medeor-hospital",
+    "name": "Medeor Hospital",
+    "url": "https://medeor.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "g4s-uae",
+    "name": "G4S UAE",
+    "url": "https://www.g4s.com/en-ae/careers",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "tadweer-group",
+    "name": "Tadweer Group",
+    "url": "https://tadweer.ae/careers",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "safran-uae",
+    "name": "Safran UAE",
+    "url": "https://safran-group.com/countries/united-arab-emirates",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "abu-dhabi-ship-building",
+    "name": "Abu Dhabi Ship Building (ADSB)",
+    "url": "https://adsb.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "murdoch-university-dubai",
+    "name": "Murdoch University Dubai",
+    "url": "https://www.murdochuniversitydubai.com/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "kings-school-dubai",
+    "name": "Kings' School Dubai",
+    "url": "https://www.kingsdubai.com/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "habib-bank-ag-zurich",
+    "name": "Habib Bank AG Zurich (UAE)",
+    "url": "https://habibbank.com/ae/careers/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "watania",
+    "name": "Watania (National Takaful Company)",
+    "url": "https://watania.ae/careers/emirati-applicants/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "bank-of-baroda-uae",
+    "name": "Bank of Baroda UAE",
+    "url": "https://www.bankofbarodauae.ae/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "adq",
+    "name": "ADQ",
+    "url": "https://www.adq.ae/",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "ikea-uae",
+    "name": "IKEA UAE",
+    "url": "https://jobs.ikea.com/en/search_jobs/United Arab Emirates&p=2",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "carrefour-uae",
+    "name": "Carrefour UAE",
+    "url": "https://www.carrefouruae.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "emax",
+    "name": "Emax",
+    "url": "https://www.emaxme.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "ajmal-perfumes",
+    "name": "Ajmal Perfumes",
+    "url": "https://www.ajmalperfume.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "m-venpick-hotels-resorts",
+    "name": "Mövenpick Hotels & Resorts",
+    "url": "https://movenpick.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-islami-foods",
+    "name": "Al Islami Foods",
+    "url": "https://www.alislami.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-rawabi-dairy-company",
+    "name": "Al Rawabi Dairy Company",
+    "url": "https://www.alrawabi.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "masafi",
+    "name": "Masafi",
+    "url": "https://www.masafi.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "bateel-international",
+    "name": "Bateel International",
+    "url": "https://www.bateel.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "digital14",
+    "name": "Digital14",
+    "url": "https://www.digital14.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "gulf-business-machines",
+    "name": "Gulf Business Machines (GBM)",
+    "url": "https://www.gbm.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "ingram-micro",
+    "name": "Ingram Micro",
+    "url": "https://www.ingrammicro.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "thuraya",
+    "name": "Thuraya",
+    "url": "https://www.thuraya.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "space42",
+    "name": "Space42",
+    "url": "https://www.space42.ai",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "emirates-identity-authority",
+    "name": "Emirates Identity Authority",
+    "url": "https://www.emiratesid.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "amadeus",
+    "name": "Amadeus",
+    "url": "https://amadeus.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "netapp",
+    "name": "NetApp",
+    "url": "https://www.netapp.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "lg-electronics-gulf",
+    "name": "LG Electronics Gulf",
+    "url": "https://www.lg.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "swvl",
+    "name": "Swvl",
+    "url": "https://www.swvl.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "magnati",
+    "name": "Magnati",
+    "url": "https://www.magnati.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "starzplay",
+    "name": "STARZPLAY",
+    "url": "https://www.starzplay.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "gargash-enterprises",
+    "name": "Gargash Enterprises",
+    "url": "https://www.gargash.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "bin-hendi-group",
+    "name": "Bin Hendi Group",
+    "url": "https://www.binhendi.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-ghurair-foods",
+    "name": "Al Ghurair Foods",
+    "url": "https://www.alghurairfoods.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-rawabi-dairy",
+    "name": "Al Rawabi Dairy",
+    "url": "https://www.alrawabi.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-masraf",
+    "name": "Al Masraf",
+    "url": "https://www.almasraf.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "ahmed-seddiqi-sons",
+    "name": "Ahmed Seddiqi & Sons",
+    "url": "https://www.seddiqi.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "rasasi-perfumes",
+    "name": "Rasasi Perfumes",
+    "url": "https://www.rasasi.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "eppco",
+    "name": "EPPCO (Emirates Petroleum Products Company)",
+    "url": "https://www.eppco.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "grand-cinemas",
+    "name": "Grand Cinemas (Gulf Film)",
+    "url": "https://www.grandcinemas.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "meydan",
+    "name": "Meydan",
+    "url": "https://www.meydan.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "dubai-racing-club",
+    "name": "Dubai Racing Club",
+    "url": "https://www.dubairacingclub.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "al-ain-zoo",
+    "name": "Al Ain Zoo",
+    "url": "https://www.alainzoo.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "sharjah-museums-authority",
+    "name": "Sharjah Museums Authority",
+    "url": "https://www.sma.shj.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "big-bus-tours",
+    "name": "Big Bus Tours",
+    "url": "https://www.bigbustours.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "cleartrip-uae",
+    "name": "Cleartrip UAE",
+    "url": "https://www.cleartrip.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "jumeirah-golf-estates",
+    "name": "Jumeirah Golf Estates",
+    "url": "https://www.jumeirahgolfestates.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "mohammed-bin-rashid-housing-establishment",
+    "name": "Mohammed Bin Rashid Housing Establishment",
+    "url": "https://www.mbrhe.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "salik",
+    "name": "Salik",
+    "url": "https://www.salik.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "dubai-design-district",
+    "name": "Dubai Design District (d3)",
+    "url": "https://www.d3.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "dubai-world",
+    "name": "Dubai World",
+    "url": "https://www.dubaiworld.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "museum-of-the-future",
+    "name": "Museum of the Future",
+    "url": "https://museumofthefuture.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "meraas",
+    "name": "Meraas",
+    "url": "https://www.meraas.com",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "dubai-hills-estate",
+    "name": "Dubai Hills Estate",
+    "url": "https://www.dubaihillsestate.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
+  },
+  {
+    "id": "dubai-sports-city",
+    "name": "Dubai Sports City",
+    "url": "https://www.dubaisportscity.ae",
+    "ats": "",
+    "sector": "Other",
+    "needs_review": true
   }
 ]
