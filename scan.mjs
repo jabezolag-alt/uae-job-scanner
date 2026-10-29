@@ -81,9 +81,10 @@ async function portalLinks(page, here) {
     if (!/^https?:/.test(l.href) || SOCIAL.test(l.href)) continue;
     const k = l.href.split('#')[0];
     if (seen.has(k)) continue;
-    if (ATS.test(k) || JOBLINK.test(l.text)) { seen.add(k); out.push({ url: k, ats: ATS.test(k) }); }
+    if (/(supplier|vendor|register|login|log-in|sign-?in|privacy|terms|cookie|forgot|password|help)/i.test(k)) continue;
+    if (ATS.test(k) || JOBLINK.test(l.text)) { seen.add(k); out.push({ url: k, ats: ATS.test(k), s: (ATS.test(k) ? 4 : 0) + (/(CandidateExperience|\/jobs|careers?|vacanc)/i.test(k) ? 5 : 0) }); }
   }
-  out.sort((a, b) => Number(b.ats) - Number(a.ats));
+  out.sort((a, b) => b.s - a.s);
   return out.slice(0, 2);
 }
 
