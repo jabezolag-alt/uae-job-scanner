@@ -425,7 +425,7 @@
  },
  {
   "id": "atkinsr-alis",
-  "name": "AtkinsRéalis",
+  "name": "AtkinsR\u00e9alis",
   "url": "https://careers.atkinsrealis.com/en",
   "ats": "Custom",
   "sector": "Construction",
@@ -4941,6 +4941,2942 @@
   "url": "https://www.cummins.com/careers",
   "ats": "Unknown",
   "sector": "Engines and power",
+  "needs_review": true
+ },
+ {
+  "id": "bp",
+  "name": "bp",
+  "url": "https://careers.bp.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "cae",
+  "name": "CAE",
+  "url": "https://www.cae.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "cpx",
+  "name": "CPX",
+  "url": "https://www.cpx.net/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dnv",
+  "name": "DNV",
+  "url": "https://jobs.dnv.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "eni",
+  "name": "Eni",
+  "url": "https://www.eni.com/en-IT/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "fis",
+  "name": "FIS",
+  "url": "https://careers.fisglobal.com/us/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "omv",
+  "name": "OMV",
+  "url": "https://www.omv.com/en/career/career-team",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ubs",
+  "name": "UBS",
+  "url": "https://www.ubs.com/global/en/careers/search-jobs.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ucb",
+  "name": "UCB",
+  "url": "https://careers.ucb.com/global/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "cowi",
+  "name": "COWI",
+  "url": "https://www.cowi.com/your-career/step-inside/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "coty",
+  "name": "Coty",
+  "url": "https://www.coty.com/your-career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "egis",
+  "name": "Egis",
+  "url": "https://jobs.egis-group.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "olam",
+  "name": "Olam",
+  "url": "https://www.olamgroup.com/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sita",
+  "name": "SITA",
+  "url": "https://careers.sita.aero/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "smec",
+  "name": "SMEC",
+  "url": "https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "saab",
+  "name": "Saab",
+  "url": "https://www.saab.com/career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sika",
+  "name": "Sika",
+  "url": "https://www.sika.com/en/career.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "uber",
+  "name": "Uber",
+  "url": "https://jobs.uber.com/en/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "wego",
+  "name": "Wego",
+  "url": "https://careers.wego.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "zoho",
+  "name": "Zoho",
+  "url": "https://www.zoho.com/careers/?src=ft",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "alaan",
+  "name": "Alaan",
+  "url": "https://www.alaan.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "alcon",
+  "name": "Alcon",
+  "url": "https://www.alcon.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "apple",
+  "name": "Apple",
+  "url": "https://www.apple.com/careers/us/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "bosch",
+  "name": "Bosch",
+  "url": "https://www.bosch.com/careers/career-opportunities/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "capco",
+  "name": "Capco",
+  "url": "https://www.capco.com/Careers/Job-Search",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "cipla",
+  "name": "Cipla",
+  "url": "https://www.cipla.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "eyewa",
+  "name": "Eyewa",
+  "url": "https://eyewa.com/ae-en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "fugro",
+  "name": "Fugro",
+  "url": "https://www.fugro.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hatch",
+  "name": "Hatch",
+  "url": "https://jobs.hatch.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "havas",
+  "name": "Havas",
+  "url": "https://www.havas.com/who-we-are/our-careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hilti",
+  "name": "Hilti",
+  "url": "https://careers.hilti.group/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hub71",
+  "name": "Hub71",
+  "url": "https://www.hub71.com/talent",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "huspy",
+  "name": "Huspy",
+  "url": "https://www.huspy.com/ae/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "intel",
+  "name": "Intel",
+  "url": "https://www.intel.com/content/www/us/en/jobs/life-at-intel.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ipsen",
+  "name": "Ipsen",
+  "url": "https://ipsen.wd103.myworkdayjobs.com/en-EN/Ipsen_Careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ipsos",
+  "name": "Ipsos",
+  "url": "https://www.ipsos.com/en-ae/opportunities-ipsos",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "jafza",
+  "name": "JAFZA",
+  "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "jetex",
+  "name": "Jetex",
+  "url": "https://careers.jetex.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "linde",
+  "name": "Linde",
+  "url": "https://www.lindecareers.com/en/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "lupin",
+  "name": "Lupin",
+  "url": "https://careers.lupin.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sabis",
+  "name": "SABIS",
+  "url": "https://careers.sabis.net/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sabre",
+  "name": "Sabre",
+  "url": "https://www.sabre.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sarwa",
+  "name": "Sarwa",
+  "url": "https://careers.sarwa.co/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "shell",
+  "name": "Shell",
+  "url": "https://www.shell.com/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "silal",
+  "name": "Silal",
+  "url": "https://www.silal.ae/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "vopak",
+  "name": "Vopak",
+  "url": "https://www.careersatvopak.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "alstom",
+  "name": "Alstom",
+  "url": "https://www.alstom.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ansell",
+  "name": "Ansell",
+  "url": "https://ansell.taleo.net/careersection/ex/jobsearch.ftl?lang=en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "averda",
+  "name": "Averda",
+  "url": "https://www.averda.com/about-us/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "bayzat",
+  "name": "Bayzat",
+  "url": "https://www.bayzat.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "biogen",
+  "name": "Biogen",
+  "url": "https://biibhr.wd3.myworkdayjobs.com/external",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "burson",
+  "name": "Burson",
+  "url": "https://www.bursonglobal.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "daikin",
+  "name": "Daikin",
+  "url": "https://www.daikin.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "diageo",
+  "name": "Diageo",
+  "url": "https://www.diageo.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dupont",
+  "name": "DuPont",
+  "url": "https://careers.dupont.com/us/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emarat",
+  "name": "Emarat",
+  "url": "https://www.emarat.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "fiserv",
+  "name": "Fiserv",
+  "url": "https://careers.fiserv.com/us/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "fosroc",
+  "name": "Fosroc",
+  "url": "https://www.fosroc.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "gleeds",
+  "name": "Gleeds",
+  "url": "https://jobs.gleeds.com/vacancies/vacancy-search-results.aspx?utm_source=gleeds&utm_medium=website&utm_campaign=careers_home&utm_content=view_opportunities&_gl=1*u2rfkp*_ga*ODk5ODMzNTgxLjE3NzcwMjY1MDE.*_ga_YN1377G4ND*czE3ODE4NjcxMzckbzM1JGcxJHQxNzgxODY4NjUwJGo1NiRsMCRoMA..",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hp-inc",
+  "name": "HP Inc",
+  "url": "https://jobs.hp.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hempel",
+  "name": "Hempel",
+  "url": "https://www.hempel.com/about-us/career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "kantar",
+  "name": "Kantar",
+  "url": "https://careers.kantar.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "kenvue",
+  "name": "Kenvue",
+  "url": "https://www.kenvue.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "lunate",
+  "name": "Lunate",
+  "url": "https://www.lunate.com/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "metito",
+  "name": "Metito",
+  "url": "https://www.metito.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "nvidia",
+  "name": "NVIDIA",
+  "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ogilvy",
+  "name": "Ogilvy",
+  "url": "https://www.ogilvy.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ounass",
+  "name": "Ounass",
+  "url": "https://careers.ounass.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "parkin",
+  "name": "Parkin",
+  "url": "https://www.parkin.ae/career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sandoz",
+  "name": "Sandoz",
+  "url": "https://www.sandoz.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sulzer",
+  "name": "Sulzer",
+  "url": "https://www.sulzer.com/en/about-us/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sysmex",
+  "name": "Sysmex",
+  "url": "https://careers-sysmex.icims.com/jobs/intro?hashed=-435621441&mobile=false&width=1204&height=500&bga=true&needsRedirect=false&jan1offset=0&jun1offset=0",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "systra",
+  "name": "Systra",
+  "url": "https://www.systra.com/rejoignez-nous/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "thales",
+  "name": "Thales",
+  "url": "https://careers.thalesgroup.com/global/en/search-results",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "yougov",
+  "name": "YouGov",
+  "url": "https://jobs.yougov.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "aggreko",
+  "name": "Aggreko",
+  "url": "https://careers.aggreko.com/na/en-us",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ashurst",
+  "name": "Ashurst",
+  "url": "https://www.ashurstperkinscoie.com/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "aurecon",
+  "name": "Aurecon",
+  "url": "https://www.aurecongroup.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "brink-s",
+  "name": "Brink's",
+  "url": "https://brinks-careers.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "chevron",
+  "name": "Chevron",
+  "url": "https://www.chevron.com/who-we-are/contact/jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "danfoss",
+  "name": "Danfoss",
+  "url": "https://www.danfoss.com/en/about-danfoss/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dentons",
+  "name": "Dentons",
+  "url": "https://www.dentons.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emerson",
+  "name": "Emerson",
+  "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emircom",
+  "name": "Emircom",
+  "url": "https://www.emircom.com/job-openings/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "empower",
+  "name": "Empower",
+  "url": "https://www.empower.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "freeman",
+  "name": "Freeman",
+  "url": "https://www.freeman.com/about-us/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "getinge",
+  "name": "Getinge",
+  "url": "https://www.getinge.com/us/company/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "help-ag",
+  "name": "Help AG",
+  "url": "https://www.helpag.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hitachi",
+  "name": "Hitachi",
+  "url": "https://careers.hitachi.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hologic",
+  "name": "Hologic",
+  "url": "https://careers.hologic.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "injazat",
+  "name": "Injazat",
+  "url": "https://careers.g42.ai/global/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ketchum",
+  "name": "Ketchum",
+  "url": "https://golinketchum.com/careers-jobs/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "komatsu",
+  "name": "Komatsu",
+  "url": "https://www.komatsu.com/en-us/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "legrand",
+  "name": "Legrand",
+  "url": "https://www.legrand.com/en/working-legrand/all-brand-ambassadors/boost-your-career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "logicom",
+  "name": "Logicom",
+  "url": "https://www.logicom.net/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mindray",
+  "name": "Mindray",
+  "url": "https://www.mindray.com/na/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "nielsen",
+  "name": "Nielsen",
+  "url": "https://www.nielsen.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "organon",
+  "name": "Organon",
+  "url": "https://www.organon.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "paytabs",
+  "name": "PayTabs",
+  "url": "https://ai.paytabs.com/en/career/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "penspen",
+  "name": "Penspen",
+  "url": "https://www.penspen.com/insights/a-career-in-proposals-built-on-engineering-experience-meet-ashish/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ramboll",
+  "name": "Ramboll",
+  "url": "https://www.ramboll.com/early-careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "red-hat",
+  "name": "Red Hat",
+  "url": "https://www.redhat.com/en/jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "siemens",
+  "name": "Siemens",
+  "url": "https://www.siemens.com/en-us/company/jobs/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "stryker",
+  "name": "Stryker",
+  "url": "https://careers.stryker.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "subsea7",
+  "name": "Subsea7",
+  "url": "https://careers.subsea7.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "svitzer",
+  "name": "Svitzer",
+  "url": "https://svitzer.wd3.myworkdayjobs.com/Svitzer_Careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "tenaris",
+  "name": "Tenaris",
+  "url": "https://www.tenaris.com/en/careers/skilled-operator-jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "workday",
+  "name": "Workday",
+  "url": "https://www.workday.com/en-us/company/careers/overview.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "astellas",
+  "name": "Astellas",
+  "url": "https://www.astellas.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "b-braun",
+  "name": "B. Braun",
+  "url": "https://www.bbraun.com/en/career/your-opportunities/work-and-career.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "borealis",
+  "name": "Borealis",
+  "url": "https://careers.borealisgroup.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "cochlear",
+  "name": "Cochlear",
+  "url": "https://www.cochlear.com/us/en/corporate/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "convatec",
+  "name": "Convatec",
+  "url": "https://careers.convatec.com/global/gb",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dana-gas",
+  "name": "Dana Gas",
+  "url": "https://www.danagas.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "generali",
+  "name": "Generali",
+  "url": "https://www.generali.com/people-and-careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "goodyear",
+  "name": "Goodyear",
+  "url": "https://corporate.goodyear.com/us/en/company/working-at-goodyear.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "intertek",
+  "name": "Intertek",
+  "url": "https://www.intertek.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "justlife",
+  "name": "Justlife",
+  "url": "https://career.justlife.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "leonardo",
+  "name": "Leonardo",
+  "url": "https://www.leonardo.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mclarens",
+  "name": "McLarens",
+  "url": "https://www.mclarens.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "michelin",
+  "name": "Michelin",
+  "url": "https://www.michelin.com/en/expertise/talents",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "opentext",
+  "name": "OpenText",
+  "url": "https://careers.opentext.com/us/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "palantir",
+  "name": "Palantir",
+  "url": "https://www.palantir.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "qualcomm",
+  "name": "Qualcomm",
+  "url": "https://www.qualcomm.com/company/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "red-bull",
+  "name": "Red Bull",
+  "url": "https://jobs.redbull.com/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sedgwick",
+  "name": "Sedgwick",
+  "url": "https://www.sedgwick.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "swiss-re",
+  "name": "Swiss Re",
+  "url": "https://career2.successfactors.eu/career?career_company=SwissRe&lang=en_GB&company=SwissRe&site=&loginFlowRequired=true",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "teleflex",
+  "name": "Teleflex",
+  "url": "https://www.teleflex.com/usa/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "wartsila",
+  "name": "Wartsila",
+  "url": "https://www.wartsila.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "yokogawa",
+  "name": "Yokogawa",
+  "url": "https://www.yokogawa.com/about/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "bmw-group",
+  "name": "BMW Group",
+  "url": "https://www.bmwgroup.jobs/en.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "bilfinger",
+  "name": "Bilfinger",
+  "url": "https://www.bilfinger.com/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "flowserve",
+  "name": "Flowserve",
+  "url": "https://careers.flowserve.com/?utm_source=flowserve.com&utm_medium=referral&utm_campaign=careerssite&vs=4263",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "foundever",
+  "name": "Foundever",
+  "url": "https://jobs.foundever.com/?utm_source=sitelcareers&utm_medium=ctaheader",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "gulf-cryo",
+  "name": "Gulf Cryo",
+  "url": "https://www.gulfcryo.com/current-openings",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "gulf-drug",
+  "name": "Gulf Drug",
+  "url": "https://www.gulfdrug.com/human-resources/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "k-l-gates",
+  "name": "K&L Gates",
+  "url": "https://www.klgates.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "kaspersky",
+  "name": "Kaspersky",
+  "url": "https://careers.kaspersky.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "linesight",
+  "name": "Linesight",
+  "url": "https://www.linesight.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "logicalis",
+  "name": "Logicalis",
+  "url": "https://www.logicalis.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mcdermott",
+  "name": "McDermott",
+  "url": "https://www.mcdermott.com/careers/search-apply",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "munich-re",
+  "name": "Munich Re",
+  "url": "https://careers.munichre.com/en/munichre",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "royal-jet",
+  "name": "Royal Jet",
+  "url": "https://careerroyaljet.talentera.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "securitas",
+  "name": "Securitas",
+  "url": "https://www.securitas.com/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "td-synnex",
+  "name": "TD Synnex",
+  "url": "https://careers.tdsynnex.com/us/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "tetra-pak",
+  "name": "Tetra Pak",
+  "url": "https://www.tetrapak.com/about-tetra-pak/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "tractebel",
+  "name": "Tractebel",
+  "url": "https://tractebel-engie.com/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "tradeling",
+  "name": "Tradeling",
+  "url": "https://tradelinggroup.com/career/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "amea-power",
+  "name": "AMEA Power",
+  "url": "https://www.ameapower.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "beiersdorf",
+  "name": "Beiersdorf",
+  "url": "https://www.beiersdorf.com/career/students/overview",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dragon-oil",
+  "name": "Dragon Oil",
+  "url": "https://www.dragonoil.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-golf",
+  "name": "Dubai Golf",
+  "url": "https://www.dubaigolf.com/about-us/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ge-vernova",
+  "name": "GE Vernova",
+  "url": "https://careers.gevernova.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "geodis-uae",
+  "name": "GEODIS UAE",
+  "url": "https://geodis.com/us-en/career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "linklaters",
+  "name": "Linklaters",
+  "url": "https://www.linklaters.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "reed-smith",
+  "name": "Reed Smith",
+  "url": "https://www.reedsmith.com/join-us/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "tetra-tech",
+  "name": "Tetra Tech",
+  "url": "https://www.tetratech.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "wilhelmsen",
+  "name": "Wilhelmsen",
+  "url": "https://www.wilhelmsen.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dmg-events",
+  "name": "dmg events",
+  "url": "https://www.dmgevents.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "atlas-copco",
+  "name": "Atlas Copco",
+  "url": "http://www.atlascopcogroup.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "bird-bird",
+  "name": "Bird & Bird",
+  "url": "https://www.twobirds.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "booking-com",
+  "name": "Booking.com",
+  "url": "https://careers.booking.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "enviroserve",
+  "name": "Enviroserve",
+  "url": "https://enviroserve.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "etihad-esco",
+  "name": "Etihad ESCO",
+  "url": "https://etihadesco.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "freshfields",
+  "name": "Freshfields",
+  "url": "https://www.freshfields.com/en/your-career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "gibson-dunn",
+  "name": "Gibson Dunn",
+  "url": "https://www.gibsondunn.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "kraft-heinz",
+  "name": "Kraft Heinz",
+  "url": "https://careers.kraftheinzcompany.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mayer-brown",
+  "name": "Mayer Brown",
+  "url": "https://www.mayerbrown.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "musafir-com",
+  "name": "Musafir.com",
+  "url": "https://www.musafir.com/careers/default.aspx",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "oceaneering",
+  "name": "Oceaneering",
+  "url": "https://www.oceaneering.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rove-hotels",
+  "name": "Rove Hotels",
+  "url": "https://www.rovehotels.com/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "samsung-e-a",
+  "name": "Samsung E&A",
+  "url": "https://www.samsungena.com/en/careers/talent-development",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "trend-micro",
+  "name": "Trend Micro",
+  "url": "https://www.trendmicro.com/en_us/about/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "volvo-group",
+  "name": "Volvo Group",
+  "url": "https://www.volvogroup.com/en/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "woods-bagot",
+  "name": "Woods Bagot",
+  "url": "https://www.woodsbagot.com/global-studio/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "a-o-shearman",
+  "name": "A&O Shearman",
+  "url": "https://careers.aoshearman.com/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "azadea-group",
+  "name": "Azadea Group",
+  "url": "https://www.azadeagroupholding.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "cozmo-travel",
+  "name": "Cozmo Travel",
+  "url": "https://www.airarabiagroupcareers.com/gb/en/cozmo-travel",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "llh-hospital",
+  "name": "LLH Hospital",
+  "url": "https://llhhospital.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "morgan-lewis",
+  "name": "Morgan Lewis",
+  "url": "https://www.morganlewis.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "platinumlist",
+  "name": "Platinumlist",
+  "url": "https://apply.workable.com/platinum-list/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rak-hospital",
+  "name": "RAK Hospital",
+  "url": "https://rakhospital.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rivoli-group",
+  "name": "Rivoli Group",
+  "url": "https://www.rivoligroup.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rixos-hotels",
+  "name": "Rixos Hotels",
+  "url": "https://careers.accor.com/global/en/jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "roxy-cinemas",
+  "name": "Roxy Cinemas",
+  "url": "https://vipcinemas.com/jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "simon-kucher",
+  "name": "Simon-Kucher",
+  "url": "https://www.simon-kucher.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "smith-nephew",
+  "name": "Smith+Nephew",
+  "url": "https://www.smith-nephew.com/en-US/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "yallacompare",
+  "name": "Yallacompare",
+  "url": "https://yallacompare.com/uae/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "al-hilal-bank",
+  "name": "Al Hilal Bank",
+  "url": "https://www.alhilalbank.ae/en/careers.aspx",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "arab-bank-uae",
+  "name": "Arab Bank UAE",
+  "url": "https://arabbank.taleo.net/careersection/ab_external/moresearch.ftl?lang=en&location=805021922&location=805021922&locationRad=805021922&portal=8105021922&radius=1&radiusType=K&searchExpanded=true",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "bausch-health",
+  "name": "Bausch Health",
+  "url": "https://www.bausch.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "control-risks",
+  "name": "Control Risks",
+  "url": "https://www.controlrisks.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "digital-dubai",
+  "name": "Digital Dubai",
+  "url": "https://www.digitaldubai.ae/en/apps-services/dubai-careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-college",
+  "name": "Dubai College",
+  "url": "https://www.dubaicollege.org/character/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "expedia-group",
+  "name": "Expedia Group",
+  "url": "https://careers.expediagroup.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "finance-house",
+  "name": "Finance House",
+  "url": "https://www.financehouse.ae/en/careers-2/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "gama-aviation",
+  "name": "Gama Aviation",
+  "url": "https://www.gamaaviation.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hogan-lovells",
+  "name": "Hogan Lovells",
+  "url": "https://www.hlc.com/en/global-careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "khaleej-times",
+  "name": "Khaleej Times",
+  "url": "https://www.khaleejtimes.com/jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rak-insurance",
+  "name": "RAK Insurance",
+  "url": "https://www.rakinsurance.com/career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "swissport-uae",
+  "name": "Swissport UAE",
+  "url": "https://www.swissport.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "apco-worldwide",
+  "name": "APCO Worldwide",
+  "url": "https://apcoworldwide.com/about/people/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "aker-solutions",
+  "name": "Aker Solutions",
+  "url": "https://www.akersolutions.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "al-seer-marine",
+  "name": "Al Seer Marine",
+  "url": "https://alseermarine.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "black-veatch",
+  "name": "Black & Veatch",
+  "url": "https://www.bv.com/en-US/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "bureau-veritas",
+  "name": "Bureau Veritas",
+  "url": "https://group.bureauveritas.com/careers/grow-our-people/career-and-leadership-development",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "clarion-events",
+  "name": "Clarion Events",
+  "url": "https://clarionevents.com/careers/career-paths",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dxc-technology",
+  "name": "DXC Technology",
+  "url": "https://careers.dxc.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "daiichi-sankyo",
+  "name": "Daiichi Sankyo",
+  "url": "https://www.daiichisankyo.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dubizzle-group",
+  "name": "Dubizzle Group",
+  "url": "https://www.dubizzlegroup.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "efg-hermes-uae",
+  "name": "EFG Hermes UAE",
+  "url": "https://careers.efghldg.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-glass",
+  "name": "Emirates Glass",
+  "url": "https://emiratesglass.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hitachi-energy",
+  "name": "Hitachi Energy",
+  "url": "https://www.hitachienergy.com/careers/open-jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hotpack-global",
+  "name": "Hotpack Global",
+  "url": "https://www.hotpackglobal.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "lg-electronics",
+  "name": "LG Electronics",
+  "url": "https://lge-careers.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "national-bonds",
+  "name": "National Bonds",
+  "url": "https://nationalbonds.ae/join-us",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "pinsent-masons",
+  "name": "Pinsent Masons",
+  "url": "https://www.pinsentmasons.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rtx-raytheon",
+  "name": "RTX (Raytheon)",
+  "url": "https://careers.rtx.com/global/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rabdan-academy",
+  "name": "Rabdan Academy",
+  "url": "https://www.ra.ac.ae/en/work-with-us",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sanad-aerotech",
+  "name": "Sanad Aerotech",
+  "url": "https://www.sanad.ae/sanad/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "shelf-drilling",
+  "name": "Shelf Drilling",
+  "url": "https://www.shelfdrilling.com/careers/why-work-for-us/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "takaful-emarat",
+  "name": "Takaful Emarat",
+  "url": "https://takafulemarat.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "al-ramz-capital",
+  "name": "Al Ramz Capital",
+  "url": "https://www.alramz.ae/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "al-tayer-motors",
+  "name": "Al Tayer Motors",
+  "url": "https://altayer.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "beckman-coulter",
+  "name": "Beckman Coulter",
+  "url": "https://jobs.danaher.com/global/en/beckman-coulter-diagnostics",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "brunswick-group",
+  "name": "Brunswick Group",
+  "url": "https://www.brunswickgroup.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "cms-middle-east",
+  "name": "CMS Middle East",
+  "url": "https://cms.law/en/int/job-opportunities",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "db-schenker-uae",
+  "name": "DB Schenker UAE",
+  "url": "https://www.dsv.com/en/careers/job-openings",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "damen-shipyards",
+  "name": "Damen Shipyards",
+  "url": "https://career.damen.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dentsply-sirona",
+  "name": "Dentsply Sirona",
+  "url": "https://www.dentsplysirona.com/en-us/company/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "falcon-aviation",
+  "name": "Falcon Aviation",
+  "url": "https://www.falconaviation.ae/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "jgc-corporation",
+  "name": "JGC Corporation",
+  "url": "https://www.jgc.com/jp/recruit/career/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "lockheed-martin",
+  "name": "Lockheed Martin",
+  "url": "https://lockheedmartin.eightfold.ai/careers?start=0&pid=996477576363&sort_by=timestamp",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mubadala-energy",
+  "name": "Mubadala Energy",
+  "url": "https://mubadalaenergy.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "orange-business",
+  "name": "Orange Business",
+  "url": "https://orange.jobs/gb/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sky-news-arabia",
+  "name": "Sky News Arabia",
+  "url": "https://careers.skynewsarabia.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "tawazun-council",
+  "name": "Tawazun Council",
+  "url": "https://www.tawazun.gov.ae/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "the-entertainer",
+  "name": "The Entertainer",
+  "url": "https://www.theentertainerme.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "weber-shandwick",
+  "name": "Weber Shandwick",
+  "url": "https://webershandwick.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "align-technology",
+  "name": "Align Technology",
+  "url": "https://jobs.aligntech.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "amana-healthcare",
+  "name": "Amana Healthcare",
+  "url": "https://amanahealthcare.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dun-bradstreet",
+  "name": "Dun & Bradstreet",
+  "url": "https://www.dnb.com/en-us/about/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "fleishmanhillard",
+  "name": "FleishmanHillard",
+  "url": "https://fleishmanhillard.com/join-us/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "frost-sullivan",
+  "name": "Frost & Sullivan",
+  "url": "https://www.frost.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "gate-gourmet-uae",
+  "name": "Gate Gourmet UAE",
+  "url": "https://gategroup.wd3.myworkdayjobs.com/GateGroup_External_Careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hadef-partners",
+  "name": "Hadef & Partners",
+  "url": "https://hadefpartners.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "jebel-ali-school",
+  "name": "Jebel Ali School",
+  "url": "https://careers.taaleem.ae/en/job-search-results/?keyword=&job_city=ae,4,0&trigger=company_name&company_name=Jebel%20Ali%20School",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "latham-watkins",
+  "name": "Latham & Watkins",
+  "url": "https://www.lwcareers.com/en/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "lloyd-s-register",
+  "name": "Lloyd's Register",
+  "url": "https://www.lr.org/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mubadala-capital",
+  "name": "Mubadala Capital",
+  "url": "https://www.mubadalacapital.ae/culture-and-careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "northrop-grumman",
+  "name": "Northrop Grumman",
+  "url": "https://www.northropgrumman.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "occidental-oxy",
+  "name": "Occidental (Oxy)",
+  "url": "https://www.oxy.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "port-of-fujairah",
+  "name": "Port of Fujairah",
+  "url": "https://fujairahport.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "avis-budget-group",
+  "name": "Avis Budget Group",
+  "url": "https://www.avisbudgetgroup.jobs/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "boston-scientific",
+  "name": "Boston Scientific",
+  "url": "https://www.bostonscientific.com/en-US/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "broadcom-vmware",
+  "name": "Broadcom (VMware)",
+  "url": "https://www.broadcom.com/company/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "burns-mcdonnell",
+  "name": "Burns & McDonnell",
+  "url": "https://www.burnsmcd.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "elsewedy-electric",
+  "name": "Elsewedy Electric",
+  "url": "https://careers.elsewedyelectric.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "l-e-k-consulting",
+  "name": "L.E.K. Consulting",
+  "url": "https://www.lek.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "samana-developers",
+  "name": "Samana Developers",
+  "url": "https://www.samanadevelopers.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "simmons-simmons",
+  "name": "Simmons & Simmons",
+  "url": "https://www.simmons-simmons.com/en/about-us/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "tecnicas-reunidas",
+  "name": "Tecnicas Reunidas",
+  "url": "https://www.tecnicasreunidas.es/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "trowers-hamlins",
+  "name": "Trowers & Hamlins",
+  "url": "https://www.trowers.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "al-fardan-exchange",
+  "name": "Al Fardan Exchange",
+  "url": "https://alfardanexchange.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "al-mawakeb-schools",
+  "name": "Al Mawakeb Schools",
+  "url": "https://careers.amsi.ae/home",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "alliance-insurance",
+  "name": "Alliance Insurance",
+  "url": "https://www.alliance.ae/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "crescent-petroleum",
+  "name": "Crescent Petroleum",
+  "url": "https://careers.crescent.ae/CrescentPetroleum/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-taxi-company",
+  "name": "Dubai Taxi Company",
+  "url": "https://www.dubaitaxi.ae/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-transport",
+  "name": "Emirates Transport",
+  "url": "https://et.ae/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "exclusive-networks",
+  "name": "Exclusive Networks",
+  "url": "https://www.exclusive-networks.com/company/careers/vacancies",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "intuitive-surgical",
+  "name": "Intuitive Surgical",
+  "url": "https://careers.intuitive.com/en/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "motorola-solutions",
+  "name": "Motorola Solutions",
+  "url": "https://www.motorolasolutions.com/en_us/about/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "national-ambulance",
+  "name": "National Ambulance",
+  "url": "https://careers.nationalambulance.ae/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "stephenson-harwood",
+  "name": "Stephenson Harwood",
+  "url": "https://www.stephensonharwood.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "trane-technologies",
+  "name": "Trane Technologies",
+  "url": "https://careers.tranetechnologies.com/global/en/home",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "zydus-lifesciences",
+  "name": "Zydus Lifesciences",
+  "url": "https://www.zyduslife.com/career.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "alpha-dhabi-holding",
+  "name": "Alpha Dhabi Holding",
+  "url": "https://alphadhabi.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "booz-allen-hamilton",
+  "name": "Booz Allen Hamilton",
+  "url": "https://careers.boozallen.com/jobs/search",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "british-airways-uae",
+  "name": "British Airways UAE",
+  "url": "https://careers.ba.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "chiyoda-corporation",
+  "name": "Chiyoda Corporation",
+  "url": "https://www.chiyodacorp.com/jp/recruit/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "cranleigh-abu-dhabi",
+  "name": "Cranleigh Abu Dhabi",
+  "url": "https://fa-ewnp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "flash-entertainment",
+  "name": "Flash Entertainment",
+  "url": "https://www.ethara.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "jacky-s-electronics",
+  "name": "Jacky's Electronics",
+  "url": "https://www.jackys.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mammoet-middle-east",
+  "name": "Mammoet Middle East",
+  "url": "https://jobs.mammoet.com/careers-home/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ministry-of-economy",
+  "name": "Ministry of Economy",
+  "url": "https://www.moet.gov.ae/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mitsubishi-electric",
+  "name": "Mitsubishi Electric",
+  "url": "https://www.mitsubishielectric.com/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "repton-school-dubai",
+  "name": "Repton School Dubai",
+  "url": "https://www.reptondubai.org/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rockwell-automation",
+  "name": "Rockwell Automation",
+  "url": "https://www.rockwellautomation.com/en-us/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "samsung-electronics",
+  "name": "Samsung Electronics",
+  "url": "https://www.samsung.com/us/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-expo-centre",
+  "name": "Sharjah Expo Centre",
+  "url": "https://expo-centre.ae/career/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sterling-and-wilson",
+  "name": "Sterling and Wilson",
+  "url": "https://www.sterlingandwilson.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "tuv-sud-middle-east",
+  "name": "TUV SUD Middle East",
+  "url": "https://www.tuvsud.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "edwards-lifesciences",
+  "name": "Edwards Lifesciences",
+  "url": "https://www.edwards.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "eversheds-sutherland",
+  "name": "Eversheds Sutherland",
+  "url": "https://www.eversheds-sutherland.com/en/global/careers/careers-page",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "execujet-middle-east",
+  "name": "ExecuJet Middle East",
+  "url": "https://www.execujet.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "gulf-marine-services",
+  "name": "Gulf Marine Services",
+  "url": "https://www.gmsplc.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "healthpoint-hospital",
+  "name": "Healthpoint Hospital",
+  "url": "https://healthpoint.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rhenus-logistics-uae",
+  "name": "Rhenus Logistics UAE",
+  "url": "https://www.rhenus.group/career/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "wall-street-exchange",
+  "name": "Wall Street Exchange",
+  "url": "https://www.wallstreet.ae/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "city-university-ajman",
+  "name": "City University Ajman",
+  "url": "https://cu.ac.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-red-crescent",
+  "name": "Emirates Red Crescent",
+  "url": "https://www.emiratesrc.ae/about-us/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "m-lnlycke-health-care",
+  "name": "M\u00f6lnlycke Health Care",
+  "url": "https://www.molnlycke.com/corporate/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "norton-rose-fulbright",
+  "name": "Norton Rose Fulbright",
+  "url": "https://www.nortonrosefulbright.com/en-us/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rider-levett-bucknall",
+  "name": "Rider Levett Bucknall",
+  "url": "https://www.rlb.com/americas/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "strategy-middle-east",
+  "name": "Strategy& Middle East",
+  "url": "https://www.strategyand.pwc.com/gx/en/join-us.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "brighton-college-dubai",
+  "name": "Brighton College Dubai",
+  "url": "https://www.tes.com/jobs/employer/brighton-college-dubai-1167203",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-shipping-line",
+  "name": "Emirates Shipping Line",
+  "url": "https://www.emiratesline.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "habib-bank-limited-uae",
+  "name": "Habib Bank Limited UAE",
+  "url": "https://www.hblpeople.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-art-foundation",
+  "name": "Sharjah Art Foundation",
+  "url": "https://www.sharjahart.org/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "gulf-navigation-holding",
+  "name": "Gulf Navigation Holding",
+  "url": "https://www.gulfnav.com/Career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "american-school-of-dubai",
+  "name": "American School of Dubai",
+  "url": "https://www.asdubai.org/work-at-asd",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "british-american-tobacco",
+  "name": "British American Tobacco",
+  "url": "https://careers.bat.com/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dr-reddy-s-laboratories",
+  "name": "Dr. Reddy's Laboratories",
+  "url": "https://careers.drreddys.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-flight-catering",
+  "name": "Emirates Flight Catering",
+  "url": "https://iacsey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-health-services",
+  "name": "Emirates Health Services",
+  "url": "https://www.ehs.gov.ae/en/about-us/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "glenmark-pharmaceuticals",
+  "name": "Glenmark Pharmaceuticals",
+  "url": "https://career.glenmarkpharma.com/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mag-property-development",
+  "name": "MAG Property Development",
+  "url": "https://www.mag.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "university-of-khorfakkan",
+  "name": "University of Khorfakkan",
+  "url": "https://www.ukf.ac.ae/en/jobs/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "canadian-university-dubai",
+  "name": "Canadian University Dubai",
+  "url": "https://careers.cud.ac.ae/#en/sites/CX_1",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "charles-russell-speechlys",
+  "name": "Charles Russell Speechlys",
+  "url": "https://www.charlesrussellspeechlys.com/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "emirates-development-bank",
+  "name": "Emirates Development Bank",
+  "url": "https://www.edb.gov.ae/about-us/jobs-vacancies",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-airport-authority",
+  "name": "Sharjah Airport Authority",
+  "url": "https://www.sharjahairport.ae/en/career/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "inchcape-shipping-services",
+  "name": "Inchcape Shipping Services",
+  "url": "https://www.iss-shipping.com/about/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "kintetsu-world-express-uae",
+  "name": "Kintetsu World Express UAE",
+  "url": "https://www.kwe.com/career/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "national-general-insurance",
+  "name": "National General Insurance",
+  "url": "https://ngi.ae/contact-us/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-media-city-shams",
+  "name": "Sharjah Media City (Shams)",
+  "url": "https://www.shams.ae/community/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ministry-of-foreign-affairs",
+  "name": "Ministry of Foreign Affairs",
+  "url": "https://www.mofa.gov.ae/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "mitsubishi-heavy-industries",
+  "name": "Mitsubishi Heavy Industries",
+  "url": "https://www.mhi.com/recruit/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "national-bank-of-kuwait-uae",
+  "name": "National Bank of Kuwait UAE",
+  "url": "https://www.nbk.com/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ocean-network-express-one",
+  "name": "Ocean Network Express (ONE)",
+  "url": "https://www.one-line.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "philip-morris-international",
+  "name": "Philip Morris International",
+  "url": "https://www.pmi.com/careers/overview",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-cooperative-society",
+  "name": "Sharjah Cooperative Society",
+  "url": "https://career2.successfactors.eu/career?company=sharjahcoo&site=VjItekU2b1RxaW9LendsLzhXY0dPZ1cxUT09",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "abu-dhabi-investment-council",
+  "name": "Abu Dhabi Investment Council",
+  "url": "https://www.adic.ae/en/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "canadian-specialist-hospital",
+  "name": "Canadian Specialist Hospital",
+  "url": "https://csh.ae/job",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "swiss-belhotel-international",
+  "name": "Swiss-Belhotel International",
+  "url": "https://www.swiss-belhotel.com/careers?p=base&c=property-select&lg=en-US",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "al-buhaira-national-insurance",
+  "name": "Al Buhaira National Insurance",
+  "url": "https://www.albuhaira.com/career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "moorfields-eye-hospital-dubai",
+  "name": "Moorfields Eye Hospital Dubai",
+  "url": "https://moorfields.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "umm-al-quwain-free-trade-zone",
+  "name": "Umm Al Quwain Free Trade Zone",
+  "url": "https://uaqftz.gov.ae/career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "abu-dhabi-school-of-management",
+  "name": "Abu Dhabi School of Management",
+  "url": "https://erp.adsm.ac.ae/jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-supply-authority-dusup",
+  "name": "Dubai Supply Authority (DUSUP)",
+  "url": "https://www.dusup.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-healthcare-city-authority",
+  "name": "Dubai Healthcare City Authority",
+  "url": "https://www.dhcc.ae/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "institute-of-applied-technology",
+  "name": "Institute of Applied Technology",
+  "url": "https://www.iat.ac.ae/employment/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "technology-innovation-institute",
+  "name": "Technology Innovation Institute",
+  "url": "https://careers.tii.ae/us/en",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "al-hamra-real-estate-development",
+  "name": "Al Hamra Real Estate Development",
+  "url": "https://alhamra.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "general-civil-aviation-authority",
+  "name": "General Civil Aviation Authority",
+  "url": "https://elon.fa.em8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sheikh-zayed-grand-mosque-centre",
+  "name": "Sheikh Zayed Grand Mosque Centre",
+  "url": "https://szgmc.gov.ae/en/Career",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "world-food-programme-dubai-hub",
+  "name": "World Food Programme (Dubai hub)",
+  "url": "https://www.wfp.org/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "bsa-ahmad-bin-hezeem-associates",
+  "name": "BSA Ahmad Bin Hezeem & Associates",
+  "url": "https://bsalaw.com/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-publishing-city-free-zone",
+  "name": "Sharjah Publishing City Free Zone",
+  "url": "https://www.spcfz.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "hult-international-business-school",
+  "name": "Hult International Business School",
+  "url": "https://www.hult.edu/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sp-jain-school-of-global-management",
+  "name": "SP Jain School of Global Management",
+  "url": "https://www.spjain.org/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "community-development-authority-dubai",
+  "name": "Community Development Authority Dubai",
+  "url": "https://www.cda.gov.ae/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "ajman-chamber-of-commerce-and-industry",
+  "name": "Ajman Chamber of Commerce and Industry",
+  "url": "https://www.ajmanchamber.ae/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "dubai-integrated-economic-zones-diez",
+  "name": "Dubai Integrated Economic Zones (DIEZ)",
+  "url": "https://iaatey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/DIEZA/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "imperial-college-london-diabetes-centre",
+  "name": "Imperial College London Diabetes Centre",
+  "url": "https://icldec.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "khalifa-fund-for-enterprise-development",
+  "name": "Khalifa Fund for Enterprise Development",
+  "url": "https://www.khalifafund.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "national-energy-services-reunited-nesr",
+  "name": "National Energy Services Reunited (NESR)",
+  "url": "https://www.nesr.com/careers.html",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "awnic-alliance-wealth-national-insurance",
+  "name": "AWNIC (Alliance Wealth National Insurance)",
+  "url": "https://www.awnic.com/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "rak-medical-and-health-sciences-university",
+  "name": "RAK Medical and Health Sciences University",
+  "url": "https://www.rakmhsu.ac.ae/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "swiss-international-scientific-school-dubai",
+  "name": "Swiss International Scientific School Dubai",
+  "url": "https://www.nordangliaeducation.com/sisd-dubai/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "abu-dhabi-department-of-economic-development",
+  "name": "Abu Dhabi Department of Economic Development",
+  "url": "https://www.added.gov.ae/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "international-center-for-biosaline-agriculture",
+  "name": "International Center for Biosaline Agriculture",
+  "url": "https://www.biosaline.org/about-icba/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-research-technology-and-innovation-park",
+  "name": "Sharjah Research Technology and Innovation Park",
+  "url": "https://srtip.ae/careers/",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "sharjah-airport-international-free-zone-saif-zone",
+  "name": "Sharjah Airport International Free Zone (SAIF Zone)",
+  "url": "https://www.saif-zone.com/en/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "zayed-higher-organization-for-people-of-determination",
+  "name": "Zayed Higher Organization for People of Determination",
+  "url": "https://www.za.gov.ae/Careers-page",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "telecommunications-and-digital-government-regulatory-authority",
+  "name": "Telecommunications and Digital Government Regulatory Authority",
+  "url": "https://tdra.gov.ae/en/Pages/careers",
+  "ats": "",
+  "sector": "Other",
+  "needs_review": true
+ },
+ {
+  "id": "general-directorate-of-residency-and-foreigners-affairs-dubai-gdrfa",
+  "name": "General Directorate of Residency and Foreigners Affairs Dubai (GDRFA)",
+  "url": "https://gdrfad.gov.ae/en/dubai-careers",
+  "ats": "",
+  "sector": "Other",
   "needs_review": true
  }
 ]
